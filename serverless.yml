@@ -1,0 +1,69 @@
+type: rest-api-app
+
+custom:
+  defaultRegion: us-east-1
+  defaultStage: test
+  dynamoTable:
+    tblName: naics
+    tblPartKey: NAICSYear
+    tblSortKey: CodeLenAndCode
+
+components:
+  naicsDB:
+    type: aws-dynamodb
+    inputs:
+      region: us-east-1
+      tables:
+        - name: ${self:custom.dynamoTable.tblName}
+          hashKey: ${self:custom.dynamoTable.tblPartKey}
+          rangeKey: ${self:custom.dynamoTable.tblSortKey}
+          schema: 
+            NAICSYear: string
+            CodeLenAndCode: string
+            NAICSCode: string
+            Title: string
+            CodeLen: number
+            Prefix2: string
+            Prefix3: string
+            Prefix4: string
+            Prefix5: string
+            SeqNum: number
+          options:
+            timestamps: true
+  getNAICSCode:
+    type: aws-lambda
+    inputs:
+      memory: 128
+      timeout: 10
+      handler: naics.get
+      root: ./code
+      env:
+        REGION: ${self:custom.defaultRegion}
+        TABLE_NAME: ${self:custom.dynamoTable.tblName}
+        TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
+        TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+  listNAICSCodes:
+    type: aws-lambda
+    inputs:
+      memory: 128
+      timeout: 10
+      handler: naics.list
+      root: ./code
+      env:
+        REGION: ${self:custom.defaultRegion}
+        TABLE_NAME: ${self:custom.dynamoTable.tblName}
+        TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
+        TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+  naicsApi:
+    type: rest-api
+    inputs:
+      gateway: aws-apigateway
+      routes:
+        /naics/get/{year}/{code}:
+          get:
+            function: ${getNAICSCode}
+            cors: true
+        /naics/list/{year}/{code}:
+          get:
+            function: ${listNAICSCodes}
+            cors: true

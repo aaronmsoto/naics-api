@@ -1,0 +1,2197 @@
+NAICSYear	CodeLenAndCode	NAICSCode	Title	CodeLen	Prefix2	Prefix3	Prefix4	Prefix5	SeqNum
+2017	2-11	11	"Agriculture, Forestry, Fishing and Hunting"	2	11				1
+2017	3-111	111	Crop Production	3	11	111			2
+2017	4-1111	1111	Oilseed and Grain Farming	4	11	111	1111		3
+2017	5-11111	11111	Soybean Farming	5	11	111	1111	11111	4
+2017	6-111110	111110	Soybean Farming	6	11	111	1111	11111	5
+2017	5-11112	11112	Oilseed (except Soybean) Farming	5	11	111	1111	11112	6
+2017	6-111120	111120	Oilseed (except Soybean) Farming 	6	11	111	1111	11112	7
+2017	5-11113	11113	Dry Pea and Bean Farming	5	11	111	1111	11113	8
+2017	6-111130	111130	Dry Pea and Bean Farming 	6	11	111	1111	11113	9
+2017	5-11114	11114	Wheat Farming	5	11	111	1111	11114	10
+2017	6-111140	111140	Wheat Farming	6	11	111	1111	11114	11
+2017	5-11115	11115	Corn Farming	5	11	111	1111	11115	12
+2017	6-111150	111150	Corn Farming 	6	11	111	1111	11115	13
+2017	5-11116	11116	Rice Farming	5	11	111	1111	11116	14
+2017	6-111160	111160	Rice Farming	6	11	111	1111	11116	15
+2017	5-11119	11119	Other Grain Farming	5	11	111	1111	11119	16
+2017	6-111191	111191	Oilseed and Grain Combination Farming 	6	11	111	1111	11119	17
+2017	6-111199	111199	All Other Grain Farming 	6	11	111	1111	11119	18
+2017	4-1112	1112	Vegetable and Melon Farming	4	11	111	1112		19
+2017	5-11121	11121	Vegetable and Melon Farming	5	11	111	1112	11121	20
+2017	6-111211	111211	Potato Farming 	6	11	111	1112	11121	21
+2017	6-111219	111219	Other Vegetable (except Potato) and Melon Farming 	6	11	111	1112	11121	22
+2017	4-1113	1113	Fruit and Tree Nut Farming	4	11	111	1113		23
+2017	5-11131	11131	Orange Groves	5	11	111	1113	11131	24
+2017	6-111310	111310	Orange Groves	6	11	111	1113	11131	25
+2017	5-11132	11132	Citrus (except Orange) Groves	5	11	111	1113	11132	26
+2017	6-111320	111320	Citrus (except Orange) Groves 	6	11	111	1113	11132	27
+2017	5-11133	11133	Noncitrus Fruit and Tree Nut Farming	5	11	111	1113	11133	28
+2017	6-111331	111331	Apple Orchards 	6	11	111	1113	11133	29
+2017	6-111332	111332	Grape Vineyards 	6	11	111	1113	11133	30
+2017	6-111333	111333	Strawberry Farming 	6	11	111	1113	11133	31
+2017	6-111334	111334	Berry (except Strawberry) Farming 	6	11	111	1113	11133	32
+2017	6-111335	111335	Tree Nut Farming 	6	11	111	1113	11133	33
+2017	6-111336	111336	Fruit and Tree Nut Combination Farming 	6	11	111	1113	11133	34
+2017	6-111339	111339	Other Noncitrus Fruit Farming 	6	11	111	1113	11133	35
+2017	4-1114	1114	"Greenhouse, Nursery, and Floriculture Production"	4	11	111	1114		36
+2017	5-11141	11141	Food Crops Grown Under Cover	5	11	111	1114	11141	37
+2017	6-111411	111411	Mushroom Production 	6	11	111	1114	11141	38
+2017	6-111419	111419	Other Food Crops Grown Under Cover 	6	11	111	1114	11141	39
+2017	5-11142	11142	Nursery and Floriculture Production	5	11	111	1114	11142	40
+2017	6-111421	111421	Nursery and Tree Production 	6	11	111	1114	11142	41
+2017	6-111422	111422	Floriculture Production 	6	11	111	1114	11142	42
+2017	4-1119	1119	Other Crop Farming	4	11	111	1119		43
+2017	5-11191	11191	Tobacco Farming	5	11	111	1119	11191	44
+2017	6-111910	111910	Tobacco Farming	6	11	111	1119	11191	45
+2017	5-11192	11192	Cotton Farming	5	11	111	1119	11192	46
+2017	6-111920	111920	Cotton Farming	6	11	111	1119	11192	47
+2017	5-11193	11193	Sugarcane Farming	5	11	111	1119	11193	48
+2017	6-111930	111930	Sugarcane Farming	6	11	111	1119	11193	49
+2017	5-11194	11194	Hay Farming	5	11	111	1119	11194	50
+2017	6-111940	111940	Hay Farming 	6	11	111	1119	11194	51
+2017	5-11199	11199	All Other Crop Farming	5	11	111	1119	11199	52
+2017	6-111991	111991	Sugar Beet Farming 	6	11	111	1119	11199	53
+2017	6-111992	111992	Peanut Farming 	6	11	111	1119	11199	54
+2017	6-111998	111998	All Other Miscellaneous Crop Farming 	6	11	111	1119	11199	55
+2017	3-112	112	Animal Production and Aquaculture	3	11	112			56
+2017	4-1121	1121	Cattle Ranching and Farming	4	11	112	1121		57
+2017	5-11211	11211	"Beef Cattle Ranching and Farming, including Feedlots"	5	11	112	1121	11211	58
+2017	6-112111	112111	Beef Cattle Ranching and Farming 	6	11	112	1121	11211	59
+2017	6-112112	112112	Cattle Feedlots 	6	11	112	1121	11211	60
+2017	5-11212	11212	Dairy Cattle and Milk Production	5	11	112	1121	11212	61
+2017	6-112120	112120	Dairy Cattle and Milk Production	6	11	112	1121	11212	62
+2017	5-11213	11213	Dual-Purpose Cattle Ranching and Farming	5	11	112	1121	11213	63
+2017	6-112130	112130	Dual-Purpose Cattle Ranching and Farming 	6	11	112	1121	11213	64
+2017	4-1122	1122	Hog and Pig Farming	4	11	112	1122		65
+2017	5-11221	11221	Hog and Pig Farming	5	11	112	1122	11221	66
+2017	6-112210	112210	Hog and Pig Farming 	6	11	112	1122	11221	67
+2017	4-1123	1123	Poultry and Egg Production	4	11	112	1123		68
+2017	5-11231	11231	Chicken Egg Production	5	11	112	1123	11231	69
+2017	6-112310	112310	Chicken Egg Production 	6	11	112	1123	11231	70
+2017	5-11232	11232	Broilers and Other Meat Type Chicken Production	5	11	112	1123	11232	71
+2017	6-112320	112320	Broilers and Other Meat Type Chicken Production 	6	11	112	1123	11232	72
+2017	5-11233	11233	Turkey Production	5	11	112	1123	11233	73
+2017	6-112330	112330	Turkey Production	6	11	112	1123	11233	74
+2017	5-11234	11234	Poultry Hatcheries	5	11	112	1123	11234	75
+2017	6-112340	112340	Poultry Hatcheries	6	11	112	1123	11234	76
+2017	5-11239	11239	Other Poultry Production	5	11	112	1123	11239	77
+2017	6-112390	112390	Other Poultry Production 	6	11	112	1123	11239	78
+2017	4-1124	1124	Sheep and Goat Farming	4	11	112	1124		79
+2017	5-11241	11241	Sheep Farming	5	11	112	1124	11241	80
+2017	6-112410	112410	Sheep Farming	6	11	112	1124	11241	81
+2017	5-11242	11242	Goat Farming	5	11	112	1124	11242	82
+2017	6-112420	112420	Goat Farming	6	11	112	1124	11242	83
+2017	4-1125	1125	Aquaculture	4	11	112	1125		84
+2017	5-11251	11251	Aquaculture	5	11	112	1125	11251	85
+2017	6-112511	112511	Finfish Farming and Fish Hatcheries 	6	11	112	1125	11251	86
+2017	6-112512	112512	Shellfish Farming 	6	11	112	1125	11251	87
+2017	6-112519	112519	Other Aquaculture 	6	11	112	1125	11251	88
+2017	4-1129	1129	Other Animal Production	4	11	112	1129		89
+2017	5-11291	11291	Apiculture	5	11	112	1129	11291	90
+2017	6-112910	112910	Apiculture	6	11	112	1129	11291	91
+2017	5-11292	11292	Horses and Other Equine Production	5	11	112	1129	11292	92
+2017	6-112920	112920	Horses and Other Equine Production	6	11	112	1129	11292	93
+2017	5-11293	11293	Fur-Bearing Animal and Rabbit Production	5	11	112	1129	11293	94
+2017	6-112930	112930	Fur-Bearing Animal and Rabbit Production	6	11	112	1129	11293	95
+2017	5-11299	11299	All Other Animal Production	5	11	112	1129	11299	96
+2017	6-112990	112990	All Other Animal Production 	6	11	112	1129	11299	97
+2017	3-113	113	Forestry and Logging	3	11	113			98
+2017	4-1131	1131	Timber Tract Operations	4	11	113	1131		99
+2017	5-11311	11311	Timber Tract Operations	5	11	113	1131	11311	100
+2017	6-113110	113110	Timber Tract Operations	6	11	113	1131	11311	101
+2017	4-1132	1132	Forest Nurseries and Gathering of Forest Products	4	11	113	1132		102
+2017	5-11321	11321	Forest Nurseries and Gathering of Forest Products	5	11	113	1132	11321	103
+2017	6-113210	113210	Forest Nurseries and Gathering of Forest Products 	6	11	113	1132	11321	104
+2017	4-1133	1133	Logging	4	11	113	1133		105
+2017	5-11331	11331	Logging	5	11	113	1133	11331	106
+2017	6-113310	113310	Logging 	6	11	113	1133	11331	107
+2017	3-114	114	"Fishing, Hunting and Trapping"	3	11	114			108
+2017	4-1141	1141	Fishing	4	11	114	1141		109
+2017	5-11411	11411	Fishing	5	11	114	1141	11411	110
+2017	6-114111	114111	Finfish Fishing 	6	11	114	1141	11411	111
+2017	6-114112	114112	Shellfish Fishing 	6	11	114	1141	11411	112
+2017	6-114119	114119	Other Marine Fishing 	6	11	114	1141	11411	113
+2017	4-1142	1142	Hunting and Trapping	4	11	114	1142		114
+2017	5-11421	11421	Hunting and Trapping	5	11	114	1142	11421	115
+2017	6-114210	114210	Hunting and Trapping	6	11	114	1142	11421	116
+2017	3-115	115	Support Activities for Agriculture and Forestry	3	11	115			117
+2017	4-1151	1151	Support Activities for Crop Production	4	11	115	1151		118
+2017	5-11511	11511	Support Activities for Crop Production	5	11	115	1151	11511	119
+2017	6-115111	115111	Cotton Ginning 	6	11	115	1151	11511	120
+2017	6-115112	115112	"Soil Preparation, Planting, and Cultivating "	6	11	115	1151	11511	121
+2017	6-115113	115113	"Crop Harvesting, Primarily by Machine "	6	11	115	1151	11511	122
+2017	6-115114	115114	Postharvest Crop Activities (except Cotton Ginning) 	6	11	115	1151	11511	123
+2017	6-115115	115115	Farm Labor Contractors and Crew Leaders 	6	11	115	1151	11511	124
+2017	6-115116	115116	Farm Management Services 	6	11	115	1151	11511	125
+2017	4-1152	1152	Support Activities for Animal Production	4	11	115	1152		126
+2017	5-11521	11521	Support Activities for Animal Production	5	11	115	1152	11521	127
+2017	6-115210	115210	Support Activities for Animal Production	6	11	115	1152	11521	128
+2017	4-1153	1153	Support Activities for Forestry	4	11	115	1153		129
+2017	5-11531	11531	Support Activities for Forestry	5	11	115	1153	11531	130
+2017	6-115310	115310	Support Activities for Forestry	6	11	115	1153	11531	131
+2017	2-21	21	"Mining, Quarrying, and Oil and Gas Extraction"	2	21				132
+2017	3-211	211	Oil and Gas Extraction	3	21	211			133
+2017	4-2111	2111	Oil and Gas Extraction	4	21	211	2111		134
+2017	5-21112	21112	Crude Petroleum Extraction 	5	21	211	2111	21112	135
+2017	6-211120	211120	Crude Petroleum Extraction 	6	21	211	2111	21112	136
+2017	5-21113	21113	Natural Gas Extraction 	5	21	211	2111	21113	137
+2017	6-211130	211130	Natural Gas Extraction 	6	21	211	2111	21113	138
+2017	3-212	212	Mining (except Oil and Gas)	3	21	212			139
+2017	4-2121	2121	Coal Mining	4	21	212	2121		140
+2017	5-21211	21211	Coal Mining	5	21	212	2121	21211	141
+2017	6-212111	212111	Bituminous Coal and Lignite Surface Mining 	6	21	212	2121	21211	142
+2017	6-212112	212112	Bituminous Coal Underground Mining 	6	21	212	2121	21211	143
+2017	6-212113	212113	Anthracite Mining 	6	21	212	2121	21211	144
+2017	4-2122	2122	Metal Ore Mining	4	21	212	2122		145
+2017	5-21221	21221	Iron Ore Mining	5	21	212	2122	21221	146
+2017	6-212210	212210	Iron Ore Mining	6	21	212	2122	21221	147
+2017	5-21222	21222	Gold Ore and Silver Ore Mining	5	21	212	2122	21222	148
+2017	6-212221	212221	Gold Ore Mining 	6	21	212	2122	21222	149
+2017	6-212222	212222	Silver Ore Mining 	6	21	212	2122	21222	150
+2017	5-21223	21223	"Copper, Nickel, Lead, and Zinc Mining"	5	21	212	2122	21223	151
+2017	6-212230	212230	"Copper, Nickel, Lead, and Zinc Mining "	6	21	212	2122	21223	152
+2017	5-21229	21229	Other Metal Ore Mining	5	21	212	2122	21229	153
+2017	6-212291	212291	Uranium-Radium-Vanadium Ore Mining 	6	21	212	2122	21229	154
+2017	6-212299	212299	All Other Metal Ore Mining 	6	21	212	2122	21229	155
+2017	4-2123	2123	Nonmetallic Mineral Mining and Quarrying	4	21	212	2123		156
+2017	5-21231	21231	Stone Mining and Quarrying	5	21	212	2123	21231	157
+2017	6-212311	212311	Dimension Stone Mining and Quarrying 	6	21	212	2123	21231	158
+2017	6-212312	212312	Crushed and Broken Limestone Mining and Quarrying 	6	21	212	2123	21231	159
+2017	6-212313	212313	Crushed and Broken Granite Mining and Quarrying 	6	21	212	2123	21231	160
+2017	6-212319	212319	Other Crushed and Broken Stone Mining and Quarrying 	6	21	212	2123	21231	161
+2017	5-21232	21232	"Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying"	5	21	212	2123	21232	162
+2017	6-212321	212321	Construction Sand and Gravel Mining 	6	21	212	2123	21232	163
+2017	6-212322	212322	Industrial Sand Mining 	6	21	212	2123	21232	164
+2017	6-212324	212324	Kaolin and Ball Clay Mining 	6	21	212	2123	21232	165
+2017	6-212325	212325	Clay and Ceramic and Refractory Minerals Mining 	6	21	212	2123	21232	166
+2017	5-21239	21239	Other Nonmetallic Mineral Mining and Quarrying	5	21	212	2123	21239	167
+2017	6-212391	212391	"Potash, Soda, and Borate Mineral Mining "	6	21	212	2123	21239	168
+2017	6-212392	212392	Phosphate Rock Mining 	6	21	212	2123	21239	169
+2017	6-212393	212393	Other Chemical and Fertilizer Mineral Mining 	6	21	212	2123	21239	170
+2017	6-212399	212399	All Other Nonmetallic Mineral Mining 	6	21	212	2123	21239	171
+2017	3-213	213	Support Activities for Mining	3	21	213			172
+2017	4-2131	2131	Support Activities for Mining	4	21	213	2131		173
+2017	5-21311	21311	Support Activities for Mining	5	21	213	2131	21311	174
+2017	6-213111	213111	Drilling Oil and Gas Wells	6	21	213	2131	21311	175
+2017	6-213112	213112	Support Activities for Oil and Gas Operations 	6	21	213	2131	21311	176
+2017	6-213113	213113	Support Activities for Coal Mining 	6	21	213	2131	21311	177
+2017	6-213114	213114	Support Activities for Metal Mining 	6	21	213	2131	21311	178
+2017	6-213115	213115	Support Activities for Nonmetallic Minerals (except Fuels) Mining 	6	21	213	2131	21311	179
+2017	2-22	22	Utilities	2	22				180
+2017	3-221	221	Utilities 	3	22	221			181
+2017	4-2211	2211	"Electric Power Generation, Transmission and Distribution"	4	22	221	2211		182
+2017	5-22111	22111	Electric Power Generation 	5	22	221	2211	22111	183
+2017	6-221111	221111	Hydroelectric Power Generation 	6	22	221	2211	22111	184
+2017	6-221112	221112	Fossil Fuel Electric Power Generation 	6	22	221	2211	22111	185
+2017	6-221113	221113	Nuclear Electric Power Generation 	6	22	221	2211	22111	186
+2017	6-221114	221114	Solar Electric Power Generation 	6	22	221	2211	22111	187
+2017	6-221115	221115	Wind Electric Power Generation 	6	22	221	2211	22111	188
+2017	6-221116	221116	Geothermal Electric Power Generation 	6	22	221	2211	22111	189
+2017	6-221117	221117	Biomass Electric Power Generation 	6	22	221	2211	22111	190
+2017	6-221118	221118	Other Electric Power Generation 	6	22	221	2211	22111	191
+2017	5-22112	22112	"Electric Power Transmission, Control, and Distribution "	5	22	221	2211	22112	192
+2017	6-221121	221121	Electric Bulk Power Transmission and Control 	6	22	221	2211	22112	193
+2017	6-221122	221122	Electric Power Distribution 	6	22	221	2211	22112	194
+2017	4-2212	2212	Natural Gas Distribution 	4	22	221	2212		195
+2017	5-22121	22121	Natural Gas Distribution 	5	22	221	2212	22121	196
+2017	6-221210	221210	Natural Gas Distribution 	6	22	221	2212	22121	197
+2017	4-2213	2213	"Water, Sewage and Other Systems "	4	22	221	2213		198
+2017	5-22131	22131	Water Supply and Irrigation Systems 	5	22	221	2213	22131	199
+2017	6-221310	221310	Water Supply and Irrigation Systems 	6	22	221	2213	22131	200
+2017	5-22132	22132	Sewage Treatment Facilities 	5	22	221	2213	22132	201
+2017	6-221320	221320	Sewage Treatment Facilities 	6	22	221	2213	22132	202
+2017	5-22133	22133	Steam and Air-Conditioning Supply 	5	22	221	2213	22133	203
+2017	6-221330	221330	Steam and Air-Conditioning Supply 	6	22	221	2213	22133	204
+2017	2-23	23	Construction	2	23				205
+2017	3-236	236	Construction of Buildings	3	23	236			206
+2017	4-2361	2361	Residential Building Construction	4	23	236	2361		207
+2017	5-23611	23611	Residential Building Construction	5	23	236	2361	23611	208
+2017	6-236115	236115	New Single-Family Housing Construction (except For-Sale Builders) 	6	23	236	2361	23611	209
+2017	6-236116	236116	New Multifamily Housing Construction (except For-Sale Builders) 	6	23	236	2361	23611	210
+2017	6-236117	236117	New Housing For-Sale Builders 	6	23	236	2361	23611	211
+2017	6-236118	236118	Residential Remodelers 	6	23	236	2361	23611	212
+2017	4-2362	2362	Nonresidential Building Construction	4	23	236	2362		213
+2017	5-23621	23621	Industrial Building Construction	5	23	236	2362	23621	214
+2017	6-236210	236210	Industrial Building Construction 	6	23	236	2362	23621	215
+2017	5-23622	23622	Commercial and Institutional Building Construction	5	23	236	2362	23622	216
+2017	6-236220	236220	Commercial and Institutional Building Construction 	6	23	236	2362	23622	217
+2017	3-237	237	Heavy and Civil Engineering Construction	3	23	237			218
+2017	4-2371	2371	Utility System Construction	4	23	237	2371		219
+2017	5-23711	23711	Water and Sewer Line and Related Structures Construction	5	23	237	2371	23711	220
+2017	6-237110	237110	Water and Sewer Line and Related Structures Construction 	6	23	237	2371	23711	221
+2017	5-23712	23712	Oil and Gas Pipeline and Related Structures Construction	5	23	237	2371	23712	222
+2017	6-237120	237120	Oil and Gas Pipeline and Related Structures Construction 	6	23	237	2371	23712	223
+2017	5-23713	23713	Power and Communication Line and Related Structures Construction	5	23	237	2371	23713	224
+2017	6-237130	237130	Power and Communication Line and Related Structures Construction 	6	23	237	2371	23713	225
+2017	4-2372	2372	Land Subdivision	4	23	237	2372		226
+2017	5-23721	23721	Land Subdivision	5	23	237	2372	23721	227
+2017	6-237210	237210	Land Subdivision 	6	23	237	2372	23721	228
+2017	4-2373	2373	"Highway, Street, and Bridge Construction"	4	23	237	2373		229
+2017	5-23731	23731	"Highway, Street, and Bridge Construction"	5	23	237	2373	23731	230
+2017	6-237310	237310	"Highway, Street, and Bridge Construction "	6	23	237	2373	23731	231
+2017	4-2379	2379	Other Heavy and Civil Engineering Construction	4	23	237	2379		232
+2017	5-23799	23799	Other Heavy and Civil Engineering Construction	5	23	237	2379	23799	233
+2017	6-237990	237990	Other Heavy and Civil Engineering Construction 	6	23	237	2379	23799	234
+2017	3-238	238	Specialty Trade Contractors	3	23	238			235
+2017	4-2381	2381	"Foundation, Structure, and Building Exterior Contractors"	4	23	238	2381		236
+2017	5-23811	23811	Poured Concrete Foundation and Structure Contractors 	5	23	238	2381	23811	237
+2017	6-238110	238110	Poured Concrete Foundation and Structure Contractors 	6	23	238	2381	23811	238
+2017	5-23812	23812	Structural Steel and Precast Concrete Contractors 	5	23	238	2381	23812	239
+2017	6-238120	238120	Structural Steel and Precast Concrete Contractors 	6	23	238	2381	23812	240
+2017	5-23813	23813	Framing Contractors 	5	23	238	2381	23813	241
+2017	6-238130	238130	Framing Contractors 	6	23	238	2381	23813	242
+2017	5-23814	23814	Masonry Contractors 	5	23	238	2381	23814	243
+2017	6-238140	238140	Masonry Contractors 	6	23	238	2381	23814	244
+2017	5-23815	23815	Glass and Glazing Contractors 	5	23	238	2381	23815	245
+2017	6-238150	238150	Glass and Glazing Contractors 	6	23	238	2381	23815	246
+2017	5-23816	23816	Roofing Contractors 	5	23	238	2381	23816	247
+2017	6-238160	238160	Roofing Contractors 	6	23	238	2381	23816	248
+2017	5-23817	23817	Siding Contractors 	5	23	238	2381	23817	249
+2017	6-238170	238170	Siding Contractors 	6	23	238	2381	23817	250
+2017	5-23819	23819	"Other Foundation, Structure, and Building Exterior Contractors "	5	23	238	2381	23819	251
+2017	6-238190	238190	"Other Foundation, Structure, and Building Exterior Contractors "	6	23	238	2381	23819	252
+2017	4-2382	2382	Building Equipment Contractors	4	23	238	2382		253
+2017	5-23821	23821	Electrical Contractors and Other Wiring Installation Contractors	5	23	238	2382	23821	254
+2017	6-238210	238210	Electrical Contractors and Other Wiring Installation Contractors	6	23	238	2382	23821	255
+2017	5-23822	23822	"Plumbing, Heating, and Air-Conditioning Contractors"	5	23	238	2382	23822	256
+2017	6-238220	238220	"Plumbing, Heating, and Air-Conditioning Contractors "	6	23	238	2382	23822	257
+2017	5-23829	23829	Other Building Equipment Contractors	5	23	238	2382	23829	258
+2017	6-238290	238290	Other Building Equipment Contractors 	6	23	238	2382	23829	259
+2017	4-2383	2383	Building Finishing Contractors	4	23	238	2383		260
+2017	5-23831	23831	Drywall and Insulation Contractors	5	23	238	2383	23831	261
+2017	6-238310	238310	Drywall and Insulation Contractors 	6	23	238	2383	23831	262
+2017	5-23832	23832	Painting and Wall Covering Contractors	5	23	238	2383	23832	263
+2017	6-238320	238320	Painting and Wall Covering Contractors	6	23	238	2383	23832	264
+2017	5-23833	23833	Flooring Contractors	5	23	238	2383	23833	265
+2017	6-238330	238330	Flooring Contractors	6	23	238	2383	23833	266
+2017	5-23834	23834	Tile and Terrazzo Contractors	5	23	238	2383	23834	267
+2017	6-238340	238340	Tile and Terrazzo Contractors	6	23	238	2383	23834	268
+2017	5-23835	23835	Finish Carpentry Contractors	5	23	238	2383	23835	269
+2017	6-238350	238350	Finish Carpentry Contractors	6	23	238	2383	23835	270
+2017	5-23839	23839	Other Building Finishing Contractors	5	23	238	2383	23839	271
+2017	6-238390	238390	Other Building Finishing Contractors	6	23	238	2383	23839	272
+2017	4-2389	2389	Other Specialty Trade Contractors	4	23	238	2389		273
+2017	5-23891	23891	Site Preparation Contractors	5	23	238	2389	23891	274
+2017	6-238910	238910	Site Preparation Contractors	6	23	238	2389	23891	275
+2017	5-23899	23899	All Other Specialty Trade Contractors	5	23	238	2389	23899	276
+2017	6-238990	238990	All Other Specialty Trade Contractors	6	23	238	2389	23899	277
+2017	5-31-33	31-33	Manufacturing	5	31	31-	31-3	31-33	278
+2017	3-311	311	Food Manufacturing	3	31	311			279
+2017	4-3111	3111	Animal Food Manufacturing	4	31	311	3111		280
+2017	5-31111	31111	Animal Food Manufacturing	5	31	311	3111	31111	281
+2017	6-311111	311111	Dog and Cat Food Manufacturing 	6	31	311	3111	31111	282
+2017	6-311119	311119	Other Animal Food Manufacturing 	6	31	311	3111	31111	283
+2017	4-3112	3112	Grain and Oilseed Milling	4	31	311	3112		284
+2017	5-31121	31121	Flour Milling and Malt Manufacturing	5	31	311	3112	31121	285
+2017	6-311211	311211	Flour Milling 	6	31	311	3112	31121	286
+2017	6-311212	311212	Rice Milling 	6	31	311	3112	31121	287
+2017	6-311213	311213	Malt Manufacturing 	6	31	311	3112	31121	288
+2017	5-31122	31122	Starch and Vegetable Fats and Oils Manufacturing	5	31	311	3112	31122	289
+2017	6-311221	311221	Wet Corn Milling 	6	31	311	3112	31122	290
+2017	6-311224	311224	Soybean and Other Oilseed Processing 	6	31	311	3112	31122	291
+2017	6-311225	311225	Fats and Oils Refining and Blending 	6	31	311	3112	31122	292
+2017	5-31123	31123	Breakfast Cereal Manufacturing	5	31	311	3112	31123	293
+2017	6-311230	311230	Breakfast Cereal Manufacturing	6	31	311	3112	31123	294
+2017	4-3113	3113	Sugar and Confectionery Product Manufacturing	4	31	311	3113		295
+2017	5-31131	31131	Sugar Manufacturing	5	31	311	3113	31131	296
+2017	6-311313	311313	Beet Sugar Manufacturing 	6	31	311	3113	31131	297
+2017	6-311314	311314	Cane Sugar Manufacturing 	6	31	311	3113	31131	298
+2017	5-31134	31134	Nonchocolate Confectionery Manufacturing	5	31	311	3113	31134	299
+2017	6-311340	311340	Nonchocolate Confectionery Manufacturing	6	31	311	3113	31134	300
+2017	5-31135	31135	Chocolate and Confectionery Manufacturing	5	31	311	3113	31135	301
+2017	6-311351	311351	Chocolate and Confectionery Manufacturing from Cacao Beans 	6	31	311	3113	31135	302
+2017	6-311352	311352	Confectionery Manufacturing from Purchased Chocolate 	6	31	311	3113	31135	303
+2017	4-3114	3114	Fruit and Vegetable Preserving and Specialty Food Manufacturing	4	31	311	3114		304
+2017	5-31141	31141	Frozen Food Manufacturing	5	31	311	3114	31141	305
+2017	6-311411	311411	"Frozen Fruit, Juice, and Vegetable Manufacturing "	6	31	311	3114	31141	306
+2017	6-311412	311412	Frozen Specialty Food Manufacturing 	6	31	311	3114	31141	307
+2017	5-31142	31142	"Fruit and Vegetable Canning, Pickling, and Drying"	5	31	311	3114	31142	308
+2017	6-311421	311421	Fruit and Vegetable Canning 	6	31	311	3114	31142	309
+2017	6-311422	311422	Specialty Canning 	6	31	311	3114	31142	310
+2017	6-311423	311423	Dried and Dehydrated Food Manufacturing 	6	31	311	3114	31142	311
+2017	4-3115	3115	Dairy Product Manufacturing	4	31	311	3115		312
+2017	5-31151	31151	Dairy Product (except Frozen) Manufacturing	5	31	311	3115	31151	313
+2017	6-311511	311511	Fluid Milk Manufacturing 	6	31	311	3115	31151	314
+2017	6-311512	311512	Creamery Butter Manufacturing 	6	31	311	3115	31151	315
+2017	6-311513	311513	Cheese Manufacturing 	6	31	311	3115	31151	316
+2017	6-311514	311514	"Dry, Condensed, and Evaporated Dairy Product Manufacturing "	6	31	311	3115	31151	317
+2017	5-31152	31152	Ice Cream and Frozen Dessert Manufacturing	5	31	311	3115	31152	318
+2017	6-311520	311520	Ice Cream and Frozen Dessert Manufacturing	6	31	311	3115	31152	319
+2017	4-3116	3116	Animal Slaughtering and Processing	4	31	311	3116		320
+2017	5-31161	31161	Animal Slaughtering and Processing	5	31	311	3116	31161	321
+2017	6-311611	311611	Animal (except Poultry) Slaughtering 	6	31	311	3116	31161	322
+2017	6-311612	311612	Meat Processed from Carcasses 	6	31	311	3116	31161	323
+2017	6-311613	311613	Rendering and Meat Byproduct Processing 	6	31	311	3116	31161	324
+2017	6-311615	311615	Poultry Processing 	6	31	311	3116	31161	325
+2017	4-3117	3117	Seafood Product Preparation and Packaging	4	31	311	3117		326
+2017	5-31171	31171	Seafood Product Preparation and Packaging	5	31	311	3117	31171	327
+2017	6-311710	311710	Seafood Product Preparation and Packaging	6	31	311	3117	31171	328
+2017	4-3118	3118	Bakeries and Tortilla Manufacturing	4	31	311	3118		329
+2017	5-31181	31181	Bread and Bakery Product Manufacturing	5	31	311	3118	31181	330
+2017	6-311811	311811	Retail Bakeries 	6	31	311	3118	31181	331
+2017	6-311812	311812	Commercial Bakeries 	6	31	311	3118	31181	332
+2017	6-311813	311813	"Frozen Cakes, Pies, and Other Pastries Manufacturing "	6	31	311	3118	31181	333
+2017	5-31182	31182	"Cookie, Cracker, and Pasta Manufacturing"	5	31	311	3118	31182	334
+2017	6-311821	311821	Cookie and Cracker Manufacturing 	6	31	311	3118	31182	335
+2017	6-311824	311824	"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour "	6	31	311	3118	31182	336
+2017	5-31183	31183	Tortilla Manufacturing	5	31	311	3118	31183	337
+2017	6-311830	311830	Tortilla Manufacturing	6	31	311	3118	31183	338
+2017	4-3119	3119	Other Food Manufacturing	4	31	311	3119		339
+2017	5-31191	31191	Snack Food Manufacturing	5	31	311	3119	31191	340
+2017	6-311911	311911	Roasted Nuts and Peanut Butter Manufacturing 	6	31	311	3119	31191	341
+2017	6-311919	311919	Other Snack Food Manufacturing 	6	31	311	3119	31191	342
+2017	5-31192	31192	Coffee and Tea Manufacturing	5	31	311	3119	31192	343
+2017	6-311920	311920	Coffee and Tea Manufacturing 	6	31	311	3119	31192	344
+2017	5-31193	31193	Flavoring Syrup and Concentrate Manufacturing	5	31	311	3119	31193	345
+2017	6-311930	311930	Flavoring Syrup and Concentrate Manufacturing	6	31	311	3119	31193	346
+2017	5-31194	31194	Seasoning and Dressing Manufacturing	5	31	311	3119	31194	347
+2017	6-311941	311941	"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing "	6	31	311	3119	31194	348
+2017	6-311942	311942	Spice and Extract Manufacturing 	6	31	311	3119	31194	349
+2017	5-31199	31199	All Other Food Manufacturing	5	31	311	3119	31199	350
+2017	6-311991	311991	Perishable Prepared Food Manufacturing 	6	31	311	3119	31199	351
+2017	6-311999	311999	All Other Miscellaneous Food Manufacturing 	6	31	311	3119	31199	352
+2017	3-312	312	Beverage and Tobacco Product Manufacturing	3	31	312			353
+2017	4-3121	3121	Beverage Manufacturing	4	31	312	3121		354
+2017	5-31211	31211	Soft Drink and Ice Manufacturing	5	31	312	3121	31211	355
+2017	6-312111	312111	Soft Drink Manufacturing 	6	31	312	3121	31211	356
+2017	6-312112	312112	Bottled Water Manufacturing 	6	31	312	3121	31211	357
+2017	6-312113	312113	Ice Manufacturing 	6	31	312	3121	31211	358
+2017	5-31212	31212	Breweries	5	31	312	3121	31212	359
+2017	6-312120	312120	Breweries	6	31	312	3121	31212	360
+2017	5-31213	31213	Wineries	5	31	312	3121	31213	361
+2017	6-312130	312130	Wineries 	6	31	312	3121	31213	362
+2017	5-31214	31214	Distilleries	5	31	312	3121	31214	363
+2017	6-312140	312140	Distilleries 	6	31	312	3121	31214	364
+2017	4-3122	3122	Tobacco Manufacturing	4	31	312	3122		365
+2017	5-31223	31223	Tobacco Manufacturing	5	31	312	3122	31223	366
+2017	6-312230	312230	Tobacco Manufacturing 	6	31	312	3122	31223	367
+2017	3-313	313	Textile Mills	3	31	313			368
+2017	4-3131	3131	"Fiber, Yarn, and Thread Mills"	4	31	313	3131		369
+2017	5-31311	31311	"Fiber, Yarn, and Thread Mills"	5	31	313	3131	31311	370
+2017	6-313110	313110	"Fiber, Yarn, and Thread Mills "	6	31	313	3131	31311	371
+2017	4-3132	3132	Fabric Mills	4	31	313	3132		372
+2017	5-31321	31321	Broadwoven Fabric Mills	5	31	313	3132	31321	373
+2017	6-313210	313210	Broadwoven Fabric Mills	6	31	313	3132	31321	374
+2017	5-31322	31322	Narrow Fabric Mills and Schiffli Machine Embroidery	5	31	313	3132	31322	375
+2017	6-313220	313220	Narrow Fabric Mills and Schiffli Machine Embroidery	6	31	313	3132	31322	376
+2017	5-31323	31323	Nonwoven Fabric Mills	5	31	313	3132	31323	377
+2017	6-313230	313230	Nonwoven Fabric Mills	6	31	313	3132	31323	378
+2017	5-31324	31324	Knit Fabric Mills	5	31	313	3132	31324	379
+2017	6-313240	313240	Knit Fabric Mills	6	31	313	3132	31324	380
+2017	4-3133	3133	Textile and Fabric Finishing and Fabric Coating Mills	4	31	313	3133		381
+2017	5-31331	31331	Textile and Fabric Finishing Mills	5	31	313	3133	31331	382
+2017	6-313310	313310	Textile and Fabric Finishing Mills 	6	31	313	3133	31331	383
+2017	5-31332	31332	Fabric Coating Mills	5	31	313	3133	31332	384
+2017	6-313320	313320	Fabric Coating Mills	6	31	313	3133	31332	385
+2017	3-314	314	Textile Product Mills	3	31	314			386
+2017	4-3141	3141	Textile Furnishings Mills	4	31	314	3141		387
+2017	5-31411	31411	Carpet and Rug Mills	5	31	314	3141	31411	388
+2017	6-314110	314110	Carpet and Rug Mills	6	31	314	3141	31411	389
+2017	5-31412	31412	Curtain and Linen Mills	5	31	314	3141	31412	390
+2017	6-314120	314120	Curtain and Linen Mills	6	31	314	3141	31412	391
+2017	4-3149	3149	Other Textile Product Mills	4	31	314	3149		392
+2017	5-31491	31491	Textile Bag and Canvas Mills	5	31	314	3149	31491	393
+2017	6-314910	314910	Textile Bag and Canvas Mills 	6	31	314	3149	31491	394
+2017	5-31499	31499	All Other Textile Product Mills	5	31	314	3149	31499	395
+2017	6-314994	314994	"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills "	6	31	314	3149	31499	396
+2017	6-314999	314999	All Other Miscellaneous Textile Product Mills 	6	31	314	3149	31499	397
+2017	3-315	315	Apparel Manufacturing	3	31	315			398
+2017	4-3151	3151	Apparel Knitting Mills	4	31	315	3151		399
+2017	5-31511	31511	Hosiery and Sock Mills	5	31	315	3151	31511	400
+2017	6-315110	315110	Hosiery and Sock Mills	6	31	315	3151	31511	401
+2017	5-31519	31519	Other Apparel Knitting Mills	5	31	315	3151	31519	402
+2017	6-315190	315190	Other Apparel Knitting Mills 	6	31	315	3151	31519	403
+2017	4-3152	3152	Cut and Sew Apparel Manufacturing	4	31	315	3152		404
+2017	5-31521	31521	Cut and Sew Apparel Contractors 	5	31	315	3152	31521	405
+2017	6-315210	315210	Cut and Sew Apparel Contractors 	6	31	315	3152	31521	406
+2017	5-31522	31522	Men’s and Boys’ Cut and Sew Apparel Manufacturing 	5	31	315	3152	31522	407
+2017	6-315220	315220	Men’s and Boys’ Cut and Sew Apparel Manufacturing 	6	31	315	3152	31522	408
+2017	5-31524	31524	"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"	5	31	315	3152	31524	409
+2017	6-315240	315240	"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing "	6	31	315	3152	31524	410
+2017	5-31528	31528	Other Cut and Sew Apparel Manufacturing 	5	31	315	3152	31528	411
+2017	6-315280	315280	Other Cut and Sew Apparel Manufacturing 	6	31	315	3152	31528	412
+2017	4-3159	3159	Apparel Accessories and Other Apparel Manufacturing	4	31	315	3159		413
+2017	5-31599	31599	Apparel Accessories and Other Apparel Manufacturing	5	31	315	3159	31599	414
+2017	6-315990	315990	Apparel Accessories and Other Apparel Manufacturing 	6	31	315	3159	31599	415
+2017	3-316	316	Leather and Allied Product Manufacturing	3	31	316			416
+2017	4-3161	3161	Leather and Hide Tanning and Finishing	4	31	316	3161		417
+2017	5-31611	31611	Leather and Hide Tanning and Finishing	5	31	316	3161	31611	418
+2017	6-316110	316110	Leather and Hide Tanning and Finishing	6	31	316	3161	31611	419
+2017	4-3162	3162	Footwear Manufacturing	4	31	316	3162		420
+2017	5-31621	31621	Footwear Manufacturing	5	31	316	3162	31621	421
+2017	6-316210	316210	Footwear Manufacturing 	6	31	316	3162	31621	422
+2017	4-3169	3169	Other Leather and Allied Product Manufacturing	4	31	316	3169		423
+2017	5-31699	31699	Other Leather and Allied Product Manufacturing	5	31	316	3169	31699	424
+2017	6-316992	316992	Women's Handbag and Purse Manufacturing 	6	31	316	3169	31699	425
+2017	6-316998	316998	All Other Leather Good and Allied Product Manufacturing 	6	31	316	3169	31699	426
+2017	3-321	321	Wood Product Manufacturing	3	32	321			427
+2017	4-3211	3211	Sawmills and Wood Preservation	4	32	321	3211		428
+2017	5-32111	32111	Sawmills and Wood Preservation	5	32	321	3211	32111	429
+2017	6-321113	321113	Sawmills 	6	32	321	3211	32111	430
+2017	6-321114	321114	Wood Preservation 	6	32	321	3211	32111	431
+2017	4-3212	3212	"Veneer, Plywood, and Engineered Wood Product Manufacturing"	4	32	321	3212		432
+2017	5-32121	32121	"Veneer, Plywood, and Engineered Wood Product Manufacturing"	5	32	321	3212	32121	433
+2017	6-321211	321211	Hardwood Veneer and Plywood Manufacturing 	6	32	321	3212	32121	434
+2017	6-321212	321212	Softwood Veneer and Plywood Manufacturing 	6	32	321	3212	32121	435
+2017	6-321213	321213	Engineered Wood Member (except Truss) Manufacturing 	6	32	321	3212	32121	436
+2017	6-321214	321214	Truss Manufacturing 	6	32	321	3212	32121	437
+2017	6-321219	321219	Reconstituted Wood Product Manufacturing 	6	32	321	3212	32121	438
+2017	4-3219	3219	Other Wood Product Manufacturing	4	32	321	3219		439
+2017	5-32191	32191	Millwork	5	32	321	3219	32191	440
+2017	6-321911	321911	Wood Window and Door Manufacturing 	6	32	321	3219	32191	441
+2017	6-321912	321912	"Cut Stock, Resawing Lumber, and Planing "	6	32	321	3219	32191	442
+2017	6-321918	321918	Other Millwork (including Flooring) 	6	32	321	3219	32191	443
+2017	5-32192	32192	Wood Container and Pallet Manufacturing	5	32	321	3219	32192	444
+2017	6-321920	321920	Wood Container and Pallet Manufacturing	6	32	321	3219	32192	445
+2017	5-32199	32199	All Other Wood Product Manufacturing	5	32	321	3219	32199	446
+2017	6-321991	321991	Manufactured Home (Mobile Home) Manufacturing 	6	32	321	3219	32199	447
+2017	6-321992	321992	Prefabricated Wood Building Manufacturing 	6	32	321	3219	32199	448
+2017	6-321999	321999	All Other Miscellaneous Wood Product Manufacturing 	6	32	321	3219	32199	449
+2017	3-322	322	Paper Manufacturing	3	32	322			450
+2017	4-3221	3221	"Pulp, Paper, and Paperboard Mills"	4	32	322	3221		451
+2017	5-32211	32211	Pulp Mills	5	32	322	3221	32211	452
+2017	6-322110	322110	Pulp Mills 	6	32	322	3221	32211	453
+2017	5-32212	32212	Paper Mills	5	32	322	3221	32212	454
+2017	6-322121	322121	Paper (except Newsprint) Mills 	6	32	322	3221	32212	455
+2017	6-322122	322122	Newsprint Mills 	6	32	322	3221	32212	456
+2017	5-32213	32213	Paperboard Mills	5	32	322	3221	32213	457
+2017	6-322130	322130	Paperboard Mills 	6	32	322	3221	32213	458
+2017	4-3222	3222	Converted Paper Product Manufacturing	4	32	322	3222		459
+2017	5-32221	32221	Paperboard Container Manufacturing	5	32	322	3222	32221	460
+2017	6-322211	322211	Corrugated and Solid Fiber Box Manufacturing 	6	32	322	3222	32221	461
+2017	6-322212	322212	Folding Paperboard Box Manufacturing 	6	32	322	3222	32221	462
+2017	6-322219	322219	Other Paperboard Container Manufacturing 	6	32	322	3222	32221	463
+2017	5-32222	32222	Paper Bag and Coated and Treated Paper Manufacturing	5	32	322	3222	32222	464
+2017	6-322220	322220	Paper Bag and Coated and Treated Paper Manufacturing	6	32	322	3222	32222	465
+2017	5-32223	32223	Stationery Product Manufacturing	5	32	322	3222	32223	466
+2017	6-322230	322230	Stationery Product Manufacturing	6	32	322	3222	32223	467
+2017	5-32229	32229	Other Converted Paper Product Manufacturing	5	32	322	3222	32229	468
+2017	6-322291	322291	Sanitary Paper Product Manufacturing 	6	32	322	3222	32229	469
+2017	6-322299	322299	All Other Converted Paper Product Manufacturing 	6	32	322	3222	32229	470
+2017	3-323	323	Printing and Related Support Activities	3	32	323			471
+2017	4-3231	3231	Printing and Related Support Activities	4	32	323	3231		472
+2017	5-32311	32311	Printing	5	32	323	3231	32311	473
+2017	6-323111	323111	Commercial Printing (except Screen and Books) 	6	32	323	3231	32311	474
+2017	6-323113	323113	Commercial Screen Printing 	6	32	323	3231	32311	475
+2017	6-323117	323117	Books Printing 	6	32	323	3231	32311	476
+2017	5-32312	32312	Support Activities for Printing	5	32	323	3231	32312	477
+2017	6-323120	323120	Support Activities for Printing	6	32	323	3231	32312	478
+2017	3-324	324	Petroleum and Coal Products Manufacturing	3	32	324			479
+2017	4-3241	3241	Petroleum and Coal Products Manufacturing	4	32	324	3241		480
+2017	5-32411	32411	Petroleum Refineries	5	32	324	3241	32411	481
+2017	6-324110	324110	Petroleum Refineries	6	32	324	3241	32411	482
+2017	5-32412	32412	"Asphalt Paving, Roofing, and Saturated Materials Manufacturing"	5	32	324	3241	32412	483
+2017	6-324121	324121	Asphalt Paving Mixture and Block Manufacturing 	6	32	324	3241	32412	484
+2017	6-324122	324122	Asphalt Shingle and Coating Materials Manufacturing 	6	32	324	3241	32412	485
+2017	5-32419	32419	Other Petroleum and Coal Products Manufacturing	5	32	324	3241	32419	486
+2017	6-324191	324191	Petroleum Lubricating Oil and Grease Manufacturing 	6	32	324	3241	32419	487
+2017	6-324199	324199	All Other Petroleum and Coal Products Manufacturing 	6	32	324	3241	32419	488
+2017	3-325	325	Chemical Manufacturing	3	32	325			489
+2017	4-3251	3251	Basic Chemical Manufacturing	4	32	325	3251		490
+2017	5-32511	32511	Petrochemical Manufacturing	5	32	325	3251	32511	491
+2017	6-325110	325110	Petrochemical Manufacturing	6	32	325	3251	32511	492
+2017	5-32512	32512	Industrial Gas Manufacturing	5	32	325	3251	32512	493
+2017	6-325120	325120	Industrial Gas Manufacturing	6	32	325	3251	32512	494
+2017	5-32513	32513	Synthetic Dye and Pigment Manufacturing	5	32	325	3251	32513	495
+2017	6-325130	325130	Synthetic Dye and Pigment Manufacturing	6	32	325	3251	32513	496
+2017	5-32518	32518	Other Basic Inorganic Chemical Manufacturing	5	32	325	3251	32518	497
+2017	6-325180	325180	Other Basic Inorganic Chemical Manufacturing 	6	32	325	3251	32518	498
+2017	5-32519	32519	Other Basic Organic Chemical Manufacturing	5	32	325	3251	32519	499
+2017	6-325193	325193	Ethyl Alcohol Manufacturing 	6	32	325	3251	32519	500
+2017	6-325194	325194	"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing "	6	32	325	3251	32519	501
+2017	6-325199	325199	All Other Basic Organic Chemical Manufacturing 	6	32	325	3251	32519	502
+2017	4-3252	3252	"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"	4	32	325	3252		503
+2017	5-32521	32521	Resin and Synthetic Rubber Manufacturing	5	32	325	3252	32521	504
+2017	6-325211	325211	Plastics Material and Resin Manufacturing 	6	32	325	3252	32521	505
+2017	6-325212	325212	Synthetic Rubber Manufacturing 	6	32	325	3252	32521	506
+2017	5-32522	32522	Artificial and Synthetic Fibers and Filaments Manufacturing	5	32	325	3252	32522	507
+2017	6-325220	325220	Artificial and Synthetic Fibers and Filaments Manufacturing	6	32	325	3252	32522	508
+2017	4-3253	3253	"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"	4	32	325	3253		509
+2017	5-32531	32531	Fertilizer Manufacturing	5	32	325	3253	32531	510
+2017	6-325311	325311	Nitrogenous Fertilizer Manufacturing 	6	32	325	3253	32531	511
+2017	6-325312	325312	Phosphatic Fertilizer Manufacturing 	6	32	325	3253	32531	512
+2017	6-325314	325314	Fertilizer (Mixing Only) Manufacturing 	6	32	325	3253	32531	513
+2017	5-32532	32532	Pesticide and Other Agricultural Chemical Manufacturing	5	32	325	3253	32532	514
+2017	6-325320	325320	Pesticide and Other Agricultural Chemical Manufacturing	6	32	325	3253	32532	515
+2017	4-3254	3254	Pharmaceutical and Medicine Manufacturing	4	32	325	3254		516
+2017	5-32541	32541	Pharmaceutical and Medicine Manufacturing	5	32	325	3254	32541	517
+2017	6-325411	325411	Medicinal and Botanical Manufacturing 	6	32	325	3254	32541	518
+2017	6-325412	325412	Pharmaceutical Preparation Manufacturing 	6	32	325	3254	32541	519
+2017	6-325413	325413	In-Vitro Diagnostic Substance Manufacturing 	6	32	325	3254	32541	520
+2017	6-325414	325414	Biological Product (except Diagnostic) Manufacturing 	6	32	325	3254	32541	521
+2017	4-3255	3255	"Paint, Coating, and Adhesive Manufacturing"	4	32	325	3255		522
+2017	5-32551	32551	Paint and Coating Manufacturing	5	32	325	3255	32551	523
+2017	6-325510	325510	Paint and Coating Manufacturing	6	32	325	3255	32551	524
+2017	5-32552	32552	Adhesive Manufacturing	5	32	325	3255	32552	525
+2017	6-325520	325520	Adhesive Manufacturing	6	32	325	3255	32552	526
+2017	4-3256	3256	"Soap, Cleaning Compound, and Toilet Preparation Manufacturing"	4	32	325	3256		527
+2017	5-32561	32561	Soap and Cleaning Compound Manufacturing	5	32	325	3256	32561	528
+2017	6-325611	325611	Soap and Other Detergent Manufacturing 	6	32	325	3256	32561	529
+2017	6-325612	325612	Polish and Other Sanitation Good Manufacturing 	6	32	325	3256	32561	530
+2017	6-325613	325613	Surface Active Agent Manufacturing 	6	32	325	3256	32561	531
+2017	5-32562	32562	Toilet Preparation Manufacturing	5	32	325	3256	32562	532
+2017	6-325620	325620	Toilet Preparation Manufacturing	6	32	325	3256	32562	533
+2017	4-3259	3259	Other Chemical Product and Preparation Manufacturing	4	32	325	3259		534
+2017	5-32591	32591	Printing Ink Manufacturing	5	32	325	3259	32591	535
+2017	6-325910	325910	Printing Ink Manufacturing	6	32	325	3259	32591	536
+2017	5-32592	32592	Explosives Manufacturing	5	32	325	3259	32592	537
+2017	6-325920	325920	Explosives Manufacturing	6	32	325	3259	32592	538
+2017	5-32599	32599	All Other Chemical Product and Preparation Manufacturing	5	32	325	3259	32599	539
+2017	6-325991	325991	Custom Compounding of Purchased Resins 	6	32	325	3259	32599	540
+2017	6-325992	325992	"Photographic Film, Paper, Plate, and Chemical Manufacturing "	6	32	325	3259	32599	541
+2017	6-325998	325998	All Other Miscellaneous Chemical Product and Preparation Manufacturing 	6	32	325	3259	32599	542
+2017	3-326	326	Plastics and Rubber Products Manufacturing	3	32	326			543
+2017	4-3261	3261	Plastics Product Manufacturing	4	32	326	3261		544
+2017	5-32611	32611	Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing	5	32	326	3261	32611	545
+2017	6-326111	326111	Plastics Bag and Pouch Manufacturing 	6	32	326	3261	32611	546
+2017	6-326112	326112	Plastics Packaging Film and Sheet (including Laminated) Manufacturing 	6	32	326	3261	32611	547
+2017	6-326113	326113	Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing 	6	32	326	3261	32611	548
+2017	5-32612	32612	"Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing"	5	32	326	3261	32612	549
+2017	6-326121	326121	Unlaminated Plastics Profile Shape Manufacturing 	6	32	326	3261	32612	550
+2017	6-326122	326122	Plastics Pipe and Pipe Fitting Manufacturing 	6	32	326	3261	32612	551
+2017	5-32613	32613	"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"	5	32	326	3261	32613	552
+2017	6-326130	326130	"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"	6	32	326	3261	32613	553
+2017	5-32614	32614	Polystyrene Foam Product Manufacturing	5	32	326	3261	32614	554
+2017	6-326140	326140	Polystyrene Foam Product Manufacturing	6	32	326	3261	32614	555
+2017	5-32615	32615	Urethane and Other Foam Product (except Polystyrene) Manufacturing	5	32	326	3261	32615	556
+2017	6-326150	326150	Urethane and Other Foam Product (except Polystyrene) Manufacturing	6	32	326	3261	32615	557
+2017	5-32616	32616	Plastics Bottle Manufacturing	5	32	326	3261	32616	558
+2017	6-326160	326160	Plastics Bottle Manufacturing	6	32	326	3261	32616	559
+2017	5-32619	32619	Other Plastics Product Manufacturing	5	32	326	3261	32619	560
+2017	6-326191	326191	Plastics Plumbing Fixture Manufacturing 	6	32	326	3261	32619	561
+2017	6-326199	326199	All Other Plastics Product Manufacturing 	6	32	326	3261	32619	562
+2017	4-3262	3262	Rubber Product Manufacturing	4	32	326	3262		563
+2017	5-32621	32621	Tire Manufacturing	5	32	326	3262	32621	564
+2017	6-326211	326211	Tire Manufacturing (except Retreading) 	6	32	326	3262	32621	565
+2017	6-326212	326212	Tire Retreading 	6	32	326	3262	32621	566
+2017	5-32622	32622	Rubber and Plastics Hoses and Belting Manufacturing	5	32	326	3262	32622	567
+2017	6-326220	326220	Rubber and Plastics Hoses and Belting Manufacturing	6	32	326	3262	32622	568
+2017	5-32629	32629	Other Rubber Product Manufacturing	5	32	326	3262	32629	569
+2017	6-326291	326291	Rubber Product Manufacturing for Mechanical Use 	6	32	326	3262	32629	570
+2017	6-326299	326299	All Other Rubber Product Manufacturing 	6	32	326	3262	32629	571
+2017	3-327	327	Nonmetallic Mineral Product Manufacturing	3	32	327			572
+2017	4-3271	3271	Clay Product and Refractory Manufacturing	4	32	327	3271		573
+2017	5-32711	32711	"Pottery, Ceramics, and Plumbing Fixture Manufacturing"	5	32	327	3271	32711	574
+2017	6-327110	327110	"Pottery, Ceramics, and Plumbing Fixture Manufacturing "	6	32	327	3271	32711	575
+2017	5-32712	32712	Clay Building Material and Refractories Manufacturing	5	32	327	3271	32712	576
+2017	6-327120	327120	Clay Building Material and Refractories Manufacturing 	6	32	327	3271	32712	577
+2017	4-3272	3272	Glass and Glass Product Manufacturing	4	32	327	3272		578
+2017	5-32721	32721	Glass and Glass Product Manufacturing	5	32	327	3272	32721	579
+2017	6-327211	327211	Flat Glass Manufacturing 	6	32	327	3272	32721	580
+2017	6-327212	327212	Other Pressed and Blown Glass and Glassware Manufacturing 	6	32	327	3272	32721	581
+2017	6-327213	327213	Glass Container Manufacturing 	6	32	327	3272	32721	582
+2017	6-327215	327215	Glass Product Manufacturing Made of Purchased Glass 	6	32	327	3272	32721	583
+2017	4-3273	3273	Cement and Concrete Product Manufacturing	4	32	327	3273		584
+2017	5-32731	32731	Cement Manufacturing	5	32	327	3273	32731	585
+2017	6-327310	327310	Cement Manufacturing	6	32	327	3273	32731	586
+2017	5-32732	32732	Ready-Mix Concrete Manufacturing	5	32	327	3273	32732	587
+2017	6-327320	327320	Ready-Mix Concrete Manufacturing	6	32	327	3273	32732	588
+2017	5-32733	32733	"Concrete Pipe, Brick, and Block Manufacturing"	5	32	327	3273	32733	589
+2017	6-327331	327331	Concrete Block and Brick Manufacturing 	6	32	327	3273	32733	590
+2017	6-327332	327332	Concrete Pipe Manufacturing 	6	32	327	3273	32733	591
+2017	5-32739	32739	Other Concrete Product Manufacturing	5	32	327	3273	32739	592
+2017	6-327390	327390	Other Concrete Product Manufacturing 	6	32	327	3273	32739	593
+2017	4-3274	3274	Lime and Gypsum Product Manufacturing	4	32	327	3274		594
+2017	5-32741	32741	Lime Manufacturing	5	32	327	3274	32741	595
+2017	6-327410	327410	Lime Manufacturing	6	32	327	3274	32741	596
+2017	5-32742	32742	Gypsum Product Manufacturing	5	32	327	3274	32742	597
+2017	6-327420	327420	Gypsum Product Manufacturing	6	32	327	3274	32742	598
+2017	4-3279	3279	Other Nonmetallic Mineral Product Manufacturing	4	32	327	3279		599
+2017	5-32791	32791	Abrasive Product Manufacturing	5	32	327	3279	32791	600
+2017	6-327910	327910	Abrasive Product Manufacturing	6	32	327	3279	32791	601
+2017	5-32799	32799	All Other Nonmetallic Mineral Product Manufacturing	5	32	327	3279	32799	602
+2017	6-327991	327991	Cut Stone and Stone Product Manufacturing 	6	32	327	3279	32799	603
+2017	6-327992	327992	Ground or Treated Mineral and Earth Manufacturing 	6	32	327	3279	32799	604
+2017	6-327993	327993	Mineral Wool Manufacturing 	6	32	327	3279	32799	605
+2017	6-327999	327999	All Other Miscellaneous Nonmetallic Mineral Product Manufacturing 	6	32	327	3279	32799	606
+2017	3-331	331	Primary Metal Manufacturing	3	33	331			607
+2017	4-3311	3311	Iron and Steel Mills and Ferroalloy Manufacturing	4	33	331	3311		608
+2017	5-33111	33111	Iron and Steel Mills and Ferroalloy Manufacturing	5	33	331	3311	33111	609
+2017	6-331110	331110	Iron and Steel Mills and Ferroalloy Manufacturing 	6	33	331	3311	33111	610
+2017	4-3312	3312	Steel Product Manufacturing from Purchased Steel	4	33	331	3312		611
+2017	5-33121	33121	Iron and Steel Pipe and Tube Manufacturing from Purchased Steel	5	33	331	3312	33121	612
+2017	6-331210	331210	Iron and Steel Pipe and Tube Manufacturing from Purchased Steel	6	33	331	3312	33121	613
+2017	5-33122	33122	Rolling and Drawing of Purchased Steel	5	33	331	3312	33122	614
+2017	6-331221	331221	Rolled Steel Shape Manufacturing 	6	33	331	3312	33122	615
+2017	6-331222	331222	Steel Wire Drawing 	6	33	331	3312	33122	616
+2017	4-3313	3313	Alumina and Aluminum Production and Processing	4	33	331	3313		617
+2017	5-33131	33131	Alumina and Aluminum Production and Processing	5	33	331	3313	33131	618
+2017	6-331313	331313	Alumina Refining and Primary Aluminum Production 	6	33	331	3313	33131	619
+2017	6-331314	331314	Secondary Smelting and Alloying of Aluminum 	6	33	331	3313	33131	620
+2017	6-331315	331315	"Aluminum Sheet, Plate, and Foil Manufacturing "	6	33	331	3313	33131	621
+2017	6-331318	331318	"Other Aluminum Rolling, Drawing, and Extruding "	6	33	331	3313	33131	622
+2017	4-3314	3314	Nonferrous Metal (except Aluminum) Production and Processing	4	33	331	3314		623
+2017	5-33141	33141	Nonferrous Metal (except Aluminum) Smelting and Refining	5	33	331	3314	33141	624
+2017	6-331410	331410	Nonferrous Metal (except Aluminum) Smelting and Refining 	6	33	331	3314	33141	625
+2017	5-33142	33142	"Copper Rolling, Drawing, Extruding, and Alloying"	5	33	331	3314	33142	626
+2017	6-331420	331420	"Copper Rolling, Drawing, Extruding, and Alloying"	6	33	331	3314	33142	627
+2017	5-33149	33149	"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying"	5	33	331	3314	33149	628
+2017	6-331491	331491	"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding "	6	33	331	3314	33149	629
+2017	6-331492	331492	"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) "	6	33	331	3314	33149	630
+2017	4-3315	3315	Foundries	4	33	331	3315		631
+2017	5-33151	33151	Ferrous Metal Foundries	5	33	331	3315	33151	632
+2017	6-331511	331511	Iron Foundries 	6	33	331	3315	33151	633
+2017	6-331512	331512	Steel Investment Foundries 	6	33	331	3315	33151	634
+2017	6-331513	331513	Steel Foundries (except Investment) 	6	33	331	3315	33151	635
+2017	5-33152	33152	Nonferrous Metal Foundries	5	33	331	3315	33152	636
+2017	6-331523	331523	Nonferrous Metal Die-Casting Foundries 	6	33	331	3315	33152	637
+2017	6-331524	331524	Aluminum Foundries (except Die-Casting) 	6	33	331	3315	33152	638
+2017	6-331529	331529	Other Nonferrous Metal Foundries (except Die-Casting) 	6	33	331	3315	33152	639
+2017	3-332	332	Fabricated Metal Product Manufacturing	3	33	332			640
+2017	4-3321	3321	Forging and Stamping	4	33	332	3321		641
+2017	5-33211	33211	Forging and Stamping	5	33	332	3321	33211	642
+2017	6-332111	332111	Iron and Steel Forging 	6	33	332	3321	33211	643
+2017	6-332112	332112	Nonferrous Forging 	6	33	332	3321	33211	644
+2017	6-332114	332114	Custom Roll Forming 	6	33	332	3321	33211	645
+2017	6-332117	332117	Powder Metallurgy Part Manufacturing 	6	33	332	3321	33211	646
+2017	6-332119	332119	"Metal Crown, Closure, and Other Metal Stamping (except Automotive) "	6	33	332	3321	33211	647
+2017	4-3322	3322	Cutlery and Handtool Manufacturing	4	33	332	3322		648
+2017	5-33221	33221	Cutlery and Handtool Manufacturing	5	33	332	3322	33221	649
+2017	6-332215	332215	"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing "	6	33	332	3322	33221	650
+2017	6-332216	332216	Saw Blade and Handtool Manufacturing 	6	33	332	3322	33221	651
+2017	4-3323	3323	Architectural and Structural Metals Manufacturing	4	33	332	3323		652
+2017	5-33231	33231	Plate Work and Fabricated Structural Product Manufacturing	5	33	332	3323	33231	653
+2017	6-332311	332311	Prefabricated Metal Building and Component Manufacturing 	6	33	332	3323	33231	654
+2017	6-332312	332312	Fabricated Structural Metal Manufacturing 	6	33	332	3323	33231	655
+2017	6-332313	332313	Plate Work Manufacturing 	6	33	332	3323	33231	656
+2017	5-33232	33232	Ornamental and Architectural Metal Products Manufacturing	5	33	332	3323	33232	657
+2017	6-332321	332321	Metal Window and Door Manufacturing 	6	33	332	3323	33232	658
+2017	6-332322	332322	Sheet Metal Work Manufacturing 	6	33	332	3323	33232	659
+2017	6-332323	332323	Ornamental and Architectural Metal Work Manufacturing 	6	33	332	3323	33232	660
+2017	4-3324	3324	"Boiler, Tank, and Shipping Container Manufacturing"	4	33	332	3324		661
+2017	5-33241	33241	Power Boiler and Heat Exchanger Manufacturing	5	33	332	3324	33241	662
+2017	6-332410	332410	Power Boiler and Heat Exchanger Manufacturing	6	33	332	3324	33241	663
+2017	5-33242	33242	Metal Tank (Heavy Gauge) Manufacturing	5	33	332	3324	33242	664
+2017	6-332420	332420	Metal Tank (Heavy Gauge) Manufacturing	6	33	332	3324	33242	665
+2017	5-33243	33243	"Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing"	5	33	332	3324	33243	666
+2017	6-332431	332431	Metal Can Manufacturing 	6	33	332	3324	33243	667
+2017	6-332439	332439	Other Metal Container Manufacturing 	6	33	332	3324	33243	668
+2017	4-3325	3325	Hardware Manufacturing	4	33	332	3325		669
+2017	5-33251	33251	Hardware Manufacturing	5	33	332	3325	33251	670
+2017	6-332510	332510	Hardware Manufacturing	6	33	332	3325	33251	671
+2017	4-3326	3326	Spring and Wire Product Manufacturing	4	33	332	3326		672
+2017	5-33261	33261	Spring and Wire Product Manufacturing	5	33	332	3326	33261	673
+2017	6-332613	332613	Spring Manufacturing 	6	33	332	3326	33261	674
+2017	6-332618	332618	Other Fabricated Wire Product Manufacturing 	6	33	332	3326	33261	675
+2017	4-3327	3327	"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"	4	33	332	3327		676
+2017	5-33271	33271	Machine Shops	5	33	332	3327	33271	677
+2017	6-332710	332710	Machine Shops	6	33	332	3327	33271	678
+2017	5-33272	33272	"Turned Product and Screw, Nut, and Bolt Manufacturing"	5	33	332	3327	33272	679
+2017	6-332721	332721	Precision Turned Product Manufacturing 	6	33	332	3327	33272	680
+2017	6-332722	332722	"Bolt, Nut, Screw, Rivet, and Washer Manufacturing "	6	33	332	3327	33272	681
+2017	4-3328	3328	"Coating, Engraving, Heat Treating, and Allied Activities"	4	33	332	3328		682
+2017	5-33281	33281	"Coating, Engraving, Heat Treating, and Allied Activities"	5	33	332	3328	33281	683
+2017	6-332811	332811	Metal Heat Treating 	6	33	332	3328	33281	684
+2017	6-332812	332812	"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers "	6	33	332	3328	33281	685
+2017	6-332813	332813	"Electroplating, Plating, Polishing, Anodizing, and Coloring "	6	33	332	3328	33281	686
+2017	4-3329	3329	Other Fabricated Metal Product Manufacturing	4	33	332	3329		687
+2017	5-33291	33291	Metal Valve Manufacturing	5	33	332	3329	33291	688
+2017	6-332911	332911	Industrial Valve Manufacturing 	6	33	332	3329	33291	689
+2017	6-332912	332912	Fluid Power Valve and Hose Fitting Manufacturing 	6	33	332	3329	33291	690
+2017	6-332913	332913	Plumbing Fixture Fitting and Trim Manufacturing 	6	33	332	3329	33291	691
+2017	6-332919	332919	Other Metal Valve and Pipe Fitting Manufacturing 	6	33	332	3329	33291	692
+2017	5-33299	33299	All Other Fabricated Metal Product Manufacturing	5	33	332	3329	33299	693
+2017	6-332991	332991	Ball and Roller Bearing Manufacturing	6	33	332	3329	33299	694
+2017	6-332992	332992	Small Arms Ammunition Manufacturing 	6	33	332	3329	33299	695
+2017	6-332993	332993	Ammunition (except Small Arms) Manufacturing 	6	33	332	3329	33299	696
+2017	6-332994	332994	"Small Arms, Ordnance, and Ordnance Accessories Manufacturing "	6	33	332	3329	33299	697
+2017	6-332996	332996	Fabricated Pipe and Pipe Fitting Manufacturing 	6	33	332	3329	33299	698
+2017	6-332999	332999	All Other Miscellaneous Fabricated Metal Product Manufacturing 	6	33	332	3329	33299	699
+2017	3-333	333	Machinery Manufacturing	3	33	333			700
+2017	4-3331	3331	"Agriculture, Construction, and Mining Machinery Manufacturing"	4	33	333	3331		701
+2017	5-33311	33311	Agricultural Implement Manufacturing	5	33	333	3331	33311	702
+2017	6-333111	333111	Farm Machinery and Equipment Manufacturing 	6	33	333	3331	33311	703
+2017	6-333112	333112	Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing 	6	33	333	3331	33311	704
+2017	5-33312	33312	Construction Machinery Manufacturing	5	33	333	3331	33312	705
+2017	6-333120	333120	Construction Machinery Manufacturing	6	33	333	3331	33312	706
+2017	5-33313	33313	Mining and Oil and Gas Field Machinery Manufacturing	5	33	333	3331	33313	707
+2017	6-333131	333131	Mining Machinery and Equipment Manufacturing 	6	33	333	3331	33313	708
+2017	6-333132	333132	Oil and Gas Field Machinery and Equipment Manufacturing 	6	33	333	3331	33313	709
+2017	4-3332	3332	Industrial Machinery Manufacturing	4	33	333	3332		710
+2017	5-33324	33324	Industrial Machinery Manufacturing	5	33	333	3332	33324	711
+2017	6-333241	333241	Food Product Machinery Manufacturing 	6	33	333	3332	33324	712
+2017	6-333242	333242	Semiconductor Machinery Manufacturing 	6	33	333	3332	33324	713
+2017	6-333243	333243	"Sawmill, Woodworking, and Paper Machinery Manufacturing "	6	33	333	3332	33324	714
+2017	6-333244	333244	Printing Machinery and Equipment Manufacturing 	6	33	333	3332	33324	715
+2017	6-333249	333249	Other Industrial Machinery Manufacturing 	6	33	333	3332	33324	716
+2017	4-3333	3333	Commercial and Service Industry Machinery Manufacturing	4	33	333	3333		717
+2017	5-33331	33331	Commercial and Service Industry Machinery Manufacturing	5	33	333	3333	33331	718
+2017	6-333314	333314	Optical Instrument and Lens Manufacturing 	6	33	333	3333	33331	719
+2017	6-333316	333316	Photographic and Photocopying Equipment Manufacturing 	6	33	333	3333	33331	720
+2017	6-333318	333318	Other Commercial and Service Industry Machinery Manufacturing 	6	33	333	3333	33331	721
+2017	4-3334	3334	"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"	4	33	333	3334		722
+2017	5-33341	33341	"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"	5	33	333	3334	33341	723
+2017	6-333413	333413	Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing 	6	33	333	3334	33341	724
+2017	6-333414	333414	Heating Equipment (except Warm Air Furnaces) Manufacturing 	6	33	333	3334	33341	725
+2017	6-333415	333415	Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing 	6	33	333	3334	33341	726
+2017	4-3335	3335	Metalworking Machinery Manufacturing	4	33	333	3335		727
+2017	5-33351	33351	Metalworking Machinery Manufacturing	5	33	333	3335	33351	728
+2017	6-333511	333511	Industrial Mold Manufacturing 	6	33	333	3335	33351	729
+2017	6-333514	333514	"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing "	6	33	333	3335	33351	730
+2017	6-333515	333515	Cutting Tool and Machine Tool Accessory Manufacturing 	6	33	333	3335	33351	731
+2017	6-333517	333517	Machine Tool Manufacturing 	6	33	333	3335	33351	732
+2017	6-333519	333519	Rolling Mill and Other Metalworking Machinery Manufacturing 	6	33	333	3335	33351	733
+2017	4-3336	3336	"Engine, Turbine, and Power Transmission Equipment Manufacturing"	4	33	333	3336		734
+2017	5-33361	33361	"Engine, Turbine, and Power Transmission Equipment Manufacturing"	5	33	333	3336	33361	735
+2017	6-333611	333611	Turbine and Turbine Generator Set Units Manufacturing 	6	33	333	3336	33361	736
+2017	6-333612	333612	"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing "	6	33	333	3336	33361	737
+2017	6-333613	333613	Mechanical Power Transmission Equipment Manufacturing 	6	33	333	3336	33361	738
+2017	6-333618	333618	Other Engine Equipment Manufacturing 	6	33	333	3336	33361	739
+2017	4-3339	3339	Other General Purpose Machinery Manufacturing	4	33	333	3339		740
+2017	5-33391	33391	Pump and Compressor Manufacturing	5	33	333	3339	33391	741
+2017	6-333912	333912	Air and Gas Compressor Manufacturing 	6	33	333	3339	33391	742
+2017	6-333914	333914	"Measuring, Dispensing, and Other Pumping Equipment Manufacturing "	6	33	333	3339	33391	743
+2017	5-33392	33392	Material Handling Equipment Manufacturing	5	33	333	3339	33392	744
+2017	6-333921	333921	Elevator and Moving Stairway Manufacturing 	6	33	333	3339	33392	745
+2017	6-333922	333922	Conveyor and Conveying Equipment Manufacturing 	6	33	333	3339	33392	746
+2017	6-333923	333923	"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing "	6	33	333	3339	33392	747
+2017	6-333924	333924	"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing "	6	33	333	3339	33392	748
+2017	5-33399	33399	All Other General Purpose Machinery Manufacturing	5	33	333	3339	33399	749
+2017	6-333991	333991	Power-Driven Handtool Manufacturing 	6	33	333	3339	33399	750
+2017	6-333992	333992	Welding and Soldering Equipment Manufacturing 	6	33	333	3339	33399	751
+2017	6-333993	333993	Packaging Machinery Manufacturing 	6	33	333	3339	33399	752
+2017	6-333994	333994	Industrial Process Furnace and Oven Manufacturing 	6	33	333	3339	33399	753
+2017	6-333995	333995	Fluid Power Cylinder and Actuator Manufacturing 	6	33	333	3339	33399	754
+2017	6-333996	333996	Fluid Power Pump and Motor Manufacturing 	6	33	333	3339	33399	755
+2017	6-333997	333997	Scale and Balance Manufacturing 	6	33	333	3339	33399	756
+2017	6-333999	333999	All Other Miscellaneous General Purpose Machinery Manufacturing 	6	33	333	3339	33399	757
+2017	3-334	334	Computer and Electronic Product Manufacturing	3	33	334			758
+2017	4-3341	3341	Computer and Peripheral Equipment Manufacturing	4	33	334	3341		759
+2017	5-33411	33411	Computer and Peripheral Equipment Manufacturing	5	33	334	3341	33411	760
+2017	6-334111	334111	Electronic Computer Manufacturing 	6	33	334	3341	33411	761
+2017	6-334112	334112	Computer Storage Device Manufacturing 	6	33	334	3341	33411	762
+2017	6-334118	334118	Computer Terminal and Other Computer Peripheral Equipment Manufacturing 	6	33	334	3341	33411	763
+2017	4-3342	3342	Communications Equipment Manufacturing	4	33	334	3342		764
+2017	5-33421	33421	Telephone Apparatus Manufacturing	5	33	334	3342	33421	765
+2017	6-334210	334210	Telephone Apparatus Manufacturing	6	33	334	3342	33421	766
+2017	5-33422	33422	Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing	5	33	334	3342	33422	767
+2017	6-334220	334220	Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing	6	33	334	3342	33422	768
+2017	5-33429	33429	Other Communications Equipment Manufacturing	5	33	334	3342	33429	769
+2017	6-334290	334290	Other Communications Equipment Manufacturing	6	33	334	3342	33429	770
+2017	4-3343	3343	Audio and Video Equipment Manufacturing	4	33	334	3343		771
+2017	5-33431	33431	Audio and Video Equipment Manufacturing	5	33	334	3343	33431	772
+2017	6-334310	334310	Audio and Video Equipment Manufacturing	6	33	334	3343	33431	773
+2017	4-3344	3344	Semiconductor and Other Electronic Component Manufacturing	4	33	334	3344		774
+2017	5-33441	33441	Semiconductor and Other Electronic Component Manufacturing	5	33	334	3344	33441	775
+2017	6-334412	334412	Bare Printed Circuit Board Manufacturing  	6	33	334	3344	33441	776
+2017	6-334413	334413	Semiconductor and Related Device Manufacturing 	6	33	334	3344	33441	777
+2017	6-334416	334416	"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing "	6	33	334	3344	33441	778
+2017	6-334417	334417	Electronic Connector Manufacturing 	6	33	334	3344	33441	779
+2017	6-334418	334418	Printed Circuit Assembly (Electronic Assembly) Manufacturing 	6	33	334	3344	33441	780
+2017	6-334419	334419	Other Electronic Component Manufacturing 	6	33	334	3344	33441	781
+2017	4-3345	3345	"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"	4	33	334	3345		782
+2017	5-33451	33451	"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"	5	33	334	3345	33451	783
+2017	6-334510	334510	Electromedical and Electrotherapeutic Apparatus Manufacturing 	6	33	334	3345	33451	784
+2017	6-334511	334511	"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing "	6	33	334	3345	33451	785
+2017	6-334512	334512	"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use "	6	33	334	3345	33451	786
+2017	6-334513	334513	"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables "	6	33	334	3345	33451	787
+2017	6-334514	334514	Totalizing Fluid Meter and Counting Device Manufacturing 	6	33	334	3345	33451	788
+2017	6-334515	334515	Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals 	6	33	334	3345	33451	789
+2017	6-334516	334516	Analytical Laboratory Instrument Manufacturing 	6	33	334	3345	33451	790
+2017	6-334517	334517	Irradiation Apparatus Manufacturing 	6	33	334	3345	33451	791
+2017	6-334519	334519	Other Measuring and Controlling Device Manufacturing 	6	33	334	3345	33451	792
+2017	4-3346	3346	Manufacturing and Reproducing Magnetic and Optical Media	4	33	334	3346		793
+2017	5-33461	33461	Manufacturing and Reproducing Magnetic and Optical Media	5	33	334	3346	33461	794
+2017	6-334613	334613	Blank Magnetic and Optical Recording Media Manufacturing 	6	33	334	3346	33461	795
+2017	6-334614	334614	"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing "	6	33	334	3346	33461	796
+2017	3-335	335	"Electrical Equipment, Appliance, and Component Manufacturing"	3	33	335			797
+2017	4-3351	3351	Electric Lighting Equipment Manufacturing	4	33	335	3351		798
+2017	5-33511	33511	Electric Lamp Bulb and Part Manufacturing	5	33	335	3351	33511	799
+2017	6-335110	335110	Electric Lamp Bulb and Part Manufacturing	6	33	335	3351	33511	800
+2017	5-33512	33512	Lighting Fixture Manufacturing	5	33	335	3351	33512	801
+2017	6-335121	335121	Residential Electric Lighting Fixture Manufacturing 	6	33	335	3351	33512	802
+2017	6-335122	335122	"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing "	6	33	335	3351	33512	803
+2017	6-335129	335129	Other Lighting Equipment Manufacturing 	6	33	335	3351	33512	804
+2017	4-3352	3352	Household Appliance Manufacturing	4	33	335	3352		805
+2017	5-33521	33521	Small Electrical Appliance Manufacturing	5	33	335	3352	33521	806
+2017	6-335210	335210	Small Electrical Appliance Manufacturing	6	33	335	3352	33521	807
+2017	5-33522	33522	Major Household Appliance Manufacturing 	5	33	335	3352	33522	808
+2017	6-335220	335220	Major Household Appliance Manufacturing 	6	33	335	3352	33522	809
+2017	4-3353	3353	Electrical Equipment Manufacturing	4	33	335	3353		810
+2017	5-33531	33531	Electrical Equipment Manufacturing	5	33	335	3353	33531	811
+2017	6-335311	335311	"Power, Distribution, and Specialty Transformer Manufacturing "	6	33	335	3353	33531	812
+2017	6-335312	335312	Motor and Generator Manufacturing 	6	33	335	3353	33531	813
+2017	6-335313	335313	Switchgear and Switchboard Apparatus Manufacturing 	6	33	335	3353	33531	814
+2017	6-335314	335314	Relay and Industrial Control Manufacturing 	6	33	335	3353	33531	815
+2017	4-3359	3359	Other Electrical Equipment and Component Manufacturing	4	33	335	3359		816
+2017	5-33591	33591	Battery Manufacturing	5	33	335	3359	33591	817
+2017	6-335911	335911	Storage Battery Manufacturing 	6	33	335	3359	33591	818
+2017	6-335912	335912	Primary Battery Manufacturing 	6	33	335	3359	33591	819
+2017	5-33592	33592	Communication and Energy Wire and Cable Manufacturing	5	33	335	3359	33592	820
+2017	6-335921	335921	Fiber Optic Cable Manufacturing 	6	33	335	3359	33592	821
+2017	6-335929	335929	Other Communication and Energy Wire Manufacturing 	6	33	335	3359	33592	822
+2017	5-33593	33593	Wiring Device Manufacturing	5	33	335	3359	33593	823
+2017	6-335931	335931	Current-Carrying Wiring Device Manufacturing 	6	33	335	3359	33593	824
+2017	6-335932	335932	Noncurrent-Carrying Wiring Device Manufacturing 	6	33	335	3359	33593	825
+2017	5-33599	33599	All Other Electrical Equipment and Component Manufacturing	5	33	335	3359	33599	826
+2017	6-335991	335991	Carbon and Graphite Product Manufacturing 	6	33	335	3359	33599	827
+2017	6-335999	335999	All Other Miscellaneous Electrical Equipment and Component Manufacturing 	6	33	335	3359	33599	828
+2017	3-336	336	Transportation Equipment Manufacturing	3	33	336			829
+2017	4-3361	3361	Motor Vehicle Manufacturing	4	33	336	3361		830
+2017	5-33611	33611	Automobile and Light Duty Motor Vehicle Manufacturing	5	33	336	3361	33611	831
+2017	6-336111	336111	Automobile Manufacturing 	6	33	336	3361	33611	832
+2017	6-336112	336112	Light Truck and Utility Vehicle Manufacturing 	6	33	336	3361	33611	833
+2017	5-33612	33612	Heavy Duty Truck Manufacturing	5	33	336	3361	33612	834
+2017	6-336120	336120	Heavy Duty Truck Manufacturing	6	33	336	3361	33612	835
+2017	4-3362	3362	Motor Vehicle Body and Trailer Manufacturing	4	33	336	3362		836
+2017	5-33621	33621	Motor Vehicle Body and Trailer Manufacturing	5	33	336	3362	33621	837
+2017	6-336211	336211	Motor Vehicle Body Manufacturing 	6	33	336	3362	33621	838
+2017	6-336212	336212	Truck Trailer Manufacturing 	6	33	336	3362	33621	839
+2017	6-336213	336213	Motor Home Manufacturing 	6	33	336	3362	33621	840
+2017	6-336214	336214	Travel Trailer and Camper Manufacturing 	6	33	336	3362	33621	841
+2017	4-3363	3363	Motor Vehicle Parts Manufacturing	4	33	336	3363		842
+2017	5-33631	33631	Motor Vehicle Gasoline Engine and Engine Parts Manufacturing	5	33	336	3363	33631	843
+2017	6-336310	336310	Motor Vehicle Gasoline Engine and Engine Parts Manufacturing	6	33	336	3363	33631	844
+2017	5-33632	33632	Motor Vehicle Electrical and Electronic Equipment Manufacturing	5	33	336	3363	33632	845
+2017	6-336320	336320	Motor Vehicle Electrical and Electronic Equipment Manufacturing	6	33	336	3363	33632	846
+2017	5-33633	33633	Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing	5	33	336	3363	33633	847
+2017	6-336330	336330	Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing	6	33	336	3363	33633	848
+2017	5-33634	33634	Motor Vehicle Brake System Manufacturing	5	33	336	3363	33634	849
+2017	6-336340	336340	Motor Vehicle Brake System Manufacturing	6	33	336	3363	33634	850
+2017	5-33635	33635	Motor Vehicle Transmission and Power Train Parts Manufacturing	5	33	336	3363	33635	851
+2017	6-336350	336350	Motor Vehicle Transmission and Power Train Parts Manufacturing	6	33	336	3363	33635	852
+2017	5-33636	33636	Motor Vehicle Seating and Interior Trim Manufacturing	5	33	336	3363	33636	853
+2017	6-336360	336360	Motor Vehicle Seating and Interior Trim Manufacturing	6	33	336	3363	33636	854
+2017	5-33637	33637	Motor Vehicle Metal Stamping	5	33	336	3363	33637	855
+2017	6-336370	336370	Motor Vehicle Metal Stamping	6	33	336	3363	33637	856
+2017	5-33639	33639	Other Motor Vehicle Parts Manufacturing	5	33	336	3363	33639	857
+2017	6-336390	336390	Other Motor Vehicle Parts Manufacturing	6	33	336	3363	33639	858
+2017	4-3364	3364	Aerospace Product and Parts Manufacturing	4	33	336	3364		859
+2017	5-33641	33641	Aerospace Product and Parts Manufacturing	5	33	336	3364	33641	860
+2017	6-336411	336411	Aircraft Manufacturing 	6	33	336	3364	33641	861
+2017	6-336412	336412	Aircraft Engine and Engine Parts Manufacturing 	6	33	336	3364	33641	862
+2017	6-336413	336413	Other Aircraft Parts and Auxiliary Equipment Manufacturing 	6	33	336	3364	33641	863
+2017	6-336414	336414	Guided Missile and Space Vehicle Manufacturing 	6	33	336	3364	33641	864
+2017	6-336415	336415	Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing 	6	33	336	3364	33641	865
+2017	6-336419	336419	Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing 	6	33	336	3364	33641	866
+2017	4-3365	3365	Railroad Rolling Stock Manufacturing	4	33	336	3365		867
+2017	5-33651	33651	Railroad Rolling Stock Manufacturing	5	33	336	3365	33651	868
+2017	6-336510	336510	Railroad Rolling Stock Manufacturing	6	33	336	3365	33651	869
+2017	4-3366	3366	Ship and Boat Building	4	33	336	3366		870
+2017	5-33661	33661	Ship and Boat Building	5	33	336	3366	33661	871
+2017	6-336611	336611	Ship Building and Repairing 	6	33	336	3366	33661	872
+2017	6-336612	336612	Boat Building 	6	33	336	3366	33661	873
+2017	4-3369	3369	Other Transportation Equipment Manufacturing	4	33	336	3369		874
+2017	5-33699	33699	Other Transportation Equipment Manufacturing	5	33	336	3369	33699	875
+2017	6-336991	336991	"Motorcycle, Bicycle, and Parts Manufacturing "	6	33	336	3369	33699	876
+2017	6-336992	336992	"Military Armored Vehicle, Tank, and Tank Component Manufacturing "	6	33	336	3369	33699	877
+2017	6-336999	336999	All Other Transportation Equipment Manufacturing 	6	33	336	3369	33699	878
+2017	3-337	337	Furniture and Related Product Manufacturing	3	33	337			879
+2017	4-3371	3371	Household and Institutional Furniture and Kitchen Cabinet Manufacturing	4	33	337	3371		880
+2017	5-33711	33711	Wood Kitchen Cabinet and Countertop Manufacturing	5	33	337	3371	33711	881
+2017	6-337110	337110	Wood Kitchen Cabinet and Countertop Manufacturing	6	33	337	3371	33711	882
+2017	5-33712	33712	Household and Institutional Furniture Manufacturing	5	33	337	3371	33712	883
+2017	6-337121	337121	Upholstered Household Furniture Manufacturing 	6	33	337	3371	33712	884
+2017	6-337122	337122	Nonupholstered Wood Household Furniture Manufacturing 	6	33	337	3371	33712	885
+2017	6-337124	337124	Metal Household Furniture Manufacturing 	6	33	337	3371	33712	886
+2017	6-337125	337125	Household Furniture (except Wood and Metal) Manufacturing 	6	33	337	3371	33712	887
+2017	6-337127	337127	Institutional Furniture Manufacturing 	6	33	337	3371	33712	888
+2017	4-3372	3372	Office Furniture (including Fixtures) Manufacturing	4	33	337	3372		889
+2017	5-33721	33721	Office Furniture (including Fixtures) Manufacturing	5	33	337	3372	33721	890
+2017	6-337211	337211	Wood Office Furniture Manufacturing 	6	33	337	3372	33721	891
+2017	6-337212	337212	Custom Architectural Woodwork and Millwork Manufacturing 	6	33	337	3372	33721	892
+2017	6-337214	337214	Office Furniture (except Wood) Manufacturing 	6	33	337	3372	33721	893
+2017	6-337215	337215	"Showcase, Partition, Shelving, and Locker Manufacturing "	6	33	337	3372	33721	894
+2017	4-3379	3379	Other Furniture Related Product Manufacturing	4	33	337	3379		895
+2017	5-33791	33791	Mattress Manufacturing	5	33	337	3379	33791	896
+2017	6-337910	337910	Mattress Manufacturing	6	33	337	3379	33791	897
+2017	5-33792	33792	Blind and Shade Manufacturing	5	33	337	3379	33792	898
+2017	6-337920	337920	Blind and Shade Manufacturing	6	33	337	3379	33792	899
+2017	3-339	339	Miscellaneous Manufacturing	3	33	339			900
+2017	4-3391	3391	Medical Equipment and Supplies Manufacturing	4	33	339	3391		901
+2017	5-33911	33911	Medical Equipment and Supplies Manufacturing	5	33	339	3391	33911	902
+2017	6-339112	339112	Surgical and Medical Instrument Manufacturing 	6	33	339	3391	33911	903
+2017	6-339113	339113	Surgical Appliance and Supplies Manufacturing 	6	33	339	3391	33911	904
+2017	6-339114	339114	Dental Equipment and Supplies Manufacturing 	6	33	339	3391	33911	905
+2017	6-339115	339115	Ophthalmic Goods Manufacturing 	6	33	339	3391	33911	906
+2017	6-339116	339116	Dental Laboratories 	6	33	339	3391	33911	907
+2017	4-3399	3399	Other Miscellaneous Manufacturing	4	33	339	3399		908
+2017	5-33991	33991	Jewelry and Silverware Manufacturing	5	33	339	3399	33991	909
+2017	6-339910	339910	Jewelry and Silverware Manufacturing 	6	33	339	3399	33991	910
+2017	5-33992	33992	Sporting and Athletic Goods Manufacturing	5	33	339	3399	33992	911
+2017	6-339920	339920	Sporting and Athletic Goods Manufacturing	6	33	339	3399	33992	912
+2017	5-33993	33993	"Doll, Toy, and Game Manufacturing"	5	33	339	3399	33993	913
+2017	6-339930	339930	"Doll, Toy, and Game Manufacturing"	6	33	339	3399	33993	914
+2017	5-33994	33994	Office Supplies (except Paper) Manufacturing	5	33	339	3399	33994	915
+2017	6-339940	339940	Office Supplies (except Paper) Manufacturing	6	33	339	3399	33994	916
+2017	5-33995	33995	Sign Manufacturing	5	33	339	3399	33995	917
+2017	6-339950	339950	Sign Manufacturing	6	33	339	3399	33995	918
+2017	5-33999	33999	All Other Miscellaneous Manufacturing	5	33	339	3399	33999	919
+2017	6-339991	339991	"Gasket, Packing, and Sealing Device Manufacturing "	6	33	339	3399	33999	920
+2017	6-339992	339992	Musical Instrument Manufacturing 	6	33	339	3399	33999	921
+2017	6-339993	339993	"Fastener, Button, Needle, and Pin Manufacturing "	6	33	339	3399	33999	922
+2017	6-339994	339994	"Broom, Brush, and Mop Manufacturing "	6	33	339	3399	33999	923
+2017	6-339995	339995	Burial Casket Manufacturing 	6	33	339	3399	33999	924
+2017	6-339999	339999	All Other Miscellaneous Manufacturing 	6	33	339	3399	33999	925
+2017	2-42	42	Wholesale Trade	2	42				926
+2017	3-423	423	"Merchant Wholesalers, Durable Goods "	3	42	423			927
+2017	4-4231	4231	Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers 	4	42	423	4231		928
+2017	5-42311	42311	Automobile and Other Motor Vehicle Merchant Wholesalers 	5	42	423	4231	42311	929
+2017	6-423110	423110	Automobile and Other Motor Vehicle Merchant Wholesalers 	6	42	423	4231	42311	930
+2017	5-42312	42312	Motor Vehicle Supplies and New Parts Merchant Wholesalers 	5	42	423	4231	42312	931
+2017	6-423120	423120	Motor Vehicle Supplies and New Parts Merchant Wholesalers 	6	42	423	4231	42312	932
+2017	5-42313	42313	Tire and Tube Merchant Wholesalers 	5	42	423	4231	42313	933
+2017	6-423130	423130	Tire and Tube Merchant Wholesalers 	6	42	423	4231	42313	934
+2017	5-42314	42314	Motor Vehicle Parts (Used) Merchant Wholesalers 	5	42	423	4231	42314	935
+2017	6-423140	423140	Motor Vehicle Parts (Used) Merchant Wholesalers 	6	42	423	4231	42314	936
+2017	4-4232	4232	Furniture and Home Furnishing Merchant Wholesalers 	4	42	423	4232		937
+2017	5-42321	42321	Furniture Merchant Wholesalers 	5	42	423	4232	42321	938
+2017	6-423210	423210	Furniture Merchant Wholesalers 	6	42	423	4232	42321	939
+2017	5-42322	42322	Home Furnishing Merchant Wholesalers 	5	42	423	4232	42322	940
+2017	6-423220	423220	Home Furnishing Merchant Wholesalers 	6	42	423	4232	42322	941
+2017	4-4233	4233	Lumber and Other Construction Materials Merchant Wholesalers 	4	42	423	4233		942
+2017	5-42331	42331	"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "	5	42	423	4233	42331	943
+2017	6-423310	423310	"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "	6	42	423	4233	42331	944
+2017	5-42332	42332	"Brick, Stone, and Related Construction Material Merchant Wholesalers "	5	42	423	4233	42332	945
+2017	6-423320	423320	"Brick, Stone, and Related Construction Material Merchant Wholesalers "	6	42	423	4233	42332	946
+2017	5-42333	42333	"Roofing, Siding, and Insulation Material Merchant Wholesalers "	5	42	423	4233	42333	947
+2017	6-423330	423330	"Roofing, Siding, and Insulation Material Merchant Wholesalers "	6	42	423	4233	42333	948
+2017	5-42339	42339	Other Construction Material Merchant Wholesalers 	5	42	423	4233	42339	949
+2017	6-423390	423390	Other Construction Material Merchant Wholesalers 	6	42	423	4233	42339	950
+2017	4-4234	4234	Professional and Commercial Equipment and Supplies Merchant Wholesalers 	4	42	423	4234		951
+2017	5-42341	42341	Photographic Equipment and Supplies Merchant Wholesalers 	5	42	423	4234	42341	952
+2017	6-423410	423410	Photographic Equipment and Supplies Merchant Wholesalers 	6	42	423	4234	42341	953
+2017	5-42342	42342	Office Equipment Merchant Wholesalers 	5	42	423	4234	42342	954
+2017	6-423420	423420	Office Equipment Merchant Wholesalers 	6	42	423	4234	42342	955
+2017	5-42343	42343	Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 	5	42	423	4234	42343	956
+2017	6-423430	423430	Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 	6	42	423	4234	42343	957
+2017	5-42344	42344	Other Commercial Equipment Merchant Wholesalers 	5	42	423	4234	42344	958
+2017	6-423440	423440	Other Commercial Equipment Merchant Wholesalers 	6	42	423	4234	42344	959
+2017	5-42345	42345	"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "	5	42	423	4234	42345	960
+2017	6-423450	423450	"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "	6	42	423	4234	42345	961
+2017	5-42346	42346	Ophthalmic Goods Merchant Wholesalers 	5	42	423	4234	42346	962
+2017	6-423460	423460	Ophthalmic Goods Merchant Wholesalers 	6	42	423	4234	42346	963
+2017	5-42349	42349	Other Professional Equipment and Supplies Merchant Wholesalers 	5	42	423	4234	42349	964
+2017	6-423490	423490	Other Professional Equipment and Supplies Merchant Wholesalers 	6	42	423	4234	42349	965
+2017	4-4235	4235	Metal and Mineral (except Petroleum) Merchant Wholesalers 	4	42	423	4235		966
+2017	5-42351	42351	Metal Service Centers and Other Metal Merchant Wholesalers 	5	42	423	4235	42351	967
+2017	6-423510	423510	Metal Service Centers and Other Metal Merchant Wholesalers 	6	42	423	4235	42351	968
+2017	5-42352	42352	Coal and Other Mineral and Ore Merchant Wholesalers 	5	42	423	4235	42352	969
+2017	6-423520	423520	Coal and Other Mineral and Ore Merchant Wholesalers 	6	42	423	4235	42352	970
+2017	4-4236	4236	Household Appliances and Electrical and Electronic Goods Merchant Wholesalers 	4	42	423	4236		971
+2017	5-42361	42361	"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "	5	42	423	4236	42361	972
+2017	6-423610	423610	"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "	6	42	423	4236	42361	973
+2017	5-42362	42362	"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "	5	42	423	4236	42362	974
+2017	6-423620	423620	"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "	6	42	423	4236	42362	975
+2017	5-42369	42369	Other Electronic Parts and Equipment Merchant Wholesalers 	5	42	423	4236	42369	976
+2017	6-423690	423690	Other Electronic Parts and Equipment Merchant Wholesalers 	6	42	423	4236	42369	977
+2017	4-4237	4237	"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers "	4	42	423	4237		978
+2017	5-42371	42371	Hardware Merchant Wholesalers 	5	42	423	4237	42371	979
+2017	6-423710	423710	Hardware Merchant Wholesalers 	6	42	423	4237	42371	980
+2017	5-42372	42372	Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 	5	42	423	4237	42372	981
+2017	6-423720	423720	Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 	6	42	423	4237	42372	982
+2017	5-42373	42373	Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 	5	42	423	4237	42373	983
+2017	6-423730	423730	Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 	6	42	423	4237	42373	984
+2017	5-42374	42374	Refrigeration Equipment and Supplies Merchant Wholesalers 	5	42	423	4237	42374	985
+2017	6-423740	423740	Refrigeration Equipment and Supplies Merchant Wholesalers 	6	42	423	4237	42374	986
+2017	4-4238	4238	"Machinery, Equipment, and Supplies Merchant Wholesalers "	4	42	423	4238		987
+2017	5-42381	42381	Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 	5	42	423	4238	42381	988
+2017	6-423810	423810	Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 	6	42	423	4238	42381	989
+2017	5-42382	42382	Farm and Garden Machinery and Equipment Merchant Wholesalers 	5	42	423	4238	42382	990
+2017	6-423820	423820	Farm and Garden Machinery and Equipment Merchant Wholesalers 	6	42	423	4238	42382	991
+2017	5-42383	42383	Industrial Machinery and Equipment Merchant Wholesalers 	5	42	423	4238	42383	992
+2017	6-423830	423830	Industrial Machinery and Equipment Merchant Wholesalers 	6	42	423	4238	42383	993
+2017	5-42384	42384	Industrial Supplies Merchant Wholesalers 	5	42	423	4238	42384	994
+2017	6-423840	423840	Industrial Supplies Merchant Wholesalers	6	42	423	4238	42384	995
+2017	5-42385	42385	Service Establishment Equipment and Supplies Merchant Wholesalers 	5	42	423	4238	42385	996
+2017	6-423850	423850	Service Establishment Equipment and Supplies Merchant Wholesalers 	6	42	423	4238	42385	997
+2017	5-42386	42386	Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 	5	42	423	4238	42386	998
+2017	6-423860	423860	Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 	6	42	423	4238	42386	999
+2017	4-4239	4239	Miscellaneous Durable Goods Merchant Wholesalers 	4	42	423	4239		1000
+2017	5-42391	42391	Sporting and Recreational Goods and Supplies Merchant Wholesalers	5	42	423	4239	42391	1001
+2017	6-423910	423910	Sporting and Recreational Goods and Supplies Merchant Wholesalers 	6	42	423	4239	42391	1002
+2017	5-42392	42392	Toy and Hobby Goods and Supplies Merchant Wholesalers 	5	42	423	4239	42392	1003
+2017	6-423920	423920	Toy and Hobby Goods and Supplies Merchant Wholesalers 	6	42	423	4239	42392	1004
+2017	5-42393	42393	Recyclable Material Merchant Wholesalers 	5	42	423	4239	42393	1005
+2017	6-423930	423930	Recyclable Material Merchant Wholesalers 	6	42	423	4239	42393	1006
+2017	5-42394	42394	"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "	5	42	423	4239	42394	1007
+2017	6-423940	423940	"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "	6	42	423	4239	42394	1008
+2017	5-42399	42399	Other Miscellaneous Durable Goods Merchant Wholesalers 	5	42	423	4239	42399	1009
+2017	6-423990	423990	Other Miscellaneous Durable Goods Merchant Wholesalers 	6	42	423	4239	42399	1010
+2017	3-424	424	"Merchant Wholesalers, Nondurable Goods "	3	42	424			1011
+2017	4-4241	4241	Paper and Paper Product Merchant Wholesalers 	4	42	424	4241		1012
+2017	5-42411	42411	Printing and Writing Paper Merchant Wholesalers 	5	42	424	4241	42411	1013
+2017	6-424110	424110	Printing and Writing Paper Merchant Wholesalers 	6	42	424	4241	42411	1014
+2017	5-42412	42412	Stationery and Office Supplies Merchant Wholesalers 	5	42	424	4241	42412	1015
+2017	6-424120	424120	Stationery and Office Supplies Merchant Wholesalers 	6	42	424	4241	42412	1016
+2017	5-42413	42413	Industrial and Personal Service Paper Merchant Wholesalers 	5	42	424	4241	42413	1017
+2017	6-424130	424130	Industrial and Personal Service Paper Merchant Wholesalers 	6	42	424	4241	42413	1018
+2017	4-4242	4242	Drugs and Druggists' Sundries Merchant Wholesalers 	4	42	424	4242		1019
+2017	5-42421	42421	Drugs and Druggists' Sundries Merchant Wholesalers 	5	42	424	4242	42421	1020
+2017	6-424210	424210	Drugs and Druggists' Sundries Merchant Wholesalers 	6	42	424	4242	42421	1021
+2017	4-4243	4243	"Apparel, Piece Goods, and Notions Merchant Wholesalers "	4	42	424	4243		1022
+2017	5-42431	42431	"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "	5	42	424	4243	42431	1023
+2017	6-424310	424310	"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "	6	42	424	4243	42431	1024
+2017	5-42432	42432	Men's and Boys' Clothing and Furnishings Merchant Wholesalers 	5	42	424	4243	42432	1025
+2017	6-424320	424320	Men's and Boys' Clothing and Furnishings Merchant Wholesalers 	6	42	424	4243	42432	1026
+2017	5-42433	42433	"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "	5	42	424	4243	42433	1027
+2017	6-424330	424330	"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "	6	42	424	4243	42433	1028
+2017	5-42434	42434	Footwear Merchant Wholesalers 	5	42	424	4243	42434	1029
+2017	6-424340	424340	Footwear Merchant Wholesalers 	6	42	424	4243	42434	1030
+2017	4-4244	4244	Grocery and Related Product Merchant Wholesalers 	4	42	424	4244		1031
+2017	5-42441	42441	General Line Grocery Merchant Wholesalers 	5	42	424	4244	42441	1032
+2017	6-424410	424410	General Line Grocery Merchant Wholesalers 	6	42	424	4244	42441	1033
+2017	5-42442	42442	Packaged Frozen Food Merchant Wholesalers 	5	42	424	4244	42442	1034
+2017	6-424420	424420	Packaged Frozen Food Merchant Wholesalers 	6	42	424	4244	42442	1035
+2017	5-42443	42443	Dairy Product (except Dried or Canned) Merchant Wholesalers 	5	42	424	4244	42443	1036
+2017	6-424430	424430	Dairy Product (except Dried or Canned) Merchant Wholesalers 	6	42	424	4244	42443	1037
+2017	5-42444	42444	Poultry and Poultry Product Merchant Wholesalers 	5	42	424	4244	42444	1038
+2017	6-424440	424440	Poultry and Poultry Product Merchant Wholesalers 	6	42	424	4244	42444	1039
+2017	5-42445	42445	Confectionery Merchant Wholesalers 	5	42	424	4244	42445	1040
+2017	6-424450	424450	Confectionery Merchant Wholesalers 	6	42	424	4244	42445	1041
+2017	5-42446	42446	Fish and Seafood Merchant Wholesalers 	5	42	424	4244	42446	1042
+2017	6-424460	424460	Fish and Seafood Merchant Wholesalers 	6	42	424	4244	42446	1043
+2017	5-42447	42447	Meat and Meat Product Merchant Wholesalers 	5	42	424	4244	42447	1044
+2017	6-424470	424470	Meat and Meat Product Merchant Wholesalers 	6	42	424	4244	42447	1045
+2017	5-42448	42448	Fresh Fruit and Vegetable Merchant Wholesalers 	5	42	424	4244	42448	1046
+2017	6-424480	424480	Fresh Fruit and Vegetable Merchant Wholesalers 	6	42	424	4244	42448	1047
+2017	5-42449	42449	Other Grocery and Related Products Merchant Wholesalers 	5	42	424	4244	42449	1048
+2017	6-424490	424490	Other Grocery and Related Products Merchant Wholesalers 	6	42	424	4244	42449	1049
+2017	4-4245	4245	Farm Product Raw Material Merchant Wholesalers 	4	42	424	4245		1050
+2017	5-42451	42451	Grain and Field Bean Merchant Wholesalers 	5	42	424	4245	42451	1051
+2017	6-424510	424510	Grain and Field Bean Merchant Wholesalers 	6	42	424	4245	42451	1052
+2017	5-42452	42452	Livestock Merchant Wholesalers 	5	42	424	4245	42452	1053
+2017	6-424520	424520	Livestock Merchant Wholesalers 	6	42	424	4245	42452	1054
+2017	5-42459	42459	Other Farm Product Raw Material Merchant Wholesalers 	5	42	424	4245	42459	1055
+2017	6-424590	424590	Other Farm Product Raw Material Merchant Wholesalers 	6	42	424	4245	42459	1056
+2017	4-4246	4246	Chemical and Allied Products Merchant Wholesalers 	4	42	424	4246		1057
+2017	5-42461	42461	Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 	5	42	424	4246	42461	1058
+2017	6-424610	424610	Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 	6	42	424	4246	42461	1059
+2017	5-42469	42469	Other Chemical and Allied Products Merchant Wholesalers 	5	42	424	4246	42469	1060
+2017	6-424690	424690	Other Chemical and Allied Products Merchant Wholesalers 	6	42	424	4246	42469	1061
+2017	4-4247	4247	Petroleum and Petroleum Products Merchant Wholesalers 	4	42	424	4247		1062
+2017	5-42471	42471	Petroleum Bulk Stations and Terminals 	5	42	424	4247	42471	1063
+2017	6-424710	424710	Petroleum Bulk Stations and Terminals 	6	42	424	4247	42471	1064
+2017	5-42472	42472	Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 	5	42	424	4247	42472	1065
+2017	6-424720	424720	Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 	6	42	424	4247	42472	1066
+2017	4-4248	4248	"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers "	4	42	424	4248		1067
+2017	5-42481	42481	Beer and Ale Merchant Wholesalers 	5	42	424	4248	42481	1068
+2017	6-424810	424810	Beer and Ale Merchant Wholesalers 	6	42	424	4248	42481	1069
+2017	5-42482	42482	Wine and Distilled Alcoholic Beverage Merchant Wholesalers 	5	42	424	4248	42482	1070
+2017	6-424820	424820	Wine and Distilled Alcoholic Beverage Merchant Wholesalers 	6	42	424	4248	42482	1071
+2017	4-4249	4249	Miscellaneous Nondurable Goods Merchant Wholesalers 	4	42	424	4249		1072
+2017	5-42491	42491	Farm Supplies Merchant Wholesalers 	5	42	424	4249	42491	1073
+2017	6-424910	424910	Farm Supplies Merchant Wholesalers 	6	42	424	4249	42491	1074
+2017	5-42492	42492	"Book, Periodical, and Newspaper Merchant Wholesalers "	5	42	424	4249	42492	1075
+2017	6-424920	424920	"Book, Periodical, and Newspaper Merchant Wholesalers "	6	42	424	4249	42492	1076
+2017	5-42493	42493	"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "	5	42	424	4249	42493	1077
+2017	6-424930	424930	"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "	6	42	424	4249	42493	1078
+2017	5-42494	42494	Tobacco and Tobacco Product Merchant Wholesalers 	5	42	424	4249	42494	1079
+2017	6-424940	424940	Tobacco and Tobacco Product Merchant Wholesalers 	6	42	424	4249	42494	1080
+2017	5-42495	42495	"Paint, Varnish, and Supplies Merchant Wholesalers "	5	42	424	4249	42495	1081
+2017	6-424950	424950	"Paint, Varnish, and Supplies Merchant Wholesalers "	6	42	424	4249	42495	1082
+2017	5-42499	42499	Other Miscellaneous Nondurable Goods Merchant Wholesalers 	5	42	424	4249	42499	1083
+2017	6-424990	424990	Other Miscellaneous Nondurable Goods Merchant Wholesalers 	6	42	424	4249	42499	1084
+2017	3-425	425	Wholesale Electronic Markets and Agents and Brokers 	3	42	425			1085
+2017	4-4251	4251	Wholesale Electronic Markets and Agents and Brokers 	4	42	425	4251		1086
+2017	5-42511	42511	Business to Business Electronic Markets 	5	42	425	4251	42511	1087
+2017	6-425110	425110	Business to Business Electronic Markets 	6	42	425	4251	42511	1088
+2017	5-42512	42512	Wholesale Trade Agents and Brokers 	5	42	425	4251	42512	1089
+2017	6-425120	425120	Wholesale Trade Agents and Brokers 	6	42	425	4251	42512	1090
+2017	5-44-45	44-45	Retail Trade	5	44	44-	44-4	44-45	1091
+2017	3-441	441	Motor Vehicle and Parts Dealers 	3	44	441			1092
+2017	4-4411	4411	Automobile Dealers 	4	44	441	4411		1093
+2017	5-44111	44111	New Car Dealers 	5	44	441	4411	44111	1094
+2017	6-441110	441110	New Car Dealers 	6	44	441	4411	44111	1095
+2017	5-44112	44112	Used Car Dealers 	5	44	441	4411	44112	1096
+2017	6-441120	441120	Used Car Dealers 	6	44	441	4411	44112	1097
+2017	4-4412	4412	Other Motor Vehicle Dealers 	4	44	441	4412		1098
+2017	5-44121	44121	Recreational Vehicle Dealers 	5	44	441	4412	44121	1099
+2017	6-441210	441210	Recreational Vehicle Dealers 	6	44	441	4412	44121	1100
+2017	5-44122	44122	"Motorcycle, Boat, and Other Motor Vehicle Dealers "	5	44	441	4412	44122	1101
+2017	6-441222	441222	Boat Dealers 	6	44	441	4412	44122	1102
+2017	6-441228	441228	"Motorcycle, ATV, and All Other Motor Vehicle Dealers "	6	44	441	4412	44122	1103
+2017	4-4413	4413	"Automotive Parts, Accessories, and Tire Stores "	4	44	441	4413		1104
+2017	5-44131	44131	Automotive Parts and Accessories Stores 	5	44	441	4413	44131	1105
+2017	6-441310	441310	Automotive Parts and Accessories Stores 	6	44	441	4413	44131	1106
+2017	5-44132	44132	Tire Dealers 	5	44	441	4413	44132	1107
+2017	6-441320	441320	Tire Dealers 	6	44	441	4413	44132	1108
+2017	3-442	442	Furniture and Home Furnishings Stores 	3	44	442			1109
+2017	4-4421	4421	Furniture Stores 	4	44	442	4421		1110
+2017	5-44211	44211	Furniture Stores 	5	44	442	4421	44211	1111
+2017	6-442110	442110	Furniture Stores 	6	44	442	4421	44211	1112
+2017	4-4422	4422	Home Furnishings Stores 	4	44	442	4422		1113
+2017	5-44221	44221	Floor Covering Stores 	5	44	442	4422	44221	1114
+2017	6-442210	442210	Floor Covering Stores 	6	44	442	4422	44221	1115
+2017	5-44229	44229	Other Home Furnishings Stores 	5	44	442	4422	44229	1116
+2017	6-442291	442291	Window Treatment Stores 	6	44	442	4422	44229	1117
+2017	6-442299	442299	All Other Home Furnishings Stores 	6	44	442	4422	44229	1118
+2017	3-443	443	Electronics and Appliance Stores 	3	44	443			1119
+2017	4-4431	4431	Electronics and Appliance Stores 	4	44	443	4431		1120
+2017	5-44314	44314	Electronics and Appliance Stores 	5	44	443	4431	44314	1121
+2017	6-443141	443141	Household Appliance Stores 	6	44	443	4431	44314	1122
+2017	6-443142	443142	Electronics Stores 	6	44	443	4431	44314	1123
+2017	3-444	444	Building Material and Garden Equipment and Supplies Dealers 	3	44	444			1124
+2017	4-4441	4441	Building Material and Supplies Dealers 	4	44	444	4441		1125
+2017	5-44411	44411	Home Centers 	5	44	444	4441	44411	1126
+2017	6-444110	444110	Home Centers 	6	44	444	4441	44411	1127
+2017	5-44412	44412	Paint and Wallpaper Stores 	5	44	444	4441	44412	1128
+2017	6-444120	444120	Paint and Wallpaper Stores 	6	44	444	4441	44412	1129
+2017	5-44413	44413	Hardware Stores 	5	44	444	4441	44413	1130
+2017	6-444130	444130	Hardware Stores 	6	44	444	4441	44413	1131
+2017	5-44419	44419	Other Building Material Dealers 	5	44	444	4441	44419	1132
+2017	6-444190	444190	Other Building Material Dealers 	6	44	444	4441	44419	1133
+2017	4-4442	4442	Lawn and Garden Equipment and Supplies Stores 	4	44	444	4442		1134
+2017	5-44421	44421	Outdoor Power Equipment Stores 	5	44	444	4442	44421	1135
+2017	6-444210	444210	Outdoor Power Equipment Stores 	6	44	444	4442	44421	1136
+2017	5-44422	44422	"Nursery, Garden Center, and Farm Supply Stores "	5	44	444	4442	44422	1137
+2017	6-444220	444220	"Nursery, Garden Center, and Farm Supply Stores "	6	44	444	4442	44422	1138
+2017	3-445	445	Food and Beverage Stores 	3	44	445			1139
+2017	4-4451	4451	Grocery Stores 	4	44	445	4451		1140
+2017	5-44511	44511	Supermarkets and Other Grocery (except Convenience) Stores 	5	44	445	4451	44511	1141
+2017	6-445110	445110	Supermarkets and Other Grocery (except Convenience) Stores 	6	44	445	4451	44511	1142
+2017	5-44512	44512	Convenience Stores 	5	44	445	4451	44512	1143
+2017	6-445120	445120	Convenience Stores 	6	44	445	4451	44512	1144
+2017	4-4452	4452	Specialty Food Stores 	4	44	445	4452		1145
+2017	5-44521	44521	Meat Markets 	5	44	445	4452	44521	1146
+2017	6-445210	445210	Meat Markets 	6	44	445	4452	44521	1147
+2017	5-44522	44522	Fish and Seafood Markets 	5	44	445	4452	44522	1148
+2017	6-445220	445220	Fish and Seafood Markets 	6	44	445	4452	44522	1149
+2017	5-44523	44523	Fruit and Vegetable Markets 	5	44	445	4452	44523	1150
+2017	6-445230	445230	Fruit and Vegetable Markets 	6	44	445	4452	44523	1151
+2017	5-44529	44529	Other Specialty Food Stores 	5	44	445	4452	44529	1152
+2017	6-445291	445291	Baked Goods Stores 	6	44	445	4452	44529	1153
+2017	6-445292	445292	Confectionery and Nut Stores 	6	44	445	4452	44529	1154
+2017	6-445299	445299	All Other Specialty Food Stores 	6	44	445	4452	44529	1155
+2017	4-4453	4453	"Beer, Wine, and Liquor Stores "	4	44	445	4453		1156
+2017	5-44531	44531	"Beer, Wine, and Liquor Stores "	5	44	445	4453	44531	1157
+2017	6-445310	445310	"Beer, Wine, and Liquor Stores "	6	44	445	4453	44531	1158
+2017	3-446	446	Health and Personal Care Stores 	3	44	446			1159
+2017	4-4461	4461	Health and Personal Care Stores 	4	44	446	4461		1160
+2017	5-44611	44611	Pharmacies and Drug Stores 	5	44	446	4461	44611	1161
+2017	6-446110	446110	Pharmacies and Drug Stores 	6	44	446	4461	44611	1162
+2017	5-44612	44612	"Cosmetics, Beauty Supplies, and Perfume Stores "	5	44	446	4461	44612	1163
+2017	6-446120	446120	"Cosmetics, Beauty Supplies, and Perfume Stores "	6	44	446	4461	44612	1164
+2017	5-44613	44613	Optical Goods Stores 	5	44	446	4461	44613	1165
+2017	6-446130	446130	Optical Goods Stores 	6	44	446	4461	44613	1166
+2017	5-44619	44619	Other Health and Personal Care Stores 	5	44	446	4461	44619	1167
+2017	6-446191	446191	Food (Health) Supplement Stores 	6	44	446	4461	44619	1168
+2017	6-446199	446199	All Other Health and Personal Care Stores 	6	44	446	4461	44619	1169
+2017	3-447	447	Gasoline Stations 	3	44	447			1170
+2017	4-4471	4471	Gasoline Stations 	4	44	447	4471		1171
+2017	5-44711	44711	Gasoline Stations with Convenience Stores 	5	44	447	4471	44711	1172
+2017	6-447110	447110	Gasoline Stations with Convenience Stores 	6	44	447	4471	44711	1173
+2017	5-44719	44719	Other Gasoline Stations 	5	44	447	4471	44719	1174
+2017	6-447190	447190	Other Gasoline Stations 	6	44	447	4471	44719	1175
+2017	3-448	448	Clothing and Clothing Accessories Stores 	3	44	448			1176
+2017	4-4481	4481	Clothing Stores 	4	44	448	4481		1177
+2017	5-44811	44811	Men's Clothing Stores 	5	44	448	4481	44811	1178
+2017	6-448110	448110	Men's Clothing Stores 	6	44	448	4481	44811	1179
+2017	5-44812	44812	Women's Clothing Stores 	5	44	448	4481	44812	1180
+2017	6-448120	448120	Women's Clothing Stores 	6	44	448	4481	44812	1181
+2017	5-44813	44813	Children's and Infants' Clothing Stores 	5	44	448	4481	44813	1182
+2017	6-448130	448130	Children's and Infants' Clothing Stores 	6	44	448	4481	44813	1183
+2017	5-44814	44814	Family Clothing Stores 	5	44	448	4481	44814	1184
+2017	6-448140	448140	Family Clothing Stores 	6	44	448	4481	44814	1185
+2017	5-44815	44815	Clothing Accessories Stores 	5	44	448	4481	44815	1186
+2017	6-448150	448150	Clothing Accessories Stores 	6	44	448	4481	44815	1187
+2017	5-44819	44819	Other Clothing Stores 	5	44	448	4481	44819	1188
+2017	6-448190	448190	Other Clothing Stores 	6	44	448	4481	44819	1189
+2017	4-4482	4482	Shoe Stores 	4	44	448	4482		1190
+2017	5-44821	44821	Shoe Stores 	5	44	448	4482	44821	1191
+2017	6-448210	448210	Shoe Stores 	6	44	448	4482	44821	1192
+2017	4-4483	4483	"Jewelry, Luggage, and Leather Goods Stores "	4	44	448	4483		1193
+2017	5-44831	44831	Jewelry Stores 	5	44	448	4483	44831	1194
+2017	6-448310	448310	Jewelry Stores 	6	44	448	4483	44831	1195
+2017	5-44832	44832	Luggage and Leather Goods Stores 	5	44	448	4483	44832	1196
+2017	6-448320	448320	Luggage and Leather Goods Stores 	6	44	448	4483	44832	1197
+2017	3-451	451	"Sporting Goods, Hobby, Musical Instrument, and Book Stores "	3	45	451			1198
+2017	4-4511	4511	"Sporting Goods, Hobby, and Musical Instrument Stores "	4	45	451	4511		1199
+2017	5-45111	45111	Sporting Goods Stores 	5	45	451	4511	45111	1200
+2017	6-451110	451110	Sporting Goods Stores 	6	45	451	4511	45111	1201
+2017	5-45112	45112	"Hobby, Toy, and Game Stores "	5	45	451	4511	45112	1202
+2017	6-451120	451120	"Hobby, Toy, and Game Stores "	6	45	451	4511	45112	1203
+2017	5-45113	45113	"Sewing, Needlework, and Piece Goods Stores "	5	45	451	4511	45113	1204
+2017	6-451130	451130	"Sewing, Needlework, and Piece Goods Stores "	6	45	451	4511	45113	1205
+2017	5-45114	45114	Musical Instrument and Supplies Stores 	5	45	451	4511	45114	1206
+2017	6-451140	451140	Musical Instrument and Supplies Stores 	6	45	451	4511	45114	1207
+2017	4-4512	4512	Book Stores and News Dealers 	4	45	451	4512		1208
+2017	5-45121	45121	Book Stores and News Dealers 	5	45	451	4512	45121	1209
+2017	6-451211	451211	Book Stores 	6	45	451	4512	45121	1210
+2017	6-451212	451212	News Dealers and Newsstands 	6	45	451	4512	45121	1211
+2017	3-452	452	General Merchandise Stores 	3	45	452			1212
+2017	4-4522	4522	Department Stores 	4	45	452	4522		1213
+2017	5-45221	45221	Department Stores 	5	45	452	4522	45221	1214
+2017	6-452210	452210	Department Stores 	6	45	452	4522	45221	1215
+2017	4-4523	4523	"General Merchandise Stores, including Warehouse Clubs and Supercenters "	4	45	452	4523		1216
+2017	5-45231	45231	"General Merchandise Stores, including Warehouse Clubs and Supercenters "	5	45	452	4523	45231	1217
+2017	6-452311	452311	Warehouse Clubs and Supercenters 	6	45	452	4523	45231	1218
+2017	6-452319	452319	All Other General Merchandise Stores 	6	45	452	4523	45231	1219
+2017	3-453	453	Miscellaneous Store Retailers 	3	45	453			1220
+2017	4-4531	4531	Florists 	4	45	453	4531		1221
+2017	5-45311	45311	Florists 	5	45	453	4531	45311	1222
+2017	6-453110	453110	Florists 	6	45	453	4531	45311	1223
+2017	4-4532	4532	"Office Supplies, Stationery, and Gift Stores "	4	45	453	4532		1224
+2017	5-45321	45321	Office Supplies and Stationery Stores 	5	45	453	4532	45321	1225
+2017	6-453210	453210	Office Supplies and Stationery Stores 	6	45	453	4532	45321	1226
+2017	5-45322	45322	"Gift, Novelty, and Souvenir Stores "	5	45	453	4532	45322	1227
+2017	6-453220	453220	"Gift, Novelty, and Souvenir Stores "	6	45	453	4532	45322	1228
+2017	4-4533	4533	Used Merchandise Stores 	4	45	453	4533		1229
+2017	5-45331	45331	Used Merchandise Stores 	5	45	453	4533	45331	1230
+2017	6-453310	453310	Used Merchandise Stores 	6	45	453	4533	45331	1231
+2017	4-4539	4539	Other Miscellaneous Store Retailers 	4	45	453	4539		1232
+2017	5-45391	45391	Pet and Pet Supplies Stores 	5	45	453	4539	45391	1233
+2017	6-453910	453910	Pet and Pet Supplies Stores 	6	45	453	4539	45391	1234
+2017	5-45392	45392	Art Dealers 	5	45	453	4539	45392	1235
+2017	6-453920	453920	Art Dealers 	6	45	453	4539	45392	1236
+2017	5-45393	45393	Manufactured (Mobile) Home Dealers 	5	45	453	4539	45393	1237
+2017	6-453930	453930	Manufactured (Mobile) Home Dealers 	6	45	453	4539	45393	1238
+2017	5-45399	45399	All Other Miscellaneous Store Retailers 	5	45	453	4539	45399	1239
+2017	6-453991	453991	Tobacco Stores 	6	45	453	4539	45399	1240
+2017	6-453998	453998	All Other Miscellaneous Store Retailers (except Tobacco Stores) 	6	45	453	4539	45399	1241
+2017	3-454	454	Nonstore Retailers 	3	45	454			1242
+2017	4-4541	4541	Electronic Shopping and Mail-Order Houses 	4	45	454	4541		1243
+2017	5-45411	45411	Electronic Shopping and Mail-Order Houses 	5	45	454	4541	45411	1244
+2017	6-454110	454110	Electronic Shopping and Mail-Order Houses 	6	45	454	4541	45411	1245
+2017	4-4542	4542	Vending Machine Operators 	4	45	454	4542		1246
+2017	5-45421	45421	Vending Machine Operators 	5	45	454	4542	45421	1247
+2017	6-454210	454210	Vending Machine Operators 	6	45	454	4542	45421	1248
+2017	4-4543	4543	Direct Selling Establishments 	4	45	454	4543		1249
+2017	5-45431	45431	Fuel Dealers 	5	45	454	4543	45431	1250
+2017	6-454310	454310	Fuel Dealers 	6	45	454	4543	45431	1251
+2017	5-45439	45439	Other Direct Selling Establishments 	5	45	454	4543	45439	1252
+2017	6-454390	454390	Other Direct Selling Establishments 	6	45	454	4543	45439	1253
+2017	5-48-49	48-49	Transportation and Warehousing	5	48	48-	48-4	48-49	1254
+2017	3-481	481	Air Transportation	3	48	481			1255
+2017	4-4811	4811	Scheduled Air Transportation	4	48	481	4811		1256
+2017	5-48111	48111	Scheduled Air Transportation	5	48	481	4811	48111	1257
+2017	6-481111	481111	Scheduled Passenger Air Transportation 	6	48	481	4811	48111	1258
+2017	6-481112	481112	Scheduled Freight Air Transportation 	6	48	481	4811	48111	1259
+2017	4-4812	4812	Nonscheduled Air Transportation	4	48	481	4812		1260
+2017	5-48121	48121	Nonscheduled Air Transportation	5	48	481	4812	48121	1261
+2017	6-481211	481211	Nonscheduled Chartered Passenger Air Transportation 	6	48	481	4812	48121	1262
+2017	6-481212	481212	Nonscheduled Chartered Freight Air Transportation 	6	48	481	4812	48121	1263
+2017	6-481219	481219	Other Nonscheduled Air Transportation 	6	48	481	4812	48121	1264
+2017	3-482	482	Rail Transportation	3	48	482			1265
+2017	4-4821	4821	Rail Transportation	4	48	482	4821		1266
+2017	5-48211	48211	Rail Transportation	5	48	482	4821	48211	1267
+2017	6-482111	482111	Line-Haul Railroads 	6	48	482	4821	48211	1268
+2017	6-482112	482112	Short Line Railroads 	6	48	482	4821	48211	1269
+2017	3-483	483	Water Transportation	3	48	483			1270
+2017	4-4831	4831	"Deep Sea, Coastal, and Great Lakes Water Transportation"	4	48	483	4831		1271
+2017	5-48311	48311	"Deep Sea, Coastal, and Great Lakes Water Transportation"	5	48	483	4831	48311	1272
+2017	6-483111	483111	Deep Sea Freight Transportation 	6	48	483	4831	48311	1273
+2017	6-483112	483112	Deep Sea Passenger Transportation 	6	48	483	4831	48311	1274
+2017	6-483113	483113	Coastal and Great Lakes Freight Transportation 	6	48	483	4831	48311	1275
+2017	6-483114	483114	Coastal and Great Lakes Passenger Transportation 	6	48	483	4831	48311	1276
+2017	4-4832	4832	Inland Water Transportation	4	48	483	4832		1277
+2017	5-48321	48321	Inland Water Transportation	5	48	483	4832	48321	1278
+2017	6-483211	483211	Inland Water Freight Transportation 	6	48	483	4832	48321	1279
+2017	6-483212	483212	Inland Water Passenger Transportation 	6	48	483	4832	48321	1280
+2017	3-484	484	Truck Transportation	3	48	484			1281
+2017	4-4841	4841	General Freight Trucking	4	48	484	4841		1282
+2017	5-48411	48411	"General Freight Trucking, Local"	5	48	484	4841	48411	1283
+2017	6-484110	484110	"General Freight Trucking, Local "	6	48	484	4841	48411	1284
+2017	5-48412	48412	"General Freight Trucking, Long-Distance"	5	48	484	4841	48412	1285
+2017	6-484121	484121	"General Freight Trucking, Long-Distance, Truckload "	6	48	484	4841	48412	1286
+2017	6-484122	484122	"General Freight Trucking, Long-Distance, Less Than Truckload "	6	48	484	4841	48412	1287
+2017	4-4842	4842	Specialized Freight Trucking	4	48	484	4842		1288
+2017	5-48421	48421	Used Household and Office Goods Moving	5	48	484	4842	48421	1289
+2017	6-484210	484210	Used Household and Office Goods Moving	6	48	484	4842	48421	1290
+2017	5-48422	48422	"Specialized Freight (except Used Goods) Trucking, Local"	5	48	484	4842	48422	1291
+2017	6-484220	484220	"Specialized Freight (except Used Goods) Trucking, Local "	6	48	484	4842	48422	1292
+2017	5-48423	48423	"Specialized Freight (except Used Goods) Trucking, Long-Distance"	5	48	484	4842	48423	1293
+2017	6-484230	484230	"Specialized Freight (except Used Goods) Trucking, Long-Distance "	6	48	484	4842	48423	1294
+2017	3-485	485	Transit and Ground Passenger Transportation	3	48	485			1295
+2017	4-4851	4851	Urban Transit Systems	4	48	485	4851		1296
+2017	5-48511	48511	Urban Transit Systems	5	48	485	4851	48511	1297
+2017	6-485111	485111	Mixed Mode Transit Systems 	6	48	485	4851	48511	1298
+2017	6-485112	485112	Commuter Rail Systems 	6	48	485	4851	48511	1299
+2017	6-485113	485113	Bus and Other Motor Vehicle Transit Systems 	6	48	485	4851	48511	1300
+2017	6-485119	485119	Other Urban Transit Systems 	6	48	485	4851	48511	1301
+2017	4-4852	4852	Interurban and Rural Bus Transportation	4	48	485	4852		1302
+2017	5-48521	48521	Interurban and Rural Bus Transportation	5	48	485	4852	48521	1303
+2017	6-485210	485210	Interurban and Rural Bus Transportation	6	48	485	4852	48521	1304
+2017	4-4853	4853	Taxi and Limousine Service	4	48	485	4853		1305
+2017	5-48531	48531	Taxi Service	5	48	485	4853	48531	1306
+2017	6-485310	485310	Taxi Service 	6	48	485	4853	48531	1307
+2017	5-48532	48532	Limousine Service	5	48	485	4853	48532	1308
+2017	6-485320	485320	Limousine Service	6	48	485	4853	48532	1309
+2017	4-4854	4854	School and Employee Bus Transportation	4	48	485	4854		1310
+2017	5-48541	48541	School and Employee Bus Transportation	5	48	485	4854	48541	1311
+2017	6-485410	485410	School and Employee Bus Transportation	6	48	485	4854	48541	1312
+2017	4-4855	4855	Charter Bus Industry	4	48	485	4855		1313
+2017	5-48551	48551	Charter Bus Industry	5	48	485	4855	48551	1314
+2017	6-485510	485510	Charter Bus Industry	6	48	485	4855	48551	1315
+2017	4-4859	4859	Other Transit and Ground Passenger Transportation	4	48	485	4859		1316
+2017	5-48599	48599	Other Transit and Ground Passenger Transportation	5	48	485	4859	48599	1317
+2017	6-485991	485991	Special Needs Transportation 	6	48	485	4859	48599	1318
+2017	6-485999	485999	All Other Transit and Ground Passenger Transportation 	6	48	485	4859	48599	1319
+2017	3-486	486	Pipeline Transportation	3	48	486			1320
+2017	4-4861	4861	Pipeline Transportation of Crude Oil	4	48	486	4861		1321
+2017	5-48611	48611	Pipeline Transportation of Crude Oil	5	48	486	4861	48611	1322
+2017	6-486110	486110	Pipeline Transportation of Crude Oil	6	48	486	4861	48611	1323
+2017	4-4862	4862	Pipeline Transportation of Natural Gas	4	48	486	4862		1324
+2017	5-48621	48621	Pipeline Transportation of Natural Gas	5	48	486	4862	48621	1325
+2017	6-486210	486210	Pipeline Transportation of Natural Gas	6	48	486	4862	48621	1326
+2017	4-4869	4869	Other Pipeline Transportation	4	48	486	4869		1327
+2017	5-48691	48691	Pipeline Transportation of Refined Petroleum Products	5	48	486	4869	48691	1328
+2017	6-486910	486910	Pipeline Transportation of Refined Petroleum Products	6	48	486	4869	48691	1329
+2017	5-48699	48699	All Other Pipeline Transportation	5	48	486	4869	48699	1330
+2017	6-486990	486990	All Other Pipeline Transportation	6	48	486	4869	48699	1331
+2017	3-487	487	Scenic and Sightseeing Transportation	3	48	487			1332
+2017	4-4871	4871	"Scenic and Sightseeing Transportation, Land"	4	48	487	4871		1333
+2017	5-48711	48711	"Scenic and Sightseeing Transportation, Land"	5	48	487	4871	48711	1334
+2017	6-487110	487110	"Scenic and Sightseeing Transportation, Land"	6	48	487	4871	48711	1335
+2017	4-4872	4872	"Scenic and Sightseeing Transportation, Water"	4	48	487	4872		1336
+2017	5-48721	48721	"Scenic and Sightseeing Transportation, Water"	5	48	487	4872	48721	1337
+2017	6-487210	487210	"Scenic and Sightseeing Transportation, Water"	6	48	487	4872	48721	1338
+2017	4-4879	4879	"Scenic and Sightseeing Transportation, Other"	4	48	487	4879		1339
+2017	5-48799	48799	"Scenic and Sightseeing Transportation, Other"	5	48	487	4879	48799	1340
+2017	6-487990	487990	"Scenic and Sightseeing Transportation, Other"	6	48	487	4879	48799	1341
+2017	3-488	488	Support Activities for Transportation	3	48	488			1342
+2017	4-4881	4881	Support Activities for Air Transportation	4	48	488	4881		1343
+2017	5-48811	48811	Airport Operations	5	48	488	4881	48811	1344
+2017	6-488111	488111	Air Traffic Control	6	48	488	4881	48811	1345
+2017	6-488119	488119	Other Airport Operations 	6	48	488	4881	48811	1346
+2017	5-48819	48819	Other Support Activities for Air Transportation	5	48	488	4881	48819	1347
+2017	6-488190	488190	Other Support Activities for Air Transportation	6	48	488	4881	48819	1348
+2017	4-4882	4882	Support Activities for Rail Transportation	4	48	488	4882		1349
+2017	5-48821	48821	Support Activities for Rail Transportation	5	48	488	4882	48821	1350
+2017	6-488210	488210	Support Activities for Rail Transportation	6	48	488	4882	48821	1351
+2017	4-4883	4883	Support Activities for Water Transportation	4	48	488	4883		1352
+2017	5-48831	48831	Port and Harbor Operations	5	48	488	4883	48831	1353
+2017	6-488310	488310	Port and Harbor Operations	6	48	488	4883	48831	1354
+2017	5-48832	48832	Marine Cargo Handling	5	48	488	4883	48832	1355
+2017	6-488320	488320	Marine Cargo Handling	6	48	488	4883	48832	1356
+2017	5-48833	48833	Navigational Services to Shipping	5	48	488	4883	48833	1357
+2017	6-488330	488330	Navigational Services to Shipping 	6	48	488	4883	48833	1358
+2017	5-48839	48839	Other Support Activities for Water Transportation	5	48	488	4883	48839	1359
+2017	6-488390	488390	Other Support Activities for Water Transportation	6	48	488	4883	48839	1360
+2017	4-4884	4884	Support Activities for Road Transportation	4	48	488	4884		1361
+2017	5-48841	48841	Motor Vehicle Towing	5	48	488	4884	48841	1362
+2017	6-488410	488410	Motor Vehicle Towing	6	48	488	4884	48841	1363
+2017	5-48849	48849	Other Support Activities for Road Transportation	5	48	488	4884	48849	1364
+2017	6-488490	488490	Other Support Activities for Road Transportation 	6	48	488	4884	48849	1365
+2017	4-4885	4885	Freight Transportation Arrangement	4	48	488	4885		1366
+2017	5-48851	48851	Freight Transportation Arrangement	5	48	488	4885	48851	1367
+2017	6-488510	488510	Freight Transportation Arrangement 	6	48	488	4885	48851	1368
+2017	4-4889	4889	Other Support Activities for Transportation	4	48	488	4889		1369
+2017	5-48899	48899	Other Support Activities for Transportation	5	48	488	4889	48899	1370
+2017	6-488991	488991	Packing and Crating 	6	48	488	4889	48899	1371
+2017	6-488999	488999	All Other Support Activities for Transportation 	6	48	488	4889	48899	1372
+2017	3-491	491	Postal Service	3	49	491			1373
+2017	4-4911	4911	Postal Service	4	49	491	4911		1374
+2017	5-49111	49111	Postal Service	5	49	491	4911	49111	1375
+2017	6-491110	491110	Postal Service	6	49	491	4911	49111	1376
+2017	3-492	492	Couriers and Messengers	3	49	492			1377
+2017	4-4921	4921	Couriers and Express Delivery Services	4	49	492	4921		1378
+2017	5-49211	49211	Couriers and Express Delivery Services	5	49	492	4921	49211	1379
+2017	6-492110	492110	Couriers and Express Delivery Services	6	49	492	4921	49211	1380
+2017	4-4922	4922	Local Messengers and Local Delivery	4	49	492	4922		1381
+2017	5-49221	49221	Local Messengers and Local Delivery	5	49	492	4922	49221	1382
+2017	6-492210	492210	Local Messengers and Local Delivery	6	49	492	4922	49221	1383
+2017	3-493	493	Warehousing and Storage	3	49	493			1384
+2017	4-4931	4931	Warehousing and Storage	4	49	493	4931		1385
+2017	5-49311	49311	General Warehousing and Storage	5	49	493	4931	49311	1386
+2017	6-493110	493110	General Warehousing and Storage 	6	49	493	4931	49311	1387
+2017	5-49312	49312	Refrigerated Warehousing and Storage	5	49	493	4931	49312	1388
+2017	6-493120	493120	Refrigerated Warehousing and Storage	6	49	493	4931	49312	1389
+2017	5-49313	49313	Farm Product Warehousing and Storage	5	49	493	4931	49313	1390
+2017	6-493130	493130	Farm Product Warehousing and Storage	6	49	493	4931	49313	1391
+2017	5-49319	49319	Other Warehousing and Storage	5	49	493	4931	49319	1392
+2017	6-493190	493190	Other Warehousing and Storage	6	49	493	4931	49319	1393
+2017	2-51	51	Information	2	51				1394
+2017	3-511	511	Publishing Industries (except Internet)	3	51	511			1395
+2017	4-5111	5111	"Newspaper, Periodical, Book, and Directory Publishers"	4	51	511	5111		1396
+2017	5-51111	51111	Newspaper Publishers	5	51	511	5111	51111	1397
+2017	6-511110	511110	Newspaper Publishers 	6	51	511	5111	51111	1398
+2017	5-51112	51112	Periodical Publishers	5	51	511	5111	51112	1399
+2017	6-511120	511120	Periodical Publishers 	6	51	511	5111	51112	1400
+2017	5-51113	51113	Book Publishers	5	51	511	5111	51113	1401
+2017	6-511130	511130	Book Publishers 	6	51	511	5111	51113	1402
+2017	5-51114	51114	Directory and Mailing List Publishers	5	51	511	5111	51114	1403
+2017	6-511140	511140	Directory and Mailing List Publishers 	6	51	511	5111	51114	1404
+2017	5-51119	51119	Other Publishers	5	51	511	5111	51119	1405
+2017	6-511191	511191	Greeting Card Publishers 	6	51	511	5111	51119	1406
+2017	6-511199	511199	All Other Publishers 	6	51	511	5111	51119	1407
+2017	4-5112	5112	Software Publishers	4	51	511	5112		1408
+2017	5-51121	51121	Software Publishers	5	51	511	5112	51121	1409
+2017	6-511210	511210	Software Publishers	6	51	511	5112	51121	1410
+2017	3-512	512	Motion Picture and Sound Recording Industries	3	51	512			1411
+2017	4-5121	5121	Motion Picture and Video Industries	4	51	512	5121		1412
+2017	5-51211	51211	Motion Picture and Video Production	5	51	512	5121	51211	1413
+2017	6-512110	512110	Motion Picture and Video Production 	6	51	512	5121	51211	1414
+2017	5-51212	51212	Motion Picture and Video Distribution	5	51	512	5121	51212	1415
+2017	6-512120	512120	Motion Picture and Video Distribution	6	51	512	5121	51212	1416
+2017	5-51213	51213	Motion Picture and Video Exhibition	5	51	512	5121	51213	1417
+2017	6-512131	512131	Motion Picture Theaters (except Drive-Ins) 	6	51	512	5121	51213	1418
+2017	6-512132	512132	Drive-In Motion Picture Theaters 	6	51	512	5121	51213	1419
+2017	5-51219	51219	Postproduction Services and Other Motion Picture and Video Industries	5	51	512	5121	51219	1420
+2017	6-512191	512191	Teleproduction and Other Postproduction Services 	6	51	512	5121	51219	1421
+2017	6-512199	512199	Other Motion Picture and Video Industries 	6	51	512	5121	51219	1422
+2017	4-5122	5122	Sound Recording Industries	4	51	512	5122		1423
+2017	5-51223	51223	Music Publishers	5	51	512	5122	51223	1424
+2017	6-512230	512230	Music Publishers	6	51	512	5122	51223	1425
+2017	5-51224	51224	Sound Recording Studios	5	51	512	5122	51224	1426
+2017	6-512240	512240	Sound Recording Studios	6	51	512	5122	51224	1427
+2017	5-51225	51225	Record Production and Distribution	5	51	512	5122	51225	1428
+2017	6-512250	512250	Record Production and Distribution	6	51	512	5122	51225	1429
+2017	5-51229	51229	Other Sound Recording Industries	5	51	512	5122	51229	1430
+2017	6-512290	512290	Other Sound Recording Industries	6	51	512	5122	51229	1431
+2017	3-515	515	Broadcasting (except Internet)	3	51	515			1432
+2017	4-5151	5151	Radio and Television Broadcasting	4	51	515	5151		1433
+2017	5-51511	51511	Radio Broadcasting	5	51	515	5151	51511	1434
+2017	6-515111	515111	Radio Networks 	6	51	515	5151	51511	1435
+2017	6-515112	515112	Radio Stations 	6	51	515	5151	51511	1436
+2017	5-51512	51512	Television Broadcasting	5	51	515	5151	51512	1437
+2017	6-515120	515120	Television Broadcasting	6	51	515	5151	51512	1438
+2017	4-5152	5152	Cable and Other Subscription Programming	4	51	515	5152		1439
+2017	5-51521	51521	Cable and Other Subscription Programming	5	51	515	5152	51521	1440
+2017	6-515210	515210	Cable and Other Subscription Programming	6	51	515	5152	51521	1441
+2017	3-517	517	Telecommunications	3	51	517			1442
+2017	4-5173	5173	Wired and Wireless Telecommunications Carriers	4	51	517	5173		1443
+2017	5-51731	51731	Wired and Wireless Telecommunications Carriers	5	51	517	5173	51731	1444
+2017	6-517311	517311	Wired Telecommunications Carriers 	6	51	517	5173	51731	1445
+2017	6-517312	517312	Wireless Telecommunications Carriers (except Satellite)	6	51	517	5173	51731	1446
+2017	4-5174	5174	Satellite Telecommunications	4	51	517	5174		1447
+2017	5-51741	51741	Satellite Telecommunications	5	51	517	5174	51741	1448
+2017	6-517410	517410	Satellite Telecommunications	6	51	517	5174	51741	1449
+2017	4-5179	5179	Other Telecommunications	4	51	517	5179		1450
+2017	5-51791	51791	Other Telecommunications	5	51	517	5179	51791	1451
+2017	6-517911	517911	Telecommunications Resellers 	6	51	517	5179	51791	1452
+2017	6-517919	517919	All Other Telecommunications 	6	51	517	5179	51791	1453
+2017	3-518	518	"Data Processing, Hosting, and Related Services"	3	51	518			1454
+2017	4-5182	5182	"Data Processing, Hosting, and Related Services"	4	51	518	5182		1455
+2017	5-51821	51821	"Data Processing, Hosting, and Related Services"	5	51	518	5182	51821	1456
+2017	6-518210	518210	"Data Processing, Hosting, and Related Services"	6	51	518	5182	51821	1457
+2017	3-519	519	Other Information Services	3	51	519			1458
+2017	4-5191	5191	Other Information Services	4	51	519	5191		1459
+2017	5-51911	51911	News Syndicates	5	51	519	5191	51911	1460
+2017	6-519110	519110	News Syndicates	6	51	519	5191	51911	1461
+2017	5-51912	51912	Libraries and Archives	5	51	519	5191	51912	1462
+2017	6-519120	519120	Libraries and Archives 	6	51	519	5191	51912	1463
+2017	5-51913	51913	Internet Publishing and Broadcasting and Web Search Portals	5	51	519	5191	51913	1464
+2017	6-519130	519130	Internet Publishing and Broadcasting and Web Search Portals	6	51	519	5191	51913	1465
+2017	5-51919	51919	All Other Information Services	5	51	519	5191	51919	1466
+2017	6-519190	519190	All Other Information Services	6	51	519	5191	51919	1467
+2017	2-52	52	Finance and Insurance	2	52				1468
+2017	3-521	521	Monetary Authorities-Central Bank	3	52	521			1469
+2017	4-5211	5211	Monetary Authorities-Central Bank	4	52	521	5211		1470
+2017	5-52111	52111	Monetary Authorities-Central Bank	5	52	521	5211	52111	1471
+2017	6-521110	521110	Monetary Authorities-Central Bank	6	52	521	5211	52111	1472
+2017	3-522	522	Credit Intermediation and Related Activities	3	52	522			1473
+2017	4-5221	5221	Depository Credit Intermediation 	4	52	522	5221		1474
+2017	5-52211	52211	Commercial Banking 	5	52	522	5221	52211	1475
+2017	6-522110	522110	Commercial Banking 	6	52	522	5221	52211	1476
+2017	5-52212	52212	Savings Institutions 	5	52	522	5221	52212	1477
+2017	6-522120	522120	Savings Institutions 	6	52	522	5221	52212	1478
+2017	5-52213	52213	Credit Unions 	5	52	522	5221	52213	1479
+2017	6-522130	522130	Credit Unions 	6	52	522	5221	52213	1480
+2017	5-52219	52219	Other Depository Credit Intermediation 	5	52	522	5221	52219	1481
+2017	6-522190	522190	Other Depository Credit Intermediation 	6	52	522	5221	52219	1482
+2017	4-5222	5222	Nondepository Credit Intermediation 	4	52	522	5222		1483
+2017	5-52221	52221	Credit Card Issuing 	5	52	522	5222	52221	1484
+2017	6-522210	522210	Credit Card Issuing 	6	52	522	5222	52221	1485
+2017	5-52222	52222	Sales Financing 	5	52	522	5222	52222	1486
+2017	6-522220	522220	Sales Financing 	6	52	522	5222	52222	1487
+2017	5-52229	52229	Other Nondepository Credit Intermediation 	5	52	522	5222	52229	1488
+2017	6-522291	522291	Consumer Lending 	6	52	522	5222	52229	1489
+2017	6-522292	522292	Real Estate Credit 	6	52	522	5222	52229	1490
+2017	6-522293	522293	International Trade Financing 	6	52	522	5222	52229	1491
+2017	6-522294	522294	Secondary Market Financing 	6	52	522	5222	52229	1492
+2017	6-522298	522298	All Other Nondepository Credit Intermediation 	6	52	522	5222	52229	1493
+2017	4-5223	5223	Activities Related to Credit Intermediation 	4	52	522	5223		1494
+2017	5-52231	52231	Mortgage and Nonmortgage Loan Brokers 	5	52	522	5223	52231	1495
+2017	6-522310	522310	Mortgage and Nonmortgage Loan Brokers 	6	52	522	5223	52231	1496
+2017	5-52232	52232	"Financial Transactions Processing, Reserve, and Clearinghouse Activities "	5	52	522	5223	52232	1497
+2017	6-522320	522320	"Financial Transactions Processing, Reserve, and Clearinghouse Activities "	6	52	522	5223	52232	1498
+2017	5-52239	52239	Other Activities Related to Credit Intermediation 	5	52	522	5223	52239	1499
+2017	6-522390	522390	Other Activities Related to Credit Intermediation 	6	52	522	5223	52239	1500
+2017	3-523	523	"Securities, Commodity Contracts, and Other Financial Investments and Related Activities"	3	52	523			1501
+2017	4-5231	5231	Securities and Commodity Contracts Intermediation and Brokerage	4	52	523	5231		1502
+2017	5-52311	52311	Investment Banking and Securities Dealing 	5	52	523	5231	52311	1503
+2017	6-523110	523110	Investment Banking and Securities Dealing 	6	52	523	5231	52311	1504
+2017	5-52312	52312	Securities Brokerage 	5	52	523	5231	52312	1505
+2017	6-523120	523120	Securities Brokerage 	6	52	523	5231	52312	1506
+2017	5-52313	52313	Commodity Contracts Dealing 	5	52	523	5231	52313	1507
+2017	6-523130	523130	Commodity Contracts Dealing 	6	52	523	5231	52313	1508
+2017	5-52314	52314	Commodity Contracts Brokerage 	5	52	523	5231	52314	1509
+2017	6-523140	523140	Commodity Contracts Brokerage 	6	52	523	5231	52314	1510
+2017	4-5232	5232	Securities and Commodity Exchanges	4	52	523	5232		1511
+2017	5-52321	52321	Securities and Commodity Exchanges	5	52	523	5232	52321	1512
+2017	6-523210	523210	Securities and Commodity Exchanges	6	52	523	5232	52321	1513
+2017	4-5239	5239	Other Financial Investment Activities	4	52	523	5239		1514
+2017	5-52391	52391	Miscellaneous Intermediation 	5	52	523	5239	52391	1515
+2017	6-523910	523910	Miscellaneous Intermediation 	6	52	523	5239	52391	1516
+2017	5-52392	52392	Portfolio Management 	5	52	523	5239	52392	1517
+2017	6-523920	523920	Portfolio Management 	6	52	523	5239	52392	1518
+2017	5-52393	52393	Investment Advice 	5	52	523	5239	52393	1519
+2017	6-523930	523930	Investment Advice 	6	52	523	5239	52393	1520
+2017	5-52399	52399	All Other Financial Investment Activities 	5	52	523	5239	52399	1521
+2017	6-523991	523991	"Trust, Fiduciary, and Custody Activities "	6	52	523	5239	52399	1522
+2017	6-523999	523999	Miscellaneous Financial Investment Activities 	6	52	523	5239	52399	1523
+2017	3-524	524	Insurance Carriers and Related Activities	3	52	524			1524
+2017	4-5241	5241	Insurance Carriers	4	52	524	5241		1525
+2017	5-52411	52411	"Direct Life, Health, and Medical Insurance Carriers "	5	52	524	5241	52411	1526
+2017	6-524113	524113	Direct Life Insurance Carriers 	6	52	524	5241	52411	1527
+2017	6-524114	524114	Direct Health and Medical Insurance Carriers 	6	52	524	5241	52411	1528
+2017	5-52412	52412	"Direct Insurance (except Life, Health, and Medical) Carriers "	5	52	524	5241	52412	1529
+2017	6-524126	524126	Direct Property and Casualty Insurance Carriers 	6	52	524	5241	52412	1530
+2017	6-524127	524127	Direct Title Insurance Carriers 	6	52	524	5241	52412	1531
+2017	6-524128	524128	"Other Direct Insurance (except Life, Health, and Medical) Carriers "	6	52	524	5241	52412	1532
+2017	5-52413	52413	Reinsurance Carriers 	5	52	524	5241	52413	1533
+2017	6-524130	524130	Reinsurance Carriers 	6	52	524	5241	52413	1534
+2017	4-5242	5242	"Agencies, Brokerages, and Other Insurance Related Activities"	4	52	524	5242		1535
+2017	5-52421	52421	Insurance Agencies and Brokerages 	5	52	524	5242	52421	1536
+2017	6-524210	524210	Insurance Agencies and Brokerages 	6	52	524	5242	52421	1537
+2017	5-52429	52429	Other Insurance Related Activities 	5	52	524	5242	52429	1538
+2017	6-524291	524291	Claims Adjusting 	6	52	524	5242	52429	1539
+2017	6-524292	524292	Third Party Administration of Insurance and Pension Funds 	6	52	524	5242	52429	1540
+2017	6-524298	524298	All Other Insurance Related Activities 	6	52	524	5242	52429	1541
+2017	3-525	525	"Funds, Trusts, and Other Financial Vehicles "	3	52	525			1542
+2017	4-5251	5251	Insurance and Employee Benefit Funds 	4	52	525	5251		1543
+2017	5-52511	52511	Pension Funds 	5	52	525	5251	52511	1544
+2017	6-525110	525110	Pension Funds 	6	52	525	5251	52511	1545
+2017	5-52512	52512	Health and Welfare Funds 	5	52	525	5251	52512	1546
+2017	6-525120	525120	Health and Welfare Funds 	6	52	525	5251	52512	1547
+2017	5-52519	52519	Other Insurance Funds 	5	52	525	5251	52519	1548
+2017	6-525190	525190	Other Insurance Funds 	6	52	525	5251	52519	1549
+2017	4-5259	5259	Other Investment Pools and Funds	4	52	525	5259		1550
+2017	5-52591	52591	Open-End Investment Funds 	5	52	525	5259	52591	1551
+2017	6-525910	525910	Open-End Investment Funds 	6	52	525	5259	52591	1552
+2017	5-52592	52592	"Trusts, Estates, and Agency Accounts "	5	52	525	5259	52592	1553
+2017	6-525920	525920	"Trusts, Estates, and Agency Accounts "	6	52	525	5259	52592	1554
+2017	5-52599	52599	Other Financial Vehicles 	5	52	525	5259	52599	1555
+2017	6-525990	525990	Other Financial Vehicles 	6	52	525	5259	52599	1556
+2017	2-53	53	Real Estate and Rental and Leasing	2	53				1557
+2017	3-531	531	Real Estate	3	53	531			1558
+2017	4-5311	5311	Lessors of Real Estate	4	53	531	5311		1559
+2017	5-53111	53111	Lessors of Residential Buildings and Dwellings 	5	53	531	5311	53111	1560
+2017	6-531110	531110	Lessors of Residential Buildings and Dwellings 	6	53	531	5311	53111	1561
+2017	5-53112	53112	Lessors of Nonresidential Buildings (except Miniwarehouses) 	5	53	531	5311	53112	1562
+2017	6-531120	531120	Lessors of Nonresidential Buildings (except Miniwarehouses) 	6	53	531	5311	53112	1563
+2017	5-53113	53113	Lessors of Miniwarehouses and Self-Storage Units 	5	53	531	5311	53113	1564
+2017	6-531130	531130	Lessors of Miniwarehouses and Self-Storage Units 	6	53	531	5311	53113	1565
+2017	5-53119	53119	Lessors of Other Real Estate Property 	5	53	531	5311	53119	1566
+2017	6-531190	531190	Lessors of Other Real Estate Property 	6	53	531	5311	53119	1567
+2017	4-5312	5312	Offices of Real Estate Agents and Brokers	4	53	531	5312		1568
+2017	5-53121	53121	Offices of Real Estate Agents and Brokers	5	53	531	5312	53121	1569
+2017	6-531210	531210	Offices of Real Estate Agents and Brokers	6	53	531	5312	53121	1570
+2017	4-5313	5313	Activities Related to Real Estate	4	53	531	5313		1571
+2017	5-53131	53131	Real Estate Property Managers 	5	53	531	5313	53131	1572
+2017	6-531311	531311	Residential Property Managers 	6	53	531	5313	53131	1573
+2017	6-531312	531312	Nonresidential Property Managers 	6	53	531	5313	53131	1574
+2017	5-53132	53132	Offices of Real Estate Appraisers 	5	53	531	5313	53132	1575
+2017	6-531320	531320	Offices of Real Estate Appraisers 	6	53	531	5313	53132	1576
+2017	5-53139	53139	Other Activities Related to Real Estate 	5	53	531	5313	53139	1577
+2017	6-531390	531390	Other Activities Related to Real Estate 	6	53	531	5313	53139	1578
+2017	3-532	532	Rental and Leasing Services	3	53	532			1579
+2017	4-5321	5321	Automotive Equipment Rental and Leasing	4	53	532	5321		1580
+2017	5-53211	53211	Passenger Car Rental and Leasing	5	53	532	5321	53211	1581
+2017	6-532111	532111	Passenger Car Rental 	6	53	532	5321	53211	1582
+2017	6-532112	532112	Passenger Car Leasing 	6	53	532	5321	53211	1583
+2017	5-53212	53212	"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"	5	53	532	5321	53212	1584
+2017	6-532120	532120	"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing "	6	53	532	5321	53212	1585
+2017	4-5322	5322	Consumer Goods Rental	4	53	532	5322		1586
+2017	5-53221	53221	Consumer Electronics and Appliances Rental	5	53	532	5322	53221	1587
+2017	6-532210	532210	Consumer Electronics and Appliances Rental	6	53	532	5322	53221	1588
+2017	5-53228	53228	Other Consumer Goods Rental 	5	53	532	5322	53228	1589
+2017	6-532281	532281	Formal Wear and Costume Rental	6	53	532	5322	53228	1590
+2017	6-532282	532282	Video Tape and Disc Rental	6	53	532	5322	53228	1591
+2017	6-532283	532283	Home Health Equipment Rental 	6	53	532	5322	53228	1592
+2017	6-532284	532284	Recreational Goods Rental 	6	53	532	5322	53228	1593
+2017	6-532289	532289	All Other Consumer Goods Rental 	6	53	532	5322	53228	1594
+2017	4-5323	5323	General Rental Centers	4	53	532	5323		1595
+2017	5-53231	53231	General Rental Centers	5	53	532	5323	53231	1596
+2017	6-532310	532310	General Rental Centers	6	53	532	5323	53231	1597
+2017	4-5324	5324	Commercial and Industrial Machinery and Equipment Rental and Leasing	4	53	532	5324		1598
+2017	5-53241	53241	"Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing"	5	53	532	5324	53241	1599
+2017	6-532411	532411	"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing "	6	53	532	5324	53241	1600
+2017	6-532412	532412	"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing "	6	53	532	5324	53241	1601
+2017	5-53242	53242	Office Machinery and Equipment Rental and Leasing	5	53	532	5324	53242	1602
+2017	6-532420	532420	Office Machinery and Equipment Rental and Leasing	6	53	532	5324	53242	1603
+2017	5-53249	53249	Other Commercial and Industrial Machinery and Equipment Rental and Leasing	5	53	532	5324	53249	1604
+2017	6-532490	532490	Other Commercial and Industrial Machinery and Equipment Rental and Leasing 	6	53	532	5324	53249	1605
+2017	3-533	533	Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)	3	53	533			1606
+2017	4-5331	5331	Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)	4	53	533	5331		1607
+2017	5-53311	53311	Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)	5	53	533	5331	53311	1608
+2017	6-533110	533110	Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)	6	53	533	5331	53311	1609
+2017	2-54	54	"Professional, Scientific, and Technical Services"	2	54				1610
+2017	3-541	541	"Professional, Scientific, and Technical Services"	3	54	541			1611
+2017	4-5411	5411	Legal Services	4	54	541	5411		1612
+2017	5-54111	54111	Offices of Lawyers	5	54	541	5411	54111	1613
+2017	6-541110	541110	Offices of Lawyers	6	54	541	5411	54111	1614
+2017	5-54112	54112	Offices of Notaries	5	54	541	5411	54112	1615
+2017	6-541120	541120	Offices of Notaries	6	54	541	5411	54112	1616
+2017	5-54119	54119	Other Legal Services	5	54	541	5411	54119	1617
+2017	6-541191	541191	Title Abstract and Settlement Offices 	6	54	541	5411	54119	1618
+2017	6-541199	541199	All Other Legal Services 	6	54	541	5411	54119	1619
+2017	4-5412	5412	"Accounting, Tax Preparation, Bookkeeping, and Payroll Services"	4	54	541	5412		1620
+2017	5-54121	54121	"Accounting, Tax Preparation, Bookkeeping, and Payroll Services"	5	54	541	5412	54121	1621
+2017	6-541211	541211	Offices of Certified Public Accountants 	6	54	541	5412	54121	1622
+2017	6-541213	541213	Tax Preparation Services 	6	54	541	5412	54121	1623
+2017	6-541214	541214	Payroll Services 	6	54	541	5412	54121	1624
+2017	6-541219	541219	Other Accounting Services 	6	54	541	5412	54121	1625
+2017	4-5413	5413	"Architectural, Engineering, and Related Services"	4	54	541	5413		1626
+2017	5-54131	54131	Architectural Services	5	54	541	5413	54131	1627
+2017	6-541310	541310	Architectural Services	6	54	541	5413	54131	1628
+2017	5-54132	54132	Landscape Architectural Services	5	54	541	5413	54132	1629
+2017	6-541320	541320	Landscape Architectural Services	6	54	541	5413	54132	1630
+2017	5-54133	54133	Engineering Services	5	54	541	5413	54133	1631
+2017	6-541330	541330	Engineering Services	6	54	541	5413	54133	1632
+2017	5-54134	54134	Drafting Services	5	54	541	5413	54134	1633
+2017	6-541340	541340	Drafting Services	6	54	541	5413	54134	1634
+2017	5-54135	54135	Building Inspection Services	5	54	541	5413	54135	1635
+2017	6-541350	541350	Building Inspection Services	6	54	541	5413	54135	1636
+2017	5-54136	54136	Geophysical Surveying and Mapping Services	5	54	541	5413	54136	1637
+2017	6-541360	541360	Geophysical Surveying and Mapping Services	6	54	541	5413	54136	1638
+2017	5-54137	54137	Surveying and Mapping (except Geophysical) Services	5	54	541	5413	54137	1639
+2017	6-541370	541370	Surveying and Mapping (except Geophysical) Services	6	54	541	5413	54137	1640
+2017	5-54138	54138	Testing Laboratories	5	54	541	5413	54138	1641
+2017	6-541380	541380	Testing Laboratories	6	54	541	5413	54138	1642
+2017	4-5414	5414	Specialized Design Services	4	54	541	5414		1643
+2017	5-54141	54141	Interior Design Services	5	54	541	5414	54141	1644
+2017	6-541410	541410	Interior Design Services	6	54	541	5414	54141	1645
+2017	5-54142	54142	Industrial Design Services	5	54	541	5414	54142	1646
+2017	6-541420	541420	Industrial Design Services	6	54	541	5414	54142	1647
+2017	5-54143	54143	Graphic Design Services	5	54	541	5414	54143	1648
+2017	6-541430	541430	Graphic Design Services	6	54	541	5414	54143	1649
+2017	5-54149	54149	Other Specialized Design Services	5	54	541	5414	54149	1650
+2017	6-541490	541490	Other Specialized Design Services	6	54	541	5414	54149	1651
+2017	4-5415	5415	Computer Systems Design and Related Services	4	54	541	5415		1652
+2017	5-54151	54151	Computer Systems Design and Related Services	5	54	541	5415	54151	1653
+2017	6-541511	541511	Custom Computer Programming Services 	6	54	541	5415	54151	1654
+2017	6-541512	541512	Computer Systems Design Services 	6	54	541	5415	54151	1655
+2017	6-541513	541513	Computer Facilities Management Services 	6	54	541	5415	54151	1656
+2017	6-541519	541519	Other Computer Related Services	6	54	541	5415	54151	1657
+2017	4-5416	5416	"Management, Scientific, and Technical Consulting Services"	4	54	541	5416		1658
+2017	5-54161	54161	Management Consulting Services	5	54	541	5416	54161	1659
+2017	6-541611	541611	Administrative Management and General Management Consulting Services 	6	54	541	5416	54161	1660
+2017	6-541612	541612	Human Resources Consulting Services 	6	54	541	5416	54161	1661
+2017	6-541613	541613	Marketing Consulting Services 	6	54	541	5416	54161	1662
+2017	6-541614	541614	"Process, Physical Distribution, and Logistics Consulting Services "	6	54	541	5416	54161	1663
+2017	6-541618	541618	Other Management Consulting Services 	6	54	541	5416	54161	1664
+2017	5-54162	54162	Environmental Consulting Services	5	54	541	5416	54162	1665
+2017	6-541620	541620	Environmental Consulting Services	6	54	541	5416	54162	1666
+2017	5-54169	54169	Other Scientific and Technical Consulting Services	5	54	541	5416	54169	1667
+2017	6-541690	541690	Other Scientific and Technical Consulting Services	6	54	541	5416	54169	1668
+2017	4-5417	5417	Scientific Research and Development Services	4	54	541	5417		1669
+2017	5-54171	54171	"Research and Development in the Physical, Engineering, and Life Sciences"	5	54	541	5417	54171	1670
+2017	6-541713	541713	Research and Development in Nanotechnology 	6	54	541	5417	54171	1671
+2017	6-541714	541714	Research and Development in Biotechnology (except Nanobiotechnology)	6	54	541	5417	54171	1672
+2017	6-541715	541715	"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) "	6	54	541	5417	54171	1673
+2017	5-54172	54172	Research and Development in the Social Sciences and Humanities	5	54	541	5417	54172	1674
+2017	6-541720	541720	Research and Development in the Social Sciences and Humanities 	6	54	541	5417	54172	1675
+2017	4-5418	5418	"Advertising, Public Relations, and Related Services"	4	54	541	5418		1676
+2017	5-54181	54181	Advertising Agencies	5	54	541	5418	54181	1677
+2017	6-541810	541810	Advertising Agencies	6	54	541	5418	54181	1678
+2017	5-54182	54182	Public Relations Agencies	5	54	541	5418	54182	1679
+2017	6-541820	541820	Public Relations Agencies	6	54	541	5418	54182	1680
+2017	5-54183	54183	Media Buying Agencies	5	54	541	5418	54183	1681
+2017	6-541830	541830	Media Buying Agencies	6	54	541	5418	54183	1682
+2017	5-54184	54184	Media Representatives	5	54	541	5418	54184	1683
+2017	6-541840	541840	Media Representatives	6	54	541	5418	54184	1684
+2017	5-54185	54185	Outdoor Advertising	5	54	541	5418	54185	1685
+2017	6-541850	541850	Outdoor Advertising	6	54	541	5418	54185	1686
+2017	5-54186	54186	Direct Mail Advertising	5	54	541	5418	54186	1687
+2017	6-541860	541860	Direct Mail Advertising	6	54	541	5418	54186	1688
+2017	5-54187	54187	Advertising Material Distribution Services	5	54	541	5418	54187	1689
+2017	6-541870	541870	Advertising Material Distribution Services	6	54	541	5418	54187	1690
+2017	5-54189	54189	Other Services Related to Advertising	5	54	541	5418	54189	1691
+2017	6-541890	541890	Other Services Related to Advertising 	6	54	541	5418	54189	1692
+2017	4-5419	5419	"Other Professional, Scientific, and Technical Services"	4	54	541	5419		1693
+2017	5-54191	54191	Marketing Research and Public Opinion Polling	5	54	541	5419	54191	1694
+2017	6-541910	541910	Marketing Research and Public Opinion Polling	6	54	541	5419	54191	1695
+2017	5-54192	54192	Photographic Services	5	54	541	5419	54192	1696
+2017	6-541921	541921	"Photography Studios, Portrait "	6	54	541	5419	54192	1697
+2017	6-541922	541922	Commercial Photography 	6	54	541	5419	54192	1698
+2017	5-54193	54193	Translation and Interpretation Services	5	54	541	5419	54193	1699
+2017	6-541930	541930	Translation and Interpretation Services	6	54	541	5419	54193	1700
+2017	5-54194	54194	Veterinary Services	5	54	541	5419	54194	1701
+2017	6-541940	541940	Veterinary Services 	6	54	541	5419	54194	1702
+2017	5-54199	54199	"All Other Professional, Scientific, and Technical Services"	5	54	541	5419	54199	1703
+2017	6-541990	541990	"All Other Professional, Scientific, and Technical Services"	6	54	541	5419	54199	1704
+2017	2-55	55	Management of Companies and Enterprises	2	55				1705
+2017	3-551	551	Management of Companies and Enterprises	3	55	551			1706
+2017	4-5511	5511	Management of Companies and Enterprises	4	55	551	5511		1707
+2017	5-55111	55111	Management of Companies and Enterprises	5	55	551	5511	55111	1708
+2017	6-551111	551111	Offices of Bank Holding Companies 	6	55	551	5511	55111	1709
+2017	6-551112	551112	Offices of Other Holding Companies 	6	55	551	5511	55111	1710
+2017	6-551114	551114	"Corporate, Subsidiary, and Regional Managing Offices "	6	55	551	5511	55111	1711
+2017	2-56	56	Administrative and Support and Waste Management and Remediation Services	2	56				1712
+2017	3-561	561	Administrative and Support Services	3	56	561			1713
+2017	4-5611	5611	Office Administrative Services	4	56	561	5611		1714
+2017	5-56111	56111	Office Administrative Services	5	56	561	5611	56111	1715
+2017	6-561110	561110	Office Administrative Services	6	56	561	5611	56111	1716
+2017	4-5612	5612	Facilities Support Services	4	56	561	5612		1717
+2017	5-56121	56121	Facilities Support Services	5	56	561	5612	56121	1718
+2017	6-561210	561210	Facilities Support Services	6	56	561	5612	56121	1719
+2017	4-5613	5613	Employment Services	4	56	561	5613		1720
+2017	5-56131	56131	Employment Placement Agencies and Executive Search Services	5	56	561	5613	56131	1721
+2017	6-561311	561311	Employment Placement Agencies 	6	56	561	5613	56131	1722
+2017	6-561312	561312	Executive Search Services 	6	56	561	5613	56131	1723
+2017	5-56132	56132	Temporary Help Services	5	56	561	5613	56132	1724
+2017	6-561320	561320	Temporary Help Services	6	56	561	5613	56132	1725
+2017	5-56133	56133	Professional Employer Organizations	5	56	561	5613	56133	1726
+2017	6-561330	561330	Professional Employer Organizations	6	56	561	5613	56133	1727
+2017	4-5614	5614	Business Support Services	4	56	561	5614		1728
+2017	5-56141	56141	Document Preparation Services	5	56	561	5614	56141	1729
+2017	6-561410	561410	Document Preparation Services	6	56	561	5614	56141	1730
+2017	5-56142	56142	Telephone Call Centers	5	56	561	5614	56142	1731
+2017	6-561421	561421	Telephone Answering Services 	6	56	561	5614	56142	1732
+2017	6-561422	561422	Telemarketing Bureaus and Other Contact Centers 	6	56	561	5614	56142	1733
+2017	5-56143	56143	Business Service Centers	5	56	561	5614	56143	1734
+2017	6-561431	561431	Private Mail Centers 	6	56	561	5614	56143	1735
+2017	6-561439	561439	Other Business Service Centers (including Copy Shops) 	6	56	561	5614	56143	1736
+2017	5-56144	56144	Collection Agencies	5	56	561	5614	56144	1737
+2017	6-561440	561440	Collection Agencies	6	56	561	5614	56144	1738
+2017	5-56145	56145	Credit Bureaus	5	56	561	5614	56145	1739
+2017	6-561450	561450	Credit Bureaus	6	56	561	5614	56145	1740
+2017	5-56149	56149	Other Business Support Services	5	56	561	5614	56149	1741
+2017	6-561491	561491	Repossession Services 	6	56	561	5614	56149	1742
+2017	6-561492	561492	Court Reporting and Stenotype Services 	6	56	561	5614	56149	1743
+2017	6-561499	561499	All Other Business Support Services 	6	56	561	5614	56149	1744
+2017	4-5615	5615	Travel Arrangement and Reservation Services	4	56	561	5615		1745
+2017	5-56151	56151	Travel Agencies	5	56	561	5615	56151	1746
+2017	6-561510	561510	Travel Agencies	6	56	561	5615	56151	1747
+2017	5-56152	56152	Tour Operators	5	56	561	5615	56152	1748
+2017	6-561520	561520	Tour Operators	6	56	561	5615	56152	1749
+2017	5-56159	56159	Other Travel Arrangement and Reservation Services	5	56	561	5615	56159	1750
+2017	6-561591	561591	Convention and Visitors Bureaus 	6	56	561	5615	56159	1751
+2017	6-561599	561599	All Other Travel Arrangement and Reservation Services 	6	56	561	5615	56159	1752
+2017	4-5616	5616	Investigation and Security Services	4	56	561	5616		1753
+2017	5-56161	56161	"Investigation, Guard, and Armored Car Services"	5	56	561	5616	56161	1754
+2017	6-561611	561611	Investigation Services 	6	56	561	5616	56161	1755
+2017	6-561612	561612	Security Guards and Patrol Services 	6	56	561	5616	56161	1756
+2017	6-561613	561613	Armored Car Services 	6	56	561	5616	56161	1757
+2017	5-56162	56162	Security Systems Services	5	56	561	5616	56162	1758
+2017	6-561621	561621	Security Systems Services (except Locksmiths) 	6	56	561	5616	56162	1759
+2017	6-561622	561622	Locksmiths 	6	56	561	5616	56162	1760
+2017	4-5617	5617	Services to Buildings and Dwellings	4	56	561	5617		1761
+2017	5-56171	56171	Exterminating and Pest Control Services	5	56	561	5617	56171	1762
+2017	6-561710	561710	Exterminating and Pest Control Services	6	56	561	5617	56171	1763
+2017	5-56172	56172	Janitorial Services	5	56	561	5617	56172	1764
+2017	6-561720	561720	Janitorial Services 	6	56	561	5617	56172	1765
+2017	5-56173	56173	Landscaping Services	5	56	561	5617	56173	1766
+2017	6-561730	561730	Landscaping Services	6	56	561	5617	56173	1767
+2017	5-56174	56174	Carpet and Upholstery Cleaning Services	5	56	561	5617	56174	1768
+2017	6-561740	561740	Carpet and Upholstery Cleaning Services	6	56	561	5617	56174	1769
+2017	5-56179	56179	Other Services to Buildings and Dwellings	5	56	561	5617	56179	1770
+2017	6-561790	561790	Other Services to Buildings and Dwellings 	6	56	561	5617	56179	1771
+2017	4-5619	5619	Other Support Services	4	56	561	5619		1772
+2017	5-56191	56191	Packaging and Labeling Services	5	56	561	5619	56191	1773
+2017	6-561910	561910	Packaging and Labeling Services	6	56	561	5619	56191	1774
+2017	5-56192	56192	Convention and Trade Show Organizers	5	56	561	5619	56192	1775
+2017	6-561920	561920	Convention and Trade Show Organizers	6	56	561	5619	56192	1776
+2017	5-56199	56199	All Other Support Services	5	56	561	5619	56199	1777
+2017	6-561990	561990	All Other Support Services	6	56	561	5619	56199	1778
+2017	3-562	562	Waste Management and Remediation Services	3	56	562			1779
+2017	4-5621	5621	Waste Collection 	4	56	562	5621		1780
+2017	5-56211	56211	Waste Collection 	5	56	562	5621	56211	1781
+2017	6-562111	562111	Solid Waste Collection 	6	56	562	5621	56211	1782
+2017	6-562112	562112	Hazardous Waste Collection 	6	56	562	5621	56211	1783
+2017	6-562119	562119	Other Waste Collection 	6	56	562	5621	56211	1784
+2017	4-5622	5622	Waste Treatment and Disposal 	4	56	562	5622		1785
+2017	5-56221	56221	Waste Treatment and Disposal 	5	56	562	5622	56221	1786
+2017	6-562211	562211	Hazardous Waste Treatment and Disposal 	6	56	562	5622	56221	1787
+2017	6-562212	562212	Solid Waste Landfill 	6	56	562	5622	56221	1788
+2017	6-562213	562213	Solid Waste Combustors and Incinerators 	6	56	562	5622	56221	1789
+2017	6-562219	562219	Other Nonhazardous Waste Treatment and Disposal 	6	56	562	5622	56221	1790
+2017	4-5629	5629	Remediation and Other Waste Management Services 	4	56	562	5629		1791
+2017	5-56291	56291	Remediation Services 	5	56	562	5629	56291	1792
+2017	6-562910	562910	Remediation Services 	6	56	562	5629	56291	1793
+2017	5-56292	56292	Materials Recovery Facilities 	5	56	562	5629	56292	1794
+2017	6-562920	562920	Materials Recovery Facilities 	6	56	562	5629	56292	1795
+2017	5-56299	56299	All Other Waste Management Services 	5	56	562	5629	56299	1796
+2017	6-562991	562991	Septic Tank and Related Services 	6	56	562	5629	56299	1797
+2017	6-562998	562998	All Other Miscellaneous Waste Management Services 	6	56	562	5629	56299	1798
+2017	2-61	61	Educational Services	2	61				1799
+2017	3-611	611	Educational Services	3	61	611			1800
+2017	4-6111	6111	Elementary and Secondary Schools	4	61	611	6111		1801
+2017	5-61111	61111	Elementary and Secondary Schools 	5	61	611	6111	61111	1802
+2017	6-611110	611110	Elementary and Secondary Schools 	6	61	611	6111	61111	1803
+2017	4-6112	6112	Junior Colleges	4	61	611	6112		1804
+2017	5-61121	61121	Junior Colleges	5	61	611	6112	61121	1805
+2017	6-611210	611210	Junior Colleges 	6	61	611	6112	61121	1806
+2017	4-6113	6113	"Colleges, Universities, and Professional Schools"	4	61	611	6113		1807
+2017	5-61131	61131	"Colleges, Universities, and Professional Schools"	5	61	611	6113	61131	1808
+2017	6-611310	611310	"Colleges, Universities, and Professional Schools "	6	61	611	6113	61131	1809
+2017	4-6114	6114	Business Schools and Computer and Management Training	4	61	611	6114		1810
+2017	5-61141	61141	Business and Secretarial Schools	5	61	611	6114	61141	1811
+2017	6-611410	611410	Business and Secretarial Schools 	6	61	611	6114	61141	1812
+2017	5-61142	61142	Computer Training	5	61	611	6114	61142	1813
+2017	6-611420	611420	Computer Training 	6	61	611	6114	61142	1814
+2017	5-61143	61143	Professional and Management Development Training	5	61	611	6114	61143	1815
+2017	6-611430	611430	Professional and Management Development Training 	6	61	611	6114	61143	1816
+2017	4-6115	6115	Technical and Trade Schools 	4	61	611	6115		1817
+2017	5-61151	61151	Technical and Trade Schools	5	61	611	6115	61151	1818
+2017	6-611511	611511	Cosmetology and Barber Schools 	6	61	611	6115	61151	1819
+2017	6-611512	611512	Flight Training 	6	61	611	6115	61151	1820
+2017	6-611513	611513	Apprenticeship Training 	6	61	611	6115	61151	1821
+2017	6-611519	611519	Other Technical and Trade Schools 	6	61	611	6115	61151	1822
+2017	4-6116	6116	Other Schools and Instruction	4	61	611	6116		1823
+2017	5-61161	61161	Fine Arts Schools	5	61	611	6116	61161	1824
+2017	6-611610	611610	Fine Arts Schools 	6	61	611	6116	61161	1825
+2017	5-61162	61162	Sports and Recreation Instruction	5	61	611	6116	61162	1826
+2017	6-611620	611620	Sports and Recreation Instruction 	6	61	611	6116	61162	1827
+2017	5-61163	61163	Language Schools	5	61	611	6116	61163	1828
+2017	6-611630	611630	Language Schools 	6	61	611	6116	61163	1829
+2017	5-61169	61169	All Other Schools and Instruction	5	61	611	6116	61169	1830
+2017	6-611691	611691	Exam Preparation and Tutoring 	6	61	611	6116	61169	1831
+2017	6-611692	611692	Automobile Driving Schools 	6	61	611	6116	61169	1832
+2017	6-611699	611699	All Other Miscellaneous Schools and Instruction 	6	61	611	6116	61169	1833
+2017	4-6117	6117	Educational Support Services	4	61	611	6117		1834
+2017	5-61171	61171	Educational Support Services	5	61	611	6117	61171	1835
+2017	6-611710	611710	Educational Support Services	6	61	611	6117	61171	1836
+2017	2-62	62	Health Care and Social Assistance	2	62				1837
+2017	3-621	621	Ambulatory Health Care Services	3	62	621			1838
+2017	4-6211	6211	Offices of Physicians	4	62	621	6211		1839
+2017	5-62111	62111	Offices of Physicians	5	62	621	6211	62111	1840
+2017	6-621111	621111	Offices of Physicians (except Mental Health Specialists) 	6	62	621	6211	62111	1841
+2017	6-621112	621112	"Offices of Physicians, Mental Health Specialists "	6	62	621	6211	62111	1842
+2017	4-6212	6212	Offices of Dentists	4	62	621	6212		1843
+2017	5-62121	62121	Offices of Dentists	5	62	621	6212	62121	1844
+2017	6-621210	621210	Offices of Dentists 	6	62	621	6212	62121	1845
+2017	4-6213	6213	Offices of Other Health Practitioners	4	62	621	6213		1846
+2017	5-62131	62131	Offices of Chiropractors	5	62	621	6213	62131	1847
+2017	6-621310	621310	Offices of Chiropractors 	6	62	621	6213	62131	1848
+2017	5-62132	62132	Offices of Optometrists	5	62	621	6213	62132	1849
+2017	6-621320	621320	Offices of Optometrists	6	62	621	6213	62132	1850
+2017	5-62133	62133	Offices of Mental Health Practitioners (except Physicians)	5	62	621	6213	62133	1851
+2017	6-621330	621330	Offices of Mental Health Practitioners (except Physicians) 	6	62	621	6213	62133	1852
+2017	5-62134	62134	"Offices of Physical, Occupational and Speech Therapists, and Audiologists"	5	62	621	6213	62134	1853
+2017	6-621340	621340	"Offices of Physical, Occupational and Speech Therapists, and Audiologists "	6	62	621	6213	62134	1854
+2017	5-62139	62139	Offices of All Other Health Practitioners	5	62	621	6213	62139	1855
+2017	6-621391	621391	Offices of Podiatrists 	6	62	621	6213	62139	1856
+2017	6-621399	621399	Offices of All Other Miscellaneous Health Practitioners 	6	62	621	6213	62139	1857
+2017	4-6214	6214	Outpatient Care Centers	4	62	621	6214		1858
+2017	5-62141	62141	Family Planning Centers	5	62	621	6214	62141	1859
+2017	6-621410	621410	Family Planning Centers 	6	62	621	6214	62141	1860
+2017	5-62142	62142	Outpatient Mental Health and Substance Abuse Centers	5	62	621	6214	62142	1861
+2017	6-621420	621420	Outpatient Mental Health and Substance Abuse Centers 	6	62	621	6214	62142	1862
+2017	5-62149	62149	Other Outpatient Care Centers	5	62	621	6214	62149	1863
+2017	6-621491	621491	HMO Medical Centers 	6	62	621	6214	62149	1864
+2017	6-621492	621492	Kidney Dialysis Centers 	6	62	621	6214	62149	1865
+2017	6-621493	621493	Freestanding Ambulatory Surgical and Emergency Centers 	6	62	621	6214	62149	1866
+2017	6-621498	621498	All Other Outpatient Care Centers 	6	62	621	6214	62149	1867
+2017	4-6215	6215	Medical and Diagnostic Laboratories	4	62	621	6215		1868
+2017	5-62151	62151	Medical and Diagnostic Laboratories	5	62	621	6215	62151	1869
+2017	6-621511	621511	Medical Laboratories 	6	62	621	6215	62151	1870
+2017	6-621512	621512	Diagnostic Imaging Centers 	6	62	621	6215	62151	1871
+2017	4-6216	6216	Home Health Care Services	4	62	621	6216		1872
+2017	5-62161	62161	Home Health Care Services	5	62	621	6216	62161	1873
+2017	6-621610	621610	Home Health Care Services	6	62	621	6216	62161	1874
+2017	4-6219	6219	Other Ambulatory Health Care Services	4	62	621	6219		1875
+2017	5-62191	62191	Ambulance Services	5	62	621	6219	62191	1876
+2017	6-621910	621910	Ambulance Services 	6	62	621	6219	62191	1877
+2017	5-62199	62199	All Other Ambulatory Health Care Services	5	62	621	6219	62199	1878
+2017	6-621991	621991	Blood and Organ Banks 	6	62	621	6219	62199	1879
+2017	6-621999	621999	All Other Miscellaneous Ambulatory Health Care Services 	6	62	621	6219	62199	1880
+2017	3-622	622	Hospitals	3	62	622			1881
+2017	4-6221	6221	General Medical and Surgical Hospitals	4	62	622	6221		1882
+2017	5-62211	62211	General Medical and Surgical Hospitals	5	62	622	6221	62211	1883
+2017	6-622110	622110	General Medical and Surgical Hospitals 	6	62	622	6221	62211	1884
+2017	4-6222	6222	Psychiatric and Substance Abuse Hospitals	4	62	622	6222		1885
+2017	5-62221	62221	Psychiatric and Substance Abuse Hospitals	5	62	622	6222	62221	1886
+2017	6-622210	622210	Psychiatric and Substance Abuse Hospitals 	6	62	622	6222	62221	1887
+2017	4-6223	6223	Specialty (except Psychiatric and Substance Abuse) Hospitals	4	62	622	6223		1888
+2017	5-62231	62231	Specialty (except Psychiatric and Substance Abuse) Hospitals	5	62	622	6223	62231	1889
+2017	6-622310	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals 	6	62	622	6223	62231	1890
+2017	3-623	623	Nursing and Residential Care Facilities	3	62	623			1891
+2017	4-6231	6231	Nursing Care Facilities (Skilled Nursing Facilities)	4	62	623	6231		1892
+2017	5-62311	62311	Nursing Care Facilities (Skilled Nursing Facilities)	5	62	623	6231	62311	1893
+2017	6-623110	623110	Nursing Care Facilities (Skilled Nursing Facilities) 	6	62	623	6231	62311	1894
+2017	4-6232	6232	"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"	4	62	623	6232		1895
+2017	5-62321	62321	Residential Intellectual and Developmental Disability Facilities	5	62	623	6232	62321	1896
+2017	6-623210	623210	Residential Intellectual and Developmental Disability Facilities 	6	62	623	6232	62321	1897
+2017	5-62322	62322	Residential Mental Health and Substance Abuse Facilities	5	62	623	6232	62322	1898
+2017	6-623220	623220	Residential Mental Health and Substance Abuse Facilities 	6	62	623	6232	62322	1899
+2017	4-6233	6233	Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly	4	62	623	6233		1900
+2017	5-62331	62331	Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly	5	62	623	6233	62331	1901
+2017	6-623311	623311	Continuing Care Retirement Communities 	6	62	623	6233	62331	1902
+2017	6-623312	623312	Assisted Living Facilities for the Elderly 	6	62	623	6233	62331	1903
+2017	4-6239	6239	Other Residential Care Facilities	4	62	623	6239		1904
+2017	5-62399	62399	Other Residential Care Facilities	5	62	623	6239	62399	1905
+2017	6-623990	623990	Other Residential Care Facilities 	6	62	623	6239	62399	1906
+2017	3-624	624	Social Assistance	3	62	624			1907
+2017	4-6241	6241	Individual and Family Services	4	62	624	6241		1908
+2017	5-62411	62411	Child and Youth Services	5	62	624	6241	62411	1909
+2017	6-624110	624110	Child and Youth Services 	6	62	624	6241	62411	1910
+2017	5-62412	62412	Services for the Elderly and Persons with Disabilities	5	62	624	6241	62412	1911
+2017	6-624120	624120	Services for the Elderly and Persons with Disabilities 	6	62	624	6241	62412	1912
+2017	5-62419	62419	Other Individual and Family Services	5	62	624	6241	62419	1913
+2017	6-624190	624190	Other Individual and Family Services 	6	62	624	6241	62419	1914
+2017	4-6242	6242	"Community Food and Housing, and Emergency and Other Relief Services"	4	62	624	6242		1915
+2017	5-62421	62421	Community Food Services	5	62	624	6242	62421	1916
+2017	6-624210	624210	Community Food Services 	6	62	624	6242	62421	1917
+2017	5-62422	62422	Community Housing Services	5	62	624	6242	62422	1918
+2017	6-624221	624221	Temporary Shelters 	6	62	624	6242	62422	1919
+2017	6-624229	624229	Other Community Housing Services 	6	62	624	6242	62422	1920
+2017	5-62423	62423	Emergency and Other Relief Services	5	62	624	6242	62423	1921
+2017	6-624230	624230	Emergency and Other Relief Services 	6	62	624	6242	62423	1922
+2017	4-6243	6243	Vocational Rehabilitation Services	4	62	624	6243		1923
+2017	5-62431	62431	Vocational Rehabilitation Services	5	62	624	6243	62431	1924
+2017	6-624310	624310	Vocational Rehabilitation Services 	6	62	624	6243	62431	1925
+2017	4-6244	6244	Child Day Care Services	4	62	624	6244		1926
+2017	5-62441	62441	Child Day Care Services	5	62	624	6244	62441	1927
+2017	6-624410	624410	Child Day Care Services 	6	62	624	6244	62441	1928
+2017	2-71	71	"Arts, Entertainment, and Recreation"	2	71				1929
+2017	3-711	711	"Performing Arts, Spectator Sports, and Related Industries"	3	71	711			1930
+2017	4-7111	7111	Performing Arts Companies	4	71	711	7111		1931
+2017	5-71111	71111	Theater Companies and Dinner Theaters	5	71	711	7111	71111	1932
+2017	6-711110	711110	Theater Companies and Dinner Theaters 	6	71	711	7111	71111	1933
+2017	5-71112	71112	Dance Companies	5	71	711	7111	71112	1934
+2017	6-711120	711120	Dance Companies 	6	71	711	7111	71112	1935
+2017	5-71113	71113	Musical Groups and Artists	5	71	711	7111	71113	1936
+2017	6-711130	711130	Musical Groups and Artists 	6	71	711	7111	71113	1937
+2017	5-71119	71119	Other Performing Arts Companies	5	71	711	7111	71119	1938
+2017	6-711190	711190	Other Performing Arts Companies 	6	71	711	7111	71119	1939
+2017	4-7112	7112	Spectator Sports	4	71	711	7112		1940
+2017	5-71121	71121	Spectator Sports	5	71	711	7112	71121	1941
+2017	6-711211	711211	Sports Teams and Clubs 	6	71	711	7112	71121	1942
+2017	6-711212	711212	Racetracks 	6	71	711	7112	71121	1943
+2017	6-711219	711219	Other Spectator Sports 	6	71	711	7112	71121	1944
+2017	4-7113	7113	"Promoters of Performing Arts, Sports, and Similar Events"	4	71	711	7113		1945
+2017	5-71131	71131	"Promoters of Performing Arts, Sports, and Similar Events with Facilities"	5	71	711	7113	71131	1946
+2017	6-711310	711310	"Promoters of Performing Arts, Sports, and Similar Events with Facilities "	6	71	711	7113	71131	1947
+2017	5-71132	71132	"Promoters of Performing Arts, Sports, and Similar Events without Facilities"	5	71	711	7113	71132	1948
+2017	6-711320	711320	"Promoters of Performing Arts, Sports, and Similar Events without Facilities "	6	71	711	7113	71132	1949
+2017	4-7114	7114	"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"	4	71	711	7114		1950
+2017	5-71141	71141	"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"	5	71	711	7114	71141	1951
+2017	6-711410	711410	"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"	6	71	711	7114	71141	1952
+2017	4-7115	7115	"Independent Artists, Writers, and Performers"	4	71	711	7115		1953
+2017	5-71151	71151	"Independent Artists, Writers, and Performers"	5	71	711	7115	71151	1954
+2017	6-711510	711510	"Independent Artists, Writers, and Performers "	6	71	711	7115	71151	1955
+2017	3-712	712	"Museums, Historical Sites, and Similar Institutions"	3	71	712			1956
+2017	4-7121	7121	"Museums, Historical Sites, and Similar Institutions"	4	71	712	7121		1957
+2017	5-71211	71211	Museums	5	71	712	7121	71211	1958
+2017	6-712110	712110	Museums 	6	71	712	7121	71211	1959
+2017	5-71212	71212	Historical Sites	5	71	712	7121	71212	1960
+2017	6-712120	712120	Historical Sites	6	71	712	7121	71212	1961
+2017	5-71213	71213	Zoos and Botanical Gardens	5	71	712	7121	71213	1962
+2017	6-712130	712130	Zoos and Botanical Gardens 	6	71	712	7121	71213	1963
+2017	5-71219	71219	Nature Parks and Other Similar Institutions	5	71	712	7121	71219	1964
+2017	6-712190	712190	Nature Parks and Other Similar Institutions	6	71	712	7121	71219	1965
+2017	3-713	713	"Amusement, Gambling, and Recreation Industries"	3	71	713			1966
+2017	4-7131	7131	Amusement Parks and Arcades	4	71	713	7131		1967
+2017	5-71311	71311	Amusement and Theme Parks	5	71	713	7131	71311	1968
+2017	6-713110	713110	Amusement and Theme Parks 	6	71	713	7131	71311	1969
+2017	5-71312	71312	Amusement Arcades	5	71	713	7131	71312	1970
+2017	6-713120	713120	Amusement Arcades	6	71	713	7131	71312	1971
+2017	4-7132	7132	Gambling Industries	4	71	713	7132		1972
+2017	5-71321	71321	Casinos (except Casino Hotels)	5	71	713	7132	71321	1973
+2017	6-713210	713210	Casinos (except Casino Hotels)	6	71	713	7132	71321	1974
+2017	5-71329	71329	Other Gambling Industries	5	71	713	7132	71329	1975
+2017	6-713290	713290	Other Gambling Industries 	6	71	713	7132	71329	1976
+2017	4-7139	7139	Other Amusement and Recreation Industries	4	71	713	7139		1977
+2017	5-71391	71391	Golf Courses and Country Clubs	5	71	713	7139	71391	1978
+2017	6-713910	713910	Golf Courses and Country Clubs	6	71	713	7139	71391	1979
+2017	5-71392	71392	Skiing Facilities	5	71	713	7139	71392	1980
+2017	6-713920	713920	Skiing Facilities	6	71	713	7139	71392	1981
+2017	5-71393	71393	Marinas	5	71	713	7139	71393	1982
+2017	6-713930	713930	Marinas	6	71	713	7139	71393	1983
+2017	5-71394	71394	Fitness and Recreational Sports Centers	5	71	713	7139	71394	1984
+2017	6-713940	713940	Fitness and Recreational Sports Centers 	6	71	713	7139	71394	1985
+2017	5-71395	71395	Bowling Centers	5	71	713	7139	71395	1986
+2017	6-713950	713950	Bowling Centers	6	71	713	7139	71395	1987
+2017	5-71399	71399	All Other Amusement and Recreation Industries	5	71	713	7139	71399	1988
+2017	6-713990	713990	All Other Amusement and Recreation Industries 	6	71	713	7139	71399	1989
+2017	2-72	72	Accommodation and Food Services	2	72				1990
+2017	3-721	721	Accommodation	3	72	721			1991
+2017	4-7211	7211	Traveler Accommodation	4	72	721	7211		1992
+2017	5-72111	72111	Hotels (except Casino Hotels) and Motels	5	72	721	7211	72111	1993
+2017	6-721110	721110	Hotels (except Casino Hotels) and Motels 	6	72	721	7211	72111	1994
+2017	5-72112	72112	Casino Hotels	5	72	721	7211	72112	1995
+2017	6-721120	721120	Casino Hotels	6	72	721	7211	72112	1996
+2017	5-72119	72119	Other Traveler Accommodation	5	72	721	7211	72119	1997
+2017	6-721191	721191	Bed-and-Breakfast Inns 	6	72	721	7211	72119	1998
+2017	6-721199	721199	All Other Traveler Accommodation 	6	72	721	7211	72119	1999
+2017	4-7212	7212	RV (Recreational Vehicle) Parks and Recreational Camps	4	72	721	7212		2000
+2017	5-72121	72121	RV (Recreational Vehicle) Parks and Recreational Camps	5	72	721	7212	72121	2001
+2017	6-721211	721211	RV (Recreational Vehicle) Parks and Campgrounds 	6	72	721	7212	72121	2002
+2017	6-721214	721214	Recreational and Vacation Camps (except Campgrounds) 	6	72	721	7212	72121	2003
+2017	4-7213	7213	"Rooming and Boarding Houses, Dormitories, and Workers' Camps"	4	72	721	7213		2004
+2017	5-72131	72131	"Rooming and Boarding Houses, Dormitories, and Workers' Camps"	5	72	721	7213	72131	2005
+2017	6-721310	721310	"Rooming and Boarding Houses, Dormitories, and Workers' Camps "	6	72	721	7213	72131	2006
+2017	3-722	722	Food Services and Drinking Places	3	72	722			2007
+2017	4-7223	7223	Special Food Services	4	72	722	7223		2008
+2017	5-72231	72231	Food Service Contractors	5	72	722	7223	72231	2009
+2017	6-722310	722310	Food Service Contractors	6	72	722	7223	72231	2010
+2017	5-72232	72232	Caterers	5	72	722	7223	72232	2011
+2017	6-722320	722320	Caterers	6	72	722	7223	72232	2012
+2017	5-72233	72233	Mobile Food Services	5	72	722	7223	72233	2013
+2017	6-722330	722330	Mobile Food Services	6	72	722	7223	72233	2014
+2017	4-7224	7224	Drinking Places (Alcoholic Beverages)	4	72	722	7224		2015
+2017	5-72241	72241	Drinking Places (Alcoholic Beverages)	5	72	722	7224	72241	2016
+2017	6-722410	722410	Drinking Places (Alcoholic Beverages) 	6	72	722	7224	72241	2017
+2017	4-7225	7225	Restaurants and Other Eating Places	4	72	722	7225		2018
+2017	5-72251	72251	Restaurants and Other Eating Places	5	72	722	7225	72251	2019
+2017	6-722511	722511	Full-Service Restaurants 	6	72	722	7225	72251	2020
+2017	6-722513	722513	Limited-Service Restaurants 	6	72	722	7225	72251	2021
+2017	6-722514	722514	"Cafeterias, Grill Buffets, and Buffets "	6	72	722	7225	72251	2022
+2017	6-722515	722515	Snack and Nonalcoholic Beverage Bars 	6	72	722	7225	72251	2023
+2017	2-81	81	Other Services (except Public Administration)	2	81				2024
+2017	3-811	811	Repair and Maintenance	3	81	811			2025
+2017	4-8111	8111	Automotive Repair and Maintenance	4	81	811	8111		2026
+2017	5-81111	81111	Automotive Mechanical and Electrical Repair and Maintenance	5	81	811	8111	81111	2027
+2017	6-811111	811111	General Automotive Repair 	6	81	811	8111	81111	2028
+2017	6-811112	811112	Automotive Exhaust System Repair 	6	81	811	8111	81111	2029
+2017	6-811113	811113	Automotive Transmission Repair 	6	81	811	8111	81111	2030
+2017	6-811118	811118	Other Automotive Mechanical and Electrical Repair and Maintenance 	6	81	811	8111	81111	2031
+2017	5-81112	81112	"Automotive Body, Paint, Interior, and Glass Repair"	5	81	811	8111	81112	2032
+2017	6-811121	811121	"Automotive Body, Paint, and Interior Repair and Maintenance "	6	81	811	8111	81112	2033
+2017	6-811122	811122	Automotive Glass Replacement Shops 	6	81	811	8111	81112	2034
+2017	5-81119	81119	Other Automotive Repair and Maintenance	5	81	811	8111	81119	2035
+2017	6-811191	811191	Automotive Oil Change and Lubrication Shops 	6	81	811	8111	81119	2036
+2017	6-811192	811192	Car Washes 	6	81	811	8111	81119	2037
+2017	6-811198	811198	All Other Automotive Repair and Maintenance 	6	81	811	8111	81119	2038
+2017	4-8112	8112	Electronic and Precision Equipment Repair and Maintenance	4	81	811	8112		2039
+2017	5-81121	81121	Electronic and Precision Equipment Repair and Maintenance	5	81	811	8112	81121	2040
+2017	6-811211	811211	Consumer Electronics Repair and Maintenance 	6	81	811	8112	81121	2041
+2017	6-811212	811212	Computer and Office Machine Repair and Maintenance 	6	81	811	8112	81121	2042
+2017	6-811213	811213	Communication Equipment Repair and Maintenance 	6	81	811	8112	81121	2043
+2017	6-811219	811219	Other Electronic and Precision Equipment Repair and Maintenance 	6	81	811	8112	81121	2044
+2017	4-8113	8113	Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance	4	81	811	8113		2045
+2017	5-81131	81131	Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance	5	81	811	8113	81131	2046
+2017	6-811310	811310	Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance 	6	81	811	8113	81131	2047
+2017	4-8114	8114	Personal and Household Goods Repair and Maintenance	4	81	811	8114		2048
+2017	5-81141	81141	Home and Garden Equipment and Appliance Repair and Maintenance	5	81	811	8114	81141	2049
+2017	6-811411	811411	Home and Garden Equipment Repair and Maintenance 	6	81	811	8114	81141	2050
+2017	6-811412	811412	Appliance Repair and Maintenance 	6	81	811	8114	81141	2051
+2017	5-81142	81142	Reupholstery and Furniture Repair	5	81	811	8114	81142	2052
+2017	6-811420	811420	Reupholstery and Furniture Repair	6	81	811	8114	81142	2053
+2017	5-81143	81143	Footwear and Leather Goods Repair	5	81	811	8114	81143	2054
+2017	6-811430	811430	Footwear and Leather Goods Repair	6	81	811	8114	81143	2055
+2017	5-81149	81149	Other Personal and Household Goods Repair and Maintenance	5	81	811	8114	81149	2056
+2017	6-811490	811490	Other Personal and Household Goods Repair and Maintenance 	6	81	811	8114	81149	2057
+2017	3-812	812	Personal and Laundry Services	3	81	812			2058
+2017	4-8121	8121	Personal Care Services 	4	81	812	8121		2059
+2017	5-81211	81211	"Hair, Nail, and Skin Care Services "	5	81	812	8121	81211	2060
+2017	6-812111	812111	Barber Shops 	6	81	812	8121	81211	2061
+2017	6-812112	812112	Beauty Salons 	6	81	812	8121	81211	2062
+2017	6-812113	812113	Nail Salons 	6	81	812	8121	81211	2063
+2017	5-81219	81219	Other Personal Care Services 	5	81	812	8121	81219	2064
+2017	6-812191	812191	Diet and Weight Reducing Centers 	6	81	812	8121	81219	2065
+2017	6-812199	812199	Other Personal Care Services 	6	81	812	8121	81219	2066
+2017	4-8122	8122	Death Care Services 	4	81	812	8122		2067
+2017	5-81221	81221	Funeral Homes and Funeral Services 	5	81	812	8122	81221	2068
+2017	6-812210	812210	Funeral Homes and Funeral Services 	6	81	812	8122	81221	2069
+2017	5-81222	81222	Cemeteries and Crematories 	5	81	812	8122	81222	2070
+2017	6-812220	812220	Cemeteries and Crematories 	6	81	812	8122	81222	2071
+2017	4-8123	8123	Drycleaning and Laundry Services 	4	81	812	8123		2072
+2017	5-81231	81231	Coin-Operated Laundries and Drycleaners 	5	81	812	8123	81231	2073
+2017	6-812310	812310	Coin-Operated Laundries and Drycleaners 	6	81	812	8123	81231	2074
+2017	5-81232	81232	Drycleaning and Laundry Services (except Coin-Operated) 	5	81	812	8123	81232	2075
+2017	6-812320	812320	Drycleaning and Laundry Services (except Coin-Operated) 	6	81	812	8123	81232	2076
+2017	5-81233	81233	Linen and Uniform Supply 	5	81	812	8123	81233	2077
+2017	6-812331	812331	Linen Supply 	6	81	812	8123	81233	2078
+2017	6-812332	812332	Industrial Launderers 	6	81	812	8123	81233	2079
+2017	4-8129	8129	Other Personal Services 	4	81	812	8129		2080
+2017	5-81291	81291	Pet Care (except Veterinary) Services 	5	81	812	8129	81291	2081
+2017	6-812910	812910	Pet Care (except Veterinary) Services 	6	81	812	8129	81291	2082
+2017	5-81292	81292	Photofinishing 	5	81	812	8129	81292	2083
+2017	6-812921	812921	Photofinishing Laboratories (except One-Hour) 	6	81	812	8129	81292	2084
+2017	6-812922	812922	One-Hour Photofinishing 	6	81	812	8129	81292	2085
+2017	5-81293	81293	Parking Lots and Garages 	5	81	812	8129	81293	2086
+2017	6-812930	812930	Parking Lots and Garages 	6	81	812	8129	81293	2087
+2017	5-81299	81299	All Other Personal Services 	5	81	812	8129	81299	2088
+2017	6-812990	812990	All Other Personal Services 	6	81	812	8129	81299	2089
+2017	3-813	813	"Religious, Grantmaking, Civic, Professional, and Similar Organizations"	3	81	813			2090
+2017	4-8131	8131	Religious Organizations 	4	81	813	8131		2091
+2017	5-81311	81311	Religious Organizations 	5	81	813	8131	81311	2092
+2017	6-813110	813110	Religious Organizations 	6	81	813	8131	81311	2093
+2017	4-8132	8132	Grantmaking and Giving Services 	4	81	813	8132		2094
+2017	5-81321	81321	Grantmaking and Giving Services 	5	81	813	8132	81321	2095
+2017	6-813211	813211	Grantmaking Foundations 	6	81	813	8132	81321	2096
+2017	6-813212	813212	Voluntary Health Organizations 	6	81	813	8132	81321	2097
+2017	6-813219	813219	Other Grantmaking and Giving Services 	6	81	813	8132	81321	2098
+2017	4-8133	8133	Social Advocacy Organizations 	4	81	813	8133		2099
+2017	5-81331	81331	Social Advocacy Organizations 	5	81	813	8133	81331	2100
+2017	6-813311	813311	Human Rights Organizations 	6	81	813	8133	81331	2101
+2017	6-813312	813312	"Environment, Conservation and Wildlife Organizations "	6	81	813	8133	81331	2102
+2017	6-813319	813319	Other Social Advocacy Organizations 	6	81	813	8133	81331	2103
+2017	4-8134	8134	Civic and Social Organizations 	4	81	813	8134		2104
+2017	5-81341	81341	Civic and Social Organizations 	5	81	813	8134	81341	2105
+2017	6-813410	813410	Civic and Social Organizations 	6	81	813	8134	81341	2106
+2017	4-8139	8139	"Business, Professional, Labor, Political, and Similar Organizations "	4	81	813	8139		2107
+2017	5-81391	81391	Business Associations 	5	81	813	8139	81391	2108
+2017	6-813910	813910	Business Associations 	6	81	813	8139	81391	2109
+2017	5-81392	81392	Professional Organizations 	5	81	813	8139	81392	2110
+2017	6-813920	813920	Professional Organizations 	6	81	813	8139	81392	2111
+2017	5-81393	81393	Labor Unions and Similar Labor Organizations 	5	81	813	8139	81393	2112
+2017	6-813930	813930	Labor Unions and Similar Labor Organizations 	6	81	813	8139	81393	2113
+2017	5-81394	81394	Political Organizations 	5	81	813	8139	81394	2114
+2017	6-813940	813940	Political Organizations 	6	81	813	8139	81394	2115
+2017	5-81399	81399	"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "	5	81	813	8139	81399	2116
+2017	6-813990	813990	"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "	6	81	813	8139	81399	2117
+2017	3-814	814	Private Households	3	81	814			2118
+2017	4-8141	8141	Private Households	4	81	814	8141		2119
+2017	5-81411	81411	Private Households	5	81	814	8141	81411	2120
+2017	6-814110	814110	Private Households	6	81	814	8141	81411	2121
+2017	2-92	92	Public Administration	2	92				2122
+2017	3-921	921	"Executive, Legislative, and Other General Government Support "	3	92	921			2123
+2017	4-9211	9211	"Executive, Legislative, and Other General Government Support "	4	92	921	9211		2124
+2017	5-92111	92111	Executive Offices 	5	92	921	9211	92111	2125
+2017	6-921110	921110	Executive Offices 	6	92	921	9211	92111	2126
+2017	5-92112	92112	Legislative Bodies 	5	92	921	9211	92112	2127
+2017	6-921120	921120	Legislative Bodies 	6	92	921	9211	92112	2128
+2017	5-92113	92113	Public Finance Activities 	5	92	921	9211	92113	2129
+2017	6-921130	921130	Public Finance Activities 	6	92	921	9211	92113	2130
+2017	5-92114	92114	"Executive and Legislative Offices, Combined "	5	92	921	9211	92114	2131
+2017	6-921140	921140	"Executive and Legislative Offices, Combined "	6	92	921	9211	92114	2132
+2017	5-92115	92115	American Indian and Alaska Native Tribal Governments 	5	92	921	9211	92115	2133
+2017	6-921150	921150	American Indian and Alaska Native Tribal Governments 	6	92	921	9211	92115	2134
+2017	5-92119	92119	Other General Government Support 	5	92	921	9211	92119	2135
+2017	6-921190	921190	Other General Government Support 	6	92	921	9211	92119	2136
+2017	3-922	922	"Justice, Public Order, and Safety Activities "	3	92	922			2137
+2017	4-9221	9221	"Justice, Public Order, and Safety Activities "	4	92	922	9221		2138
+2017	5-92211	92211	Courts 	5	92	922	9221	92211	2139
+2017	6-922110	922110	Courts 	6	92	922	9221	92211	2140
+2017	5-92212	92212	Police Protection 	5	92	922	9221	92212	2141
+2017	6-922120	922120	Police Protection 	6	92	922	9221	92212	2142
+2017	5-92213	92213	Legal Counsel and Prosecution 	5	92	922	9221	92213	2143
+2017	6-922130	922130	Legal Counsel and Prosecution 	6	92	922	9221	92213	2144
+2017	5-92214	92214	Correctional Institutions 	5	92	922	9221	92214	2145
+2017	6-922140	922140	Correctional Institutions 	6	92	922	9221	92214	2146
+2017	5-92215	92215	Parole Offices and Probation Offices 	5	92	922	9221	92215	2147
+2017	6-922150	922150	Parole Offices and Probation Offices 	6	92	922	9221	92215	2148
+2017	5-92216	92216	Fire Protection 	5	92	922	9221	92216	2149
+2017	6-922160	922160	Fire Protection 	6	92	922	9221	92216	2150
+2017	5-92219	92219	"Other Justice, Public Order, and Safety Activities "	5	92	922	9221	92219	2151
+2017	6-922190	922190	"Other Justice, Public Order, and Safety Activities "	6	92	922	9221	92219	2152
+2017	3-923	923	Administration of Human Resource Programs 	3	92	923			2153
+2017	4-9231	9231	Administration of Human Resource Programs 	4	92	923	9231		2154
+2017	5-92311	92311	Administration of Education Programs 	5	92	923	9231	92311	2155
+2017	6-923110	923110	Administration of Education Programs 	6	92	923	9231	92311	2156
+2017	5-92312	92312	Administration of Public Health Programs 	5	92	923	9231	92312	2157
+2017	6-923120	923120	Administration of Public Health Programs 	6	92	923	9231	92312	2158
+2017	5-92313	92313	"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "	5	92	923	9231	92313	2159
+2017	6-923130	923130	"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "	6	92	923	9231	92313	2160
+2017	5-92314	92314	Administration of Veterans' Affairs 	5	92	923	9231	92314	2161
+2017	6-923140	923140	Administration of Veterans' Affairs 	6	92	923	9231	92314	2162
+2017	3-924	924	Administration of Environmental Quality Programs 	3	92	924			2163
+2017	4-9241	9241	Administration of Environmental Quality Programs 	4	92	924	9241		2164
+2017	5-92411	92411	Administration of Air and Water Resource and Solid Waste Management Programs 	5	92	924	9241	92411	2165
+2017	6-924110	924110	Administration of Air and Water Resource and Solid Waste Management Programs 	6	92	924	9241	92411	2166
+2017	5-92412	92412	Administration of Conservation Programs 	5	92	924	9241	92412	2167
+2017	6-924120	924120	Administration of Conservation Programs 	6	92	924	9241	92412	2168
+2017	3-925	925	"Administration of Housing Programs, Urban Planning, and Community Development "	3	92	925			2169
+2017	4-9251	9251	"Administration of Housing Programs, Urban Planning, and Community Development "	4	92	925	9251		2170
+2017	5-92511	92511	Administration of Housing Programs 	5	92	925	9251	92511	2171
+2017	6-925110	925110	Administration of Housing Programs 	6	92	925	9251	92511	2172
+2017	5-92512	92512	Administration of Urban Planning and Community and Rural Development 	5	92	925	9251	92512	2173
+2017	6-925120	925120	Administration of Urban Planning and Community and Rural Development 	6	92	925	9251	92512	2174
+2017	3-926	926	Administration of Economic Programs 	3	92	926			2175
+2017	4-9261	9261	Administration of Economic Programs 	4	92	926	9261		2176
+2017	5-92611	92611	Administration of General Economic Programs 	5	92	926	9261	92611	2177
+2017	6-926110	926110	Administration of General Economic Programs 	6	92	926	9261	92611	2178
+2017	5-92612	92612	Regulation and Administration of Transportation Programs 	5	92	926	9261	92612	2179
+2017	6-926120	926120	Regulation and Administration of Transportation Programs 	6	92	926	9261	92612	2180
+2017	5-92613	92613	"Regulation and Administration of Communications, Electric, Gas, and Other Utilities "	5	92	926	9261	92613	2181
+2017	6-926130	926130	"Regulation and Administration of Communications, Electric, Gas, and Other Utilities "	6	92	926	9261	92613	2182
+2017	5-92614	92614	Regulation of Agricultural Marketing and Commodities 	5	92	926	9261	92614	2183
+2017	6-926140	926140	Regulation of Agricultural Marketing and Commodities 	6	92	926	9261	92614	2184
+2017	5-92615	92615	"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "	5	92	926	9261	92615	2185
+2017	6-926150	926150	"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "	6	92	926	9261	92615	2186
+2017	3-927	927	Space Research and Technology 	3	92	927			2187
+2017	4-9271	9271	Space Research and Technology 	4	92	927	9271		2188
+2017	5-92711	92711	Space Research and Technology 	5	92	927	9271	92711	2189
+2017	6-927110	927110	Space Research and Technology 	6	92	927	9271	92711	2190
+2017	3-928	928	National Security and International Affairs 	3	92	928			2191
+2017	4-9281	9281	National Security and International Affairs 	4	92	928	9281		2192
+2017	5-92811	92811	National Security 	5	92	928	9281	92811	2193
+2017	6-928110	928110	National Security 	6	92	928	9281	92811	2194
+2017	5-92812	92812	International Affairs 	5	92	928	9281	92812	2195
+2017	6-928120	928120	International Affairs 	6	92	928	9281	92812	2196
