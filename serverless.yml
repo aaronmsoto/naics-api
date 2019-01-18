@@ -1,12 +1,11 @@
 type: rest-api-app
 
-custom:
-  defaultRegion: us-east-1
-  defaultStage: test
-  dynamoTable:
-    tblName: naics
-    tblPartKey: NAICSYear
-    tblSortKey: CodeLenAndCode
+# custom:   # ${self:...} doesn't seem to work with ServerlessComponents!
+#   defaultRegion: us-east-1
+#   dynamoTable:
+#     tblName: naics
+#     tblPartKey: NAICSYear
+#     tblSortKey: CodeLenAndCode
 
 components:
   naicsDB:
@@ -14,9 +13,9 @@ components:
     inputs:
       region: us-east-1
       tables:
-        - name: ${self:custom.dynamoTable.tblName}
-          hashKey: ${self:custom.dynamoTable.tblPartKey}
-          rangeKey: ${self:custom.dynamoTable.tblSortKey}
+        - name: naics
+          hashKey: NAICSYear
+          rangeKey: CodeLenAndCode
           schema: 
             NAICSYear: string
             CodeLenAndCode: string
@@ -38,10 +37,10 @@ components:
       handler: naics.get
       root: ./code
       env:
-        REGION: ${self:custom.defaultRegion}
-        TABLE_NAME: ${self:custom.dynamoTable.tblName}
-        TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
-        TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+        REGION: us-east-1
+        TABLE_NAME: naics
+        TABLE_PARTKEY: NAICSYear
+        TABLE_SORTKEY: CodeLenAndCode
   listNAICSCodes:
     type: aws-lambda
     inputs:
@@ -50,10 +49,10 @@ components:
       handler: naics.list
       root: ./code
       env:
-        REGION: ${self:custom.defaultRegion}
-        TABLE_NAME: ${self:custom.dynamoTable.tblName}
-        TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
-        TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+        REGION: us-east-1
+        TABLE_NAME: naics
+        TABLE_PARTKEY: NAICSYear
+        TABLE_SORTKEY: CodeLenAndCode
   naicsApi:
     type: rest-api
     inputs:
