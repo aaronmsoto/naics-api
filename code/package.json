@@ -2,7 +2,7 @@
   "name": "naics-api",
   "version": "0.1.0",
   "description": "A NodeJS-based REST API to query NAICS codes. Currently using only 2017 NAICS code data from census.gov.",
-  "main": "code/naics.js",
+  "main": "naics.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aaronmsoto/naics-api/issues"
   },
-  "homepage": "https://github.com/aaronmsoto/naics-api#readme"
+  "homepage": "https://github.com/aaronmsoto/naics-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.390.0"
+  }
 }

@@ -1,0 +1,70 @@
+type: rest-api-app
+
+### SERVERLESS COMPONENTS VERSION NOT WORKING - USE REGULAR SERVERLESS FRAMEWORK (20190118) ###
+
+# custom:   # ${self:...} doesn't seem to work with ServerlessComponents!
+#   defaultRegion: us-east-1
+#   dynamoTable:
+#     tblName: naics
+#     tblPartKey: NAICSYear
+#     tblSortKey: CodeLenAndCode
+
+components:
+  naicsDB:
+    type: aws-dynamodb
+    inputs:
+      region: us-east-1
+      tables:
+        - name: naics
+          hashKey: NAICSYear
+          rangeKey: CodeLenAndCode
+          schema: 
+            NAICSYear: string
+            CodeLenAndCode: string
+            NAICSCode: string
+            Title: string
+            CodeLen: number
+            Prefix2: string
+            Prefix3: string
+            Prefix4: string
+            Prefix5: string
+            SeqNum: number
+          options:
+            timestamps: true
+  getNAICSCode:
+    type: aws-lambda
+    inputs:
+      memory: 128
+      timeout: 10
+      handler: naics.get
+      root: ./code
+      env:
+        REGION: us-east-1
+        TABLE_NAME: naics
+        TABLE_PARTKEY: NAICSYear
+        TABLE_SORTKEY: CodeLenAndCode
+  listNAICSCodes:
+    type: aws-lambda
+    inputs:
+      memory: 128
+      timeout: 10
+      handler: naics.list
+      root: ./code
+      env:
+        REGION: us-east-1
+        TABLE_NAME: naics
+        TABLE_PARTKEY: NAICSYear
+        TABLE_SORTKEY: CodeLenAndCode
+  naicsApi:
+    type: rest-api
+    inputs:
+      gateway: aws-apigateway
+      routes:
+        /naics/get/{year}/{code}:
+          get:
+            function: ${getNAICSCode}
+            cors: true
+        /naics/list/{year}/{code}:
+          get:
+            function: ${listNAICSCodes}
+            cors: true
