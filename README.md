@@ -1,6 +1,6 @@
 # naics-api
-A NodeJS-based REST API to perform readonly LIST+GET queries on NAICS codes. Currently using only 2017 NAICS code data from census.gov.\
-See: [Census.gov NAICS Info](https://www.census.gov/eos/www/naics/)
+A NodeJS-based REST API to perform readonly LIST+GET queries on NAICS codes. Currently using only 2017 NAICS code data from the US Census.\
+See: [Census.gov NAICS Info](https://www.census.gov/eos/www/naics/)\
 See: [SICCODE.com NAICS Web Interface](https://siccode.com/en/naicscode/list/directory)
 
 ## Project Structure
@@ -13,11 +13,13 @@ This project is built with the following tools...
 * [AWS API Gateway, Lambda, and DynamoDb](https://aws.amazon.com): All defined and provisioned via the /src/serverless.yml file.
 
 ## QA/Test API
-**LIST Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/list/{year}/{code?}\
+_These endpoints are for QA/testing and may change at any time - do not use for production._
+
+**LIST Codes Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/list/{year}/{code?}\
 **year**: REQUIRED. Currently only 2017 is supported so always use that.\
 **code**: OPTIONAL. Omit to list root industries or include a prefix to list child industries.
 
-**GET Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/get/{year}/{code}\
+**GET Code Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/get/{year}/{code}\
 **year**: REQUIRED. Currently only 2017 is supported so always use that.\
 **code**: REQUIRED. The code that you want to get.
 
