@@ -34,7 +34,7 @@ function getHttpResponse(code, body) {
     * @param bool $doLogParams - optional bool=true to log the params result before returning.
     * @return string - the params object result.
 */
-function getDynamoParams(tblName, keyName, keyValue, sortName, sortOperator, sortValue, doLogParams) {
+function getDynamoParams(tblName, keyName, keyValue, sortName, sortOperator, sortValue, lsiName, doLogParams) {
     let params = {
       TableName: tblName,
       KeyConditionExpression: "#keyName = :keyValue",
@@ -45,6 +45,9 @@ function getDynamoParams(tblName, keyName, keyValue, sortName, sortOperator, sor
         ":keyValue": keyValue
       }
     };
+    if(lsiName) {
+      params.IndexName = lsiName;
+    }
     if(sortName && sortOperator && sortValue) {
       if(sortOperator.toLowerCase() === "begins_with") {
         params.KeyConditionExpression += " and begins_with(#sortName, :sortValue)";

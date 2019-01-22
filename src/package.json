@@ -12,11 +12,14 @@
   },
   "author": "@aaronmsoto",
   "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.391.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^4.1.4"
+  },
   "bugs": {
     "url": "https://github.com/aaronmsoto/naics-api/issues"
   },
-  "homepage": "https://github.com/aaronmsoto/naics-api#readme",
-  "dependencies": {
-    "aws-sdk": "^2.390.0"
-  }
+  "homepage": "https://github.com/aaronmsoto/naics-api#readme"
 }

@@ -1,0 +1,115 @@
+service: naics-api
+
+custom:
+  defaultRegion: us-east-1
+  defaultStage: test
+  profiles:
+    test: ap-serverless-staging
+    prod: ap-serverless-admin
+  dynamoTable:
+    tblName: naics
+    tblPartKey: NAICSYear
+    tblPartType: S
+    tblSortKey: CurrLevelAndNextPrefixAndCode
+    tblSortType: S
+    tblLSIName: NAICSCodeLSI
+    tblLSIProp: NAICSCode
+    tblLSIType: S
+    # tblRCU: 1
+    # tblWCU: 1   # SWITCHED TO ON-DEMAND BILLING
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  region: ${opt:region, self:custom.defaultRegion}
+  stage: ${opt:stage, self:custom.defaultStage}
+  profile: ${self:custom.profiles.${self:provider.stage}}
+  iamRoleStatements:
+    - Effect: 'Allow'
+      Action:
+        - "dynamodb:GetItem"
+        - "dynamodb:GetRecords"
+        - "dynamodb:Query"
+      Resource:
+        - { "Fn::Join" : ["", ["arn:aws:dynamodb:${self:provider.region}:", { "Ref" : "AWS::AccountId" }, ":table/${self:custom.dynamoTable.tblName}*" ] ] }
+    
+plugins:
+  - serverless-offline
+
+functions:
+  getNAICSCode:
+    handler: naics.get
+    memorySize: 128
+    timeout: 10
+    environment:
+      REGION: ${self:custom.defaultRegion}
+      STAGE: ${self:custom.defaultStage}
+      TABLE_NAME: ${self:custom.dynamoTable.tblName}
+      TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
+      TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+      TABLE_LSINAME: ${self:custom.dynamoTable.tblLSIName}
+      TABLE_LSIPROP: ${self:custom.dynamoTable.tblLSIProp}
+    events:
+      - http:
+          path: naics/get/{year}/{code}
+          method: get
+          cors: true
+  listNAICSCodes:
+    handler: naics.list
+    memorySize: 128
+    timeout: 10
+    environment:
+      REGION: ${self:custom.defaultRegion}
+      STAGE: ${self:custom.defaultStage}
+      TABLE_NAME: ${self:custom.dynamoTable.tblName}
+      TABLE_PARTKEY: ${self:custom.dynamoTable.tblPartKey}
+      TABLE_SORTKEY: ${self:custom.dynamoTable.tblSortKey}
+    events:
+      - http:
+          path: naics/list/{year}
+          method: get
+          cors: true
+      - http:
+          path: naics/list/{year}/{code}
+          method: get
+          cors: true
+
+resources:
+  Resources:
+    naicsDDB:
+      Type: 'AWS::DynamoDB::Table'
+      Properties:
+        TableName: "${self:custom.dynamoTable.tblName}"
+        AttributeDefinitions:
+          -
+            AttributeName: "${self:custom.dynamoTable.tblPartKey}"
+            AttributeType: "${self:custom.dynamoTable.tblPartType}"
+          -
+            AttributeName: "${self:custom.dynamoTable.tblSortKey}"
+            AttributeType: "${self:custom.dynamoTable.tblSortType}"
+          -
+            AttributeName: "${self:custom.dynamoTable.tblLSIProp}"
+            AttributeType: "${self:custom.dynamoTable.tblLSIType}"
+        KeySchema:
+          -
+            AttributeName: "${self:custom.dynamoTable.tblPartKey}"
+            KeyType: "HASH"
+          -
+            AttributeName: "${self:custom.dynamoTable.tblSortKey}"
+            KeyType: "RANGE"
+        LocalSecondaryIndexes:
+          -
+            IndexName: "${self:custom.dynamoTable.tblLSIName}"
+            Projection:
+              ProjectionType: "ALL"
+            KeySchema:
+              -
+                AttributeName: "${self:custom.dynamoTable.tblPartKey}"
+                KeyType: "HASH"
+              -
+                AttributeName: "${self:custom.dynamoTable.tblLSIProp}"
+                KeyType: "RANGE"
+        BillingMode: "PAY_PER_REQUEST"
+        # ProvisionedThroughput:
+        #   ReadCapacityUnits: "${self:custom.dynamoTable.tblRCU}"
+        #   WriteCapacityUnits: "${self:custom.dynamoTable.tblWCU}"   # SWITCHED TO ON-DEMAND BILLING
