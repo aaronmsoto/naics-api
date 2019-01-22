@@ -15,11 +15,11 @@ This project is built with the following tools...
 ## QA/Test API
 _These endpoints are for QA/testing and may change at any time - do not use for production._
 
-**LIST Codes Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/list/{year}/{code?}\
+**LIST Codes Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/list/{year}/{code?} \
 **year**: REQUIRED. Currently only 2017 is supported so always use that.\
 **code**: OPTIONAL. Omit to list root industries or include a prefix to list child industries.
 
-**GET Code Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/get/{year}/{code}\
+**GET Code Endpoint:** https://itoq6b7hcl.execute-api.us-east-1.amazonaws.com/test/naics/get/{year}/{code} \
 **year**: REQUIRED. Currently only 2017 is supported so always use that.\
 **code**: REQUIRED. The code that you want to get.
 
