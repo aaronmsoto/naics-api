@@ -16,10 +16,12 @@ parser = parse({
     columns: true,
     delimiter: '\t'
 }, function(err, data) {
-    var split_arrays = [], batchSize = 25;
+    //console.log(data); return;
+    var split_arrays = [];
+    var batchSize = 1;    //NOTE!!! Support to be 25, but I was randomly missing rows using values other than 1. :/
 
+    //for(var rowIndex = 0; rowIndex < data.length; rowIndex++) {
     while (data.length > 0) {
-
         let currBatch = data.splice(0, batchSize)
         let item_data = []
 
