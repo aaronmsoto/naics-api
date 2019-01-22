@@ -10,7 +10,7 @@ CurrLevelAndNextPrefixAndCode (SortKey)\
 SeqNum\
 NAICSCode (Local Secondary Index)\
 Title\
-CodeAndTitle (eg: "238220: Plumbing, Heating, and Air-Conditioning Contractors")\
+CodeAndTitle (eg: "238220: Plumbing, Heating, and Air-Conditioning Contractors")
 
 ## Importing Data to DynamoDB
 If you want to host this data yourself, use the following command inside this data folder:
@@ -19,12 +19,12 @@ If you want to host this data yourself, use the following command inside this da
 ### Parameters
 region: Default => us-east-1 (OPTIONAL)\
 filename: Default => ./NAICS_Codes.txt (OPTIONAL)\
-tablename: Default => naics (OPTIONAL)\
+tablename: Default => naics (OPTIONAL)
 
 ### Examples
-`node dynamodb-bulkwriteitem.js`
-`node dynamodb-bulkwriteitem.js us-west-2`
-`node dynamodb-bulkwriteitem.js us-west-2 ./NAICS_Codes_2012.txt`
+`node dynamodb-bulkwriteitem.js`\
+`node dynamodb-bulkwriteitem.js us-west-2`\
+`node dynamodb-bulkwriteitem.js us-west-2 ./NAICS_Codes_2012.txt`\
 `node dynamodb-bulkwriteitem.js us-west-2 ./NAICS_Codes_2012.txt naics`
 
 ### NOTE:
